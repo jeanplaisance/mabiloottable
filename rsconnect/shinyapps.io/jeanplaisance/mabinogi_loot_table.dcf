@@ -1,0 +1,13 @@
+name: mabinogi_loot_table
+title:
+username:
+account: jeanplaisance
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 261933
+bundleId: 1193312
+url: https://jeanplaisance.shinyapps.io/mabinogi_loot_table/
+when: 1516919883.14965
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: workspace.RData|Mabinogi Data Backups/370036b72f.png|Mabinogi Data Backups/itemdb.xml|Mabinogi Data Backups/itemdroptype.json|Mabinogi Data Backups/optionset.xml|Mabinogi Data Backups/shadowmissionitemdroptable.xml

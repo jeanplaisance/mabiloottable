@@ -1,0 +1,1442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<itemdroptable>
+
+  <type id="813">
+    <locale name="japan">
+      <level value="1">
+        <item rate="1000000" drop="(id:65014 count:2);(id:65009);(id:65010 count:2);(id:65006 crystal_level:4 crystal_charge:5 count:1);(id:65008 crystal_level:4 crystal_charge:5 count:1)"/>
+        <item rate="200000" drop="(id:16009 suffix:10805);(id:16009 prefix:21408);(id:40258 prefix:21412);(id:40258 prefix:20301);(id:15003 suffix30106);(id:65029)"/>
+        <item rate="0" drop=""/>
+      </level>
+      <level value="2">
+        <item rate="1000000" drop="(id:65015 count:2);(id:65009);(id:65010 count:2);(id:65006 crystal_level:8 crystal_charge:5 count:1);(id:65008 crystal_level:8 crystal_charge:5 count:1)"/>
+        <item rate="200000" drop="(id:16009 suffix:10805);(id:16009 prefix:21408);(id:40258 prefix:21412);(id:40258 prefix:20301);(id:40258 suffix:30627);(id:65029)"/>
+        <item rate="20000" drop="(id:40258 prefix:20713)"/>
+      </level>
+      <level value="3">
+        <item rate="1000000" drop="(id:65016 count:1);(id:65009);(id:65010 count:2);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65008 crystal_level:12 crystal_charge:5 count:1)"/>
+        <item rate="300000" drop="(id:16009 suffix:10805);(id:16009 prefix:21408);(id:40258 prefix:21412);(id:40258 prefix:20301);(id:40258 suffix:30627);(id:65029)"/>
+        <item rate="40000" drop="(id:40258 prefix:20713);(id:17139)"/>
+      </level>
+      <level value="4">
+        <item rate="1000000" drop="(id:65016 count:1);(id:65009);(id:65010 count:2);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65008 crystal_level:12 crystal_charge:5 count:1)"/>
+        <item rate="300000" drop="(id:16009 suffix:10805);(id:16009 prefix:21408);(id:40258 prefix:21412);(id:40258 prefix:20301);(id:40258 suffix:30627);(id:65029)"/>
+        <item rate="80000" drop="(id:40258 prefix:20713);(id:17139)"/>
+      </level>
+    </locale>
+    <season version="901">
+      <level value="1">
+        <item rate="1000000" drop="(id:65014 count:2);(id:65009);(id:65010 count:2);(id:65006 crystal_level:4 crystal_charge:5 count:1);(id:65008 crystal_level:4 crystal_charge:5 count:1)"/>
+        <item rate="200000" drop="(id:16009 suffix:10805);(id:16009 prefix:21408);(id:40258 prefix:21412);(id:40258 prefix:20301);(id:15003 suffix30106);(id:65029)"/>
+        <item rate="0" drop=""/>
+      </level>
+      <level value="2">
+        <item rate="1000000" drop="(id:65009);(id:65010 count:2);(id:65006 crystal_level:8 crystal_charge:5 count:1);(id:65008 crystal_level:8 crystal_charge:5 count:1)"/>
+        <item rate="200000" drop="(id:16009 suffix:10805);(id:16009 prefix:21408);(id:40258 prefix:21412);(id:40258 prefix:20301);(id:40258 suffix:30627);(id:65029)"/>
+        <item rate="20000" drop="(id:40258 prefix:20713);(id:65015 count:1)"/>
+      </level>
+      <level value="3">
+        <item rate="1000000" drop="(id:65009);(id:65010 count:2);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65008 crystal_level:12 crystal_charge:5 count:1)"/>
+        <item rate="300000" drop="(id:16009 suffix:10805);(id:16009 prefix:21408);(id:40258 prefix:21412);(id:40258 prefix:20301);(id:40258 suffix:30627);(id:65029)"/>
+        <item rate="40000" drop="(id:40258 prefix:20713);(id:18567);(id:65016)"/>
+      </level>
+      <level value="4">
+        <item rate="1000000" drop="(id:65009);(id:65010 count:2);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65008 crystal_level:12 crystal_charge:5 count:1)"/>
+        <item rate="300000" drop="(id:16009 suffix:10805);(id:16009 prefix:21408);(id:40258 prefix:21412);(id:40258 prefix:20301);(id:40258 suffix:30627);(id:65029)"/>
+        <item rate="80000" drop="(id:40258 prefix:20713);(id:18567);(id:65016)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+
+  <!-- 미션 보상  2번 타입 비교적 빨리 끝나는 미션 전용 : 충돌, 호수, 암석, 점령전2 -->
+  <type id="814">
+    <locale name="japan">
+      <level value="1">
+        <item rate="1000000" drop="(id:65014 count:2);(id:65009);(id:65010 count:2);(id:65006 crystal_level:4 crystal_charge:5 count:1);(id:65008 crystal_level:4 crystal_charge:5 count:1)"/>
+        <item rate="200000" drop="(id:40258 suffix:30905);(id:40020 prefix:20201);(id:40020 prefix:20301 suffix:30311);(id:65029)"/>
+        <item rate="0" drop=""/>
+      </level>
+      <level value="2">
+        <item rate="1000000" drop="(id:65015);(id:65009);(id:65010 count:2);(id:65006 crystal_level:8 crystal_charge:5 count:1);(id:65008 crystal_level:8 crystal_charge:5 count:1)"/>
+        <item rate="200000" drop="(id:40258 suffix:30905);(id:40020 prefix:20201);(id:40020 prefix:20301 suffix:30311);(id:65029)"/>
+        <item rate="4000" drop="(id:40258 suffix:31401);(id:40258 prefix:21409)"/>
+      </level>
+      <level value="3">
+        <item rate="1000000" drop="(id:65016 count:1);(id:65009);(id:65010 count:2);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65008 crystal_level:12 crystal_charge:5 count:1)"/>
+        <item rate="300000" drop="(id:40258 suffix:30905);(id:40020 prefix:20201);(id:40020 prefix:20301 suffix:30311);(id:40020 prefix:20301 suffix:30311);(id:65029)"/>
+        <item rate="8000" drop="(id:40258 suffix:31401);(id:62005 suffix:30919);(id:15352);(id:40258 prefix:21409);(id:40081 quality:90)"/>
+      </level>
+      <level value="4">
+        <item rate="1000000" drop="(id:65016 count:1);(id:65009);(id:65010 count:2);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65008 crystal_level:12 crystal_charge:5 count:1)"/>
+        <item rate="300000" drop="(id:40258 suffix:30905);(id:40020 prefix:20201);(id:40020 prefix:20301 suffix:30311);(id:40020 prefix:20301 suffix:30311);(id:65029)"/>
+        <item rate="16000" drop="(id:40258 suffix:31401);(id:62005 suffix:30919);(id:15352);(id:40258 prefix:21409);(id:40081 quality:90)"/>
+      </level>
+    </locale>
+    <season version="901">
+      <level value="1">
+        <item rate="1000000" drop="(id:65014 count:2);(id:65009);(id:65010 count:2);(id:65006 crystal_level:4 crystal_charge:5 count:1);(id:65008 crystal_level:4 crystal_charge:5 count:1)"/>
+        <item rate="200000" drop="(id:40258 suffix:30905);(id:40020 prefix:20201);(id:40020 prefix:20301 suffix:30311);(id:65029)"/>
+        <item rate="0" drop=""/>
+      </level>
+      <level value="2">
+        <item rate="1000000" drop="(id:65009);(id:65010 count:2);(id:65006 crystal_level:8 crystal_charge:5 count:1);(id:65008 crystal_level:8 crystal_charge:5 count:1)"/>
+        <item rate="200000" drop="(id:40258 suffix:30905);(id:40020 prefix:20201);(id:40020 prefix:20301 suffix:30311);(id:65029)"/>
+        <item rate="4000" drop="(id:40258 suffix:31401);(id:40258 prefix:21409);(id:65015)"/>
+      </level>
+      <level value="3">
+        <item rate="1000000" drop="(id:65009);(id:65010 count:2);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65008 crystal_level:12 crystal_charge:5 count:1)"/>
+        <item rate="300000" drop="(id:40258 suffix:30905);(id:40020 prefix:20201);(id:40020 prefix:20301 suffix:30311);(id:40020 prefix:20301 suffix:30311);(id:65029)"/>
+        <item rate="8000" drop="(id:40258 suffix:31401);(id:62005 suffix:30919);(id:15361);(id:40258 prefix:21409);(id:40081 quality:90);(id:65016 count:1)"/>
+      </level>
+      <level value="4">
+        <item rate="1000000" drop="(id:65009);(id:65010 count:2);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65008 crystal_level:12 crystal_charge:5 count:1)"/>
+        <item rate="300000" drop="(id:40258 suffix:30905);(id:40020 prefix:20201);(id:40020 prefix:20301 suffix:30311);(id:40020 prefix:20301 suffix:30311);(id:65029)"/>
+        <item rate="16000" drop="(id:40258 suffix:31401);(id:62005 suffix:30919);(id:15361);(id:40258 prefix:21409);(id:40081 quality:90);(id:65016 count:1)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 미션 보상  3번 타입 : 정찰병구출,  커맨더퇴치2  -->
+  <type id="815">
+    <season version="901">
+      <level value="1">
+        <item rate="1000000" drop="(id:65014 count:2);(id:65009);(id:65010 count:2);(id:65006 crystal_level:4 crystal_charge:5 count:1);(id:65008 crystal_level:4 crystal_charge:5 count:1)"/>
+        <item rate="200000" drop="(id:40022 suffix:30104);(id:40022 prefix:306);(id:40022 prefix:21412);(id:16009 prefix:21412);(id:16009 suffix:30701);(id:65029)"/>
+        <item rate="0" drop=""/>
+      </level>
+      <level value="2">
+        <item rate="1000000" drop="(id:65009);(id:65010 count:2);(id:65006 crystal_level:8 crystal_charge:5 count:1);(id:65008 crystal_level:8 crystal_charge:5 count:1)"/>
+        <item rate="200000" drop="(id:40022 suffix:30104);(id:40022 prefix:306);(id:40022 prefix:21412);(id:16009 prefix:21412);(id:16009 suffix:30701);(id:40022 prefix:21410);(id:65029)"/>
+        <item rate="20000" drop="(id:40258 suffix:30901);(id:40006 quality:80);(id:62005 prefix:21106);(id:40258 prefix:21411);(id:65015)"/>
+      </level>
+      <level value="3">
+        <item rate="1000000" drop="(id:65009);(id:65010 count:2);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65008 crystal_level:12 crystal_charge:5 count:1)"/>
+        <item rate="200000" drop="(id:40022 suffix:30104);(id:40022 prefix:306);(id:40022 prefix:21412);(id:65029);(id:16009 prefix:21412);(id:16009 suffix:30701);(id:40022 prefix:21410);(id:65029)"/>
+        <item rate="50000" drop="(id:40258 suffix:30901);(id:62005 prefix:21106);(id:40258 suffix:30604);(id:40258 prefix:21411);(id:40178 quality:80);(id:65016 count:1)"/>
+      </level>
+      <level value="4">
+        <item rate="1000000" drop="(id:65009);(id:65010 count:2);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65008 crystal_level:12 crystal_charge:5 count:1)"/>
+        <item rate="200000" drop="(id:40022 suffix:30104);(id:40022 prefix:306);(id:40022 prefix:21412);(id:65029);(id:16009 prefix:21412);(id:16009 suffix:30701);(id:40022 prefix:21410);(id:65029)"/>
+        <item rate="100000" drop="(id:40258 suffix:30901);(id:62005 prefix:21106);(id:40258 suffix:30604);(id:40258 prefix:21411);(id:40178 quality:80);(id:65016 count:1)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 미션 보상  4번 타입 : 위자드 퇴치 -->
+  <type id="816">
+    <locale name="japan">
+      <season version="1101">
+        <level value="1">
+          <item rate="1000000" drop="(id:65014 count:2);(id:65009);(id:65010 count:2);(id:65006 crystal_level:4 crystal_charge:5 count:1);(id:65008 crystal_level:4 crystal_charge:5 count:1)"/>
+          <item rate="210000" drop="(id:40023 prefix:21408);(id:40023 prefix:20201);(id:40023 prefix:20301 suffix:30311);(id:65029);(id:16009 suffix:30601);(id:16009 suffix:30105);(id:64597 suffix:40087)"/>
+          <item rate="20000" drop="(id:40242 quality:60);(id:40258 prefix:21407)"/>
+        </level>
+        <level value="2">
+          <item rate="1000000" drop="(id:65009);(id:65010 count:2);(id:65006 crystal_level:8 crystal_charge:5 count:1);(id:65008 crystal_level:8 crystal_charge:5 count:1)"/>
+          <item rate="210000" drop="(id:40023 prefix:21408);(id:40023 prefix:20201);(id:40023 prefix:20301 suffix:30311);(id:16009 suffix:30602);(id:16009 suffix:30622);(id:16009 suffix:30105);(id:64597 suffix:40087)"/>
+          <item rate="40000" drop="(id:40242 quality:75);(id:40258 prefix:21407);(id:40241 prefix:21411);(id:65015)"/>
+        </level>
+        <level value="3">
+          <item rate="1000000" drop="(id:65009);(id:65010 count:2);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65008 crystal_level:12 crystal_charge:5 count:1)"/>
+          <item rate="200000" drop="(id:40023 prefix:21408);(id:40023 prefix:20201);(id:40023 prefix:20301 suffix:30311);(id:16009 suffix:30602);(id:16009 prefix:21412);(id:16009 suffix:30105);(id:64597 suffix:40087)"/>
+          <item rate="100000" drop="(id:40258 prefix:21407);(id:15353);(id:40242 quality:90);(id:40241 prefix:21411);(id:65016 count:1)"/>
+        </level>
+        <level value="4">
+          <item rate="1000000" drop="(id:65009);(id:65010 count:2);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65008 crystal_level:12 crystal_charge:5 count:1)"/>
+          <item rate="200000" drop="(id:40023 prefix:21408);(id:40023 prefix:20201);(id:40023 prefix:20301 suffix:30311);(id:16009 suffix:30602);(id:16009 prefix:21412);(id:16009 suffix:30105);(id:64597 suffix:40087)"/>
+          <item rate="200000" drop="(id:40258 prefix:21407);(id:15353);(id:40242 quality:90);(id:40241 prefix:21411);(id:65016 count:1)"/>
+        </level>
+      </season>
+      <season version="901">
+        <level value="1">
+          <item rate="1000000" drop="(id:65014 count:2);(id:65009);(id:65010 count:2);(id:65006 crystal_level:4 crystal_charge:5 count:1);(id:65008 crystal_level:4 crystal_charge:5 count:1)"/>
+          <item rate="200000" drop="(id:40023 prefix:21408);(id:40023 prefix:20201);(id:40023 prefix:20301 suffix:30311);(id:65029);(id:16009 suffix:30601);(id:16009 suffix:30105);(id:65029)"/>
+          <item rate="20000" drop="(id:40242 quality:60);(id:40258 prefix:21407)"/>
+        </level>
+        <level value="2">
+          <item rate="1000000" drop="(id:65009);(id:65010 count:2);(id:65006 crystal_level:8 crystal_charge:5 count:1);(id:65008 crystal_level:8 crystal_charge:5 count:1)"/>
+          <item rate="200000" drop="(id:40023 prefix:21408);(id:40023 prefix:20201);(id:40023 prefix:20301 suffix:30311);(id:16009 suffix:30602);(id:16009 suffix:30622);(id:16009 suffix:30105);(id:16009 prefix:21412);(id:65029)"/>
+          <item rate="40000" drop="(id:40242 quality:75);(id:40258 prefix:21407);(id:40241 prefix:21411);(id:65015)"/>
+        </level>
+        <level value="3">
+          <item rate="1000000" drop="(id:65016 count:1);(id:65009);(id:65010 count:2);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65008 crystal_level:12 crystal_charge:5 count:1)"/>
+          <item rate="200000" drop="(id:40023 prefix:21408);(id:40023 prefix:20201);(id:40023 prefix:20301 suffix:30311);(id:16009 suffix:30602);(id:16009 suffix:30622);(id:16009 prefix:21412);(id:65029);(id:16009 suffix:30105);"/>
+          <item rate="100000" drop="(id:40258 prefix:21407);(id:15353);(id:40242 quality:90);(id:40241 prefix:21411)"/>
+        </level>
+        <level value="4">
+          <item rate="1000000" drop="(id:65016 count:1);(id:65009);(id:65010 count:2);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65008 crystal_level:12 crystal_charge:5 count:1)"/>
+          <item rate="200000" drop="(id:40023 prefix:21408);(id:40023 prefix:20201);(id:40023 prefix:20301 suffix:30311);(id:16009 suffix:30602);(id:16009 suffix:30622);(id:16009 prefix:21412);(id:65029);(id:16009 suffix:30105);"/>
+          <item rate="200000" drop="(id:40258 prefix:21407);(id:15353);(id:40242 quality:90);(id:40241 prefix:21411)"/>
+        </level>
+      </season>
+    </locale>
+    <season version="1101">
+      <level value="1">
+        <item rate="1000000" drop="(id:65014 count:2);(id:65009);(id:65010 count:2);(id:65006 crystal_level:4 crystal_charge:5 count:1);(id:65008 crystal_level:4 crystal_charge:5 count:1)"/>
+        <item rate="210000" drop="(id:40023 prefix:21408);(id:40023 prefix:20201);(id:40023 prefix:20301 suffix:30311);(id:65029);(id:16009 suffix:30601);(id:16009 suffix:30105);(id:64597 suffix:40087)"/>
+        <item rate="20000" drop="(id:40242 quality:60);(id:40258 prefix:21407)"/>
+      </level>
+      <level value="2">
+        <item rate="1000000" drop="(id:65009);(id:65010 count:2);(id:65006 crystal_level:8 crystal_charge:5 count:1);(id:65008 crystal_level:8 crystal_charge:5 count:1)"/>
+        <item rate="210000" drop="(id:40023 prefix:21408);(id:40023 prefix:20201);(id:40023 prefix:20301 suffix:30311);(id:16009 suffix:30602);(id:16009 suffix:30622);(id:16009 suffix:30105);(id:64597 suffix:40087)"/>
+        <item rate="40000" drop="(id:40242 quality:75);(id:40258 prefix:21407);(id:40241 prefix:21411);(id:65015)"/>
+      </level>
+      <level value="3">
+        <item rate="1000000" drop="(id:65009);(id:65010 count:2);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65008 crystal_level:12 crystal_charge:5 count:1)"/>
+        <item rate="200000" drop="(id:40023 prefix:21408);(id:40023 prefix:20201);(id:40023 prefix:20301 suffix:30311);(id:16009 suffix:30602);(id:16009 prefix:21412);(id:16009 suffix:30105);(id:64597 suffix:40087)"/>
+        <item rate="100000" drop="(id:40258 prefix:21407);(id:15360);(id:40242 quality:90);(id:40241 prefix:21411);(id:65016 count:1)"/>
+      </level>
+      <level value="4">
+        <item rate="1000000" drop="(id:65009);(id:65010 count:2);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65008 crystal_level:12 crystal_charge:5 count:1)"/>
+        <item rate="200000" drop="(id:40023 prefix:21408);(id:40023 prefix:20201);(id:40023 prefix:20301 suffix:30311);(id:16009 suffix:30602);(id:16009 prefix:21412);(id:16009 suffix:30105);(id:64597 suffix:40087)"/>
+        <item rate="200000" drop="(id:40258 prefix:21407);(id:15360);(id:40242 quality:90);(id:40241 prefix:21411);(id:65016 count:1)"/>
+      </level>
+    </season>
+    <season version="901">
+      <level value="1">
+        <item rate="1000000" drop="(id:65014 count:2);(id:65009);(id:65010 count:2);(id:65006 crystal_level:4 crystal_charge:5 count:1);(id:65008 crystal_level:4 crystal_charge:5 count:1)"/>
+        <item rate="210000" drop="(id:40023 prefix:21408);(id:40023 prefix:20201);(id:40023 prefix:20301 suffix:30311);(id:65029);(id:16009 suffix:30601);(id:16009 suffix:30105)"/>
+        <item rate="20000" drop="(id:40242 quality:60);(id:40258 prefix:21407)"/>
+      </level>
+      <level value="2">
+        <item rate="1000000" drop="(id:65009);(id:65010 count:2);(id:65006 crystal_level:8 crystal_charge:5 count:1);(id:65008 crystal_level:8 crystal_charge:5 count:1)"/>
+        <item rate="210000" drop="(id:40023 prefix:21408);(id:40023 prefix:20201);(id:40023 prefix:20301 suffix:30311);(id:16009 suffix:30602);(id:16009 suffix:30622);(id:16009 suffix:30105)"/>
+        <item rate="40000" drop="(id:40242 quality:75);(id:40258 prefix:21407);(id:40241 prefix:21411);(id:65015)"/>
+      </level>
+      <level value="3">
+        <item rate="1000000" drop="(id:65009);(id:65010 count:2);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65008 crystal_level:12 crystal_charge:5 count:1)"/>
+        <item rate="200000" drop="(id:40023 prefix:21408);(id:40023 prefix:20201);(id:40023 prefix:20301 suffix:30311);(id:16009 suffix:30602);(id:16009 prefix:21412);(id:16009 suffix:30105)"/>
+        <item rate="100000" drop="(id:40258 prefix:21407);(id:15360);(id:40242 quality:90);(id:40241 prefix:21411);(id:65016 count:1)"/>
+      </level>
+      <level value="4">
+        <item rate="1000000" drop="(id:65009);(id:65010 count:2);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65008 crystal_level:12 crystal_charge:5 count:1)"/>
+        <item rate="200000" drop="(id:40023 prefix:21408);(id:40023 prefix:20201);(id:40023 prefix:20301 suffix:30311);(id:16009 suffix:30602);(id:16009 prefix:21412);(id:16009 suffix:30105)"/>
+        <item rate="200000" drop="(id:40258 prefix:21407);(id:15360);(id:40242 quality:90);(id:40241 prefix:21411);(id:65016 count:1)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 미션 보상 5번 타입 : 제물 약 20분 -->
+  <type id="820">
+    <season version="902">
+      <level value="1">
+        <item rate="1000000" drop="(id:65014 count:2);(id:65009);(id:65010 count:2);(id:65006 crystal_level:4 crystal_charge:5 count:1);(id:65008 crystal_level:4 crystal_charge:5 count:1)"/>
+        <item rate="200000" drop="(id:65029);(id:40005 prefix:207);(id:40005 prefix:7);(id:40006 suffix:11106);(id:40006 suffix:11107);(id:16012 suffix:11008);(id:16013 suffix:30601);(id:65029)"/>
+        <item rate="20000" drop="(id:40243 quality:60);(id:18045 prefix:20509)"/>
+      </level>
+      <level value="2">
+        <item rate="1000000" drop="(id:65009);(id:65010 count:2);(id:65006 crystal_level:8 crystal_charge:5 count:1);(id:65008 crystal_level:8 crystal_charge:5 count:1)"/>
+        <item rate="200000" drop="(id:65029);(id:40005 prefix:207);(id:40005 prefix:7);(id:40006 suffix:11106);(id:40006 suffix:11107);(id:16012 suffix:11008);(id:16013 suffix:30601);(id:17138 suffix:30526);(id:65029)"/>
+        <item rate="20000" drop="(id:40243 quality:75);(id:18045 prefix:20509);(id:17138 suffix:30635);(id:16005 prefix:20627);(id:65015)"/>
+      </level>
+      <level value="3">
+        <item rate="1000000" drop="(id:65009);(id:65010 count:2);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65008 crystal_level:12 crystal_charge:5 count:1)"/>
+        <item rate="200000" drop="(id:65029);(id:40005 prefix:207);(id:40005 prefix:7);(id:40006 suffix:11106);(id:40006 suffix:11107);(id:16012 suffix:11008);(id:16013 suffix:30601);(id:17138 suffix:30526);(id:65029)"/>
+        <item rate="30000" drop="(id:40243 quality:95);(id:18045 prefix:20509);(id:17138 suffix:30635);(id:16005 prefix:20627);(id:15351 suffix:31304);(id:40242 suffix:31103);(id:15374);(id:65016 count:1)"/>
+      </level>
+      <level value="4">
+        <item rate="1000000" drop="(id:65009);(id:65010 count:2);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65008 crystal_level:12 crystal_charge:5 count:1)"/>
+        <item rate="200000" drop="(id:65029);(id:40005 prefix:207);(id:40005 prefix:7);(id:40006 suffix:11106);(id:40006 suffix:11107);(id:16012 suffix:11008);(id:16013 suffix:30601);(id:17138 suffix:30526);(id:65029)"/>
+        <item rate="60000" drop="(id:40243 quality:95);(id:18045 prefix:20509);(id:17138 suffix:30635);(id:16005 prefix:20627);(id:15351 suffix:31304);(id:40242 suffix:31103);(id:15374);(id:65016 count:1)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 미션 보상 6번 타입 : 도발 약 20분, 방어전 -->
+  <type id="821">
+    <season version="1101">
+      <level value="1">
+        <item rate="1000000" drop="(id:65014 count:2);(id:65009);(id:65010 count:2);(id:65006 crystal_level:4 crystal_charge:5 count:1);(id:65008 crystal_level:4 crystal_charge:5 count:1)"/>
+        <item rate="200000" drop="(id:65029);(id:18020 prefix:20105);(id:18021 suffix:30104);(id:40258 suffix:30107);(id:40006 suffix:30106);(id:18000 suffix:30601);(id:62005 suffix:30105)"/>
+        <item rate="8000" drop="(id:62005 prefix:21009);(id:40258 prefix:21009)"/>
+      </level>
+      <level value="2">
+        <item rate="1000000" drop="(id:65009);(id:65010 count:2);(id:65006 crystal_level:8 crystal_charge:5 count:1);(id:65008 crystal_level:8 crystal_charge:5 count:1)"/>
+        <item rate="200000" drop="(id:65029);(id:18020 prefix:20105);(id:18021 suffix:30104);(id:40258 suffix:30107);(id:40006 suffix:30106);(id:18000 suffix:30601);(id:62005 suffix:30105);(id:16006 suffix:30526);(id:62005 prefix:20727)"/>
+        <item rate="20000" drop="(id:62005 prefix:21009);(id:40258 prefix:21009);(id:40079 suffix:30919);(id:64591 suffix:40081);(id:65015)"/>
+      </level>
+      <level value="3">
+        <item rate="1000000" drop="(id:65009);(id:65010 count:2);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65008 crystal_level:12 crystal_charge:5 count:1)"/>
+        <item rate="200000" drop="(id:65029);(id:18020 prefix:20105);(id:18021 suffix:30104);(id:40258 suffix:30107);(id:40006 suffix:30106);(id:18000 suffix:30601);(id:62005 suffix:30105);(id:16006 suffix:30526);(id:62005 prefix:20727);(id:64591 suffix:40081)"/>
+        <item rate="30000" drop="(id:62005 prefix:21009);(id:40258 prefix:21009);(id:40079 suffix:30919);(id:40241 suffix:31017 quality:45);(id:40240 quality:95);(id:15381);(id:65016 count:1)"/>
+      </level>
+      <level value="4">
+        <item rate="1000000" drop="(id:65009);(id:65010 count:2);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65008 crystal_level:12 crystal_charge:5 count:1)"/>
+        <item rate="200000" drop="(id:65029);(id:18020 prefix:20105);(id:18021 suffix:30104);(id:40258 suffix:30107);(id:40006 suffix:30106);(id:18000 suffix:30601);(id:62005 suffix:30105);(id:16006 suffix:30526);(id:62005 prefix:20727);(id:64591 suffix:40081)"/>
+        <item rate="60000" drop="(id:62005 prefix:21009);(id:40258 prefix:21009);(id:40079 suffix:30919);(id:40241 suffix:31017 quality:45);(id:40240 quality:95);(id:15381);(id:65016 count:1)"/>
+      </level>
+    </season>
+    <season version="902">
+      <level value="1">
+        <item rate="1000000" drop="(id:65014 count:2);(id:65009);(id:65010 count:2);(id:65006 crystal_level:4 crystal_charge:5 count:1);(id:65008 crystal_level:4 crystal_charge:5 count:1)"/>
+        <item rate="200000" drop="(id:65029);(id:18020 prefix:20105);(id:18021 suffix:30104);(id:40258 suffix:30107);(id:40006 suffix:30106);(id:18000 suffix:30601);(id:62005 suffix:30105)"/>
+        <item rate="8000" drop="(id:62005 prefix:21009);(id:40258 prefix:21009)"/>
+      </level>
+      <level value="2">
+        <item rate="1000000" drop="(id:65009);(id:65010 count:2);(id:65006 crystal_level:8 crystal_charge:5 count:1);(id:65008 crystal_level:8 crystal_charge:5 count:1)"/>
+        <item rate="200000" drop="(id:65029);(id:18020 prefix:20105);(id:18021 suffix:30104);(id:40258 suffix:30107);(id:40006 suffix:30106);(id:18000 suffix:30601);(id:62005 suffix:30105);(id:16006 suffix:30526);(id:62005 prefix:20727)"/>
+        <item rate="20000" drop="(id:62005 prefix:21009);(id:40258 prefix:21009);(id:40079 suffix:30919);(id:65015)"/>
+      </level>
+      <level value="3">
+        <item rate="1000000" drop="(id:65009);(id:65010 count:2);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65008 crystal_level:12 crystal_charge:5 count:1)"/>
+        <item rate="200000" drop="(id:65029);(id:18020 prefix:20105);(id:18021 suffix:30104);(id:40258 suffix:30107);(id:40006 suffix:30106);(id:18000 suffix:30601);(id:62005 suffix:30105);(id:16006 suffix:30526);(id:62005 prefix:20727)"/>
+        <item rate="30000" drop="(id:62005 prefix:21009);(id:40258 prefix:21009);(id:40079 suffix:30919);(id:40241 suffix:31017 quality:45);(id:40240 quality:95);(id:15381);(id:65016 count:1)"/>
+      </level>
+      <level value="4">
+        <item rate="1000000" drop="(id:65009);(id:65010 count:2);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65008 crystal_level:12 crystal_charge:5 count:1)"/>
+        <item rate="200000" drop="(id:65029);(id:18020 prefix:20105);(id:18021 suffix:30104);(id:40258 suffix:30107);(id:40006 suffix:30106);(id:18000 suffix:30601);(id:62005 suffix:30105);(id:16006 suffix:30526);(id:62005 prefix:20727)"/>
+        <item rate="60000" drop="(id:62005 prefix:21009);(id:40258 prefix:21009);(id:40079 suffix:30919);(id:40241 suffix:31017 quality:45);(id:40240 quality:95);(id:15381);(id:65016 count:1)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 미션 보상 7번 타입 : 도렌의부탁 약 20분 -->
+  <type id="827">
+    <season version="901">
+      <level value="1">
+        <item rate="1000000" drop="(id:65014 count:2);(id:65009);(id:65010 count:2);(id:65006 crystal_level:4 crystal_charge:5 count:1);(id:65008 crystal_level:4 crystal_charge:5 count:1)"/>
+        <item rate="200000" drop="(id:65029);(id:40243 prefix:20501);(id:18040 prefix:20701);(id:17087 suffix:30523);(id:40078 suffix:30614);(id:18007 suffix:10906);(id:18009 prefix:20509)"/>
+        <item rate="8000" drop="(id:62005 suffix:30920);(id:18524 durability_max:30000 durability:30000)"/>
+      </level>
+      <level value="2">
+        <item rate="1000000" drop="(id:65009);(id:65010 count:2);(id:65006 crystal_level:8 crystal_charge:5 count:1);(id:65007 crystal_level:8 crystal_charge:5 count:1)"/>
+        <item rate="200000" drop="(id:65029);(id:40243 prefix:20501);(id:18040 prefix:20701);(id:17087 suffix:30523);(id:40078 suffix:30614);(id:18007 suffix:10906);(id:18009 prefix:20509)"/>
+        <item rate="20000" drop="(id:62005 suffix:30920);(id:18524 durability_max:30000 durability:30000);(id:40030 suffix:30921);(id:65015)"/>
+      </level>
+      <level value="3">
+        <item rate="1000000" drop="(id:65009);(id:65010 count:2);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65007 crystal_level:12 crystal_charge:5 count:1)"/>
+        <item rate="200000" drop="(id:65029);(id:40243 prefix:20501);(id:18040 prefix:20701);(id:17087 suffix:30523);(id:40078 suffix:30614);(id:18007 suffix:10906);(id:18009 prefix:20509)"/>
+        <item rate="30000" drop="(id:62005 suffix:30920);(id:18524 durability_max:30000 durability:30000);(id:40030 suffix:30921);(id:13001 prefix:21102);(id:17155);(id:65016 count:1)"/>
+      </level>
+      <level value="4">
+        <item rate="1000000" drop="(id:65009);(id:65010 count:2);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65007 crystal_level:12 crystal_charge:5 count:1)"/>
+        <item rate="200000" drop="(id:65029);(id:40243 prefix:20501);(id:18040 prefix:20701);(id:17087 suffix:30523);(id:40078 suffix:30614);(id:18007 suffix:10906);(id:18009 prefix:20509)"/>
+        <item rate="60000" drop="(id:62005 suffix:30920);(id:18524 durability_max:30000 durability:30000);(id:40030 suffix:30921);(id:13001 prefix:21102);(id:17155);(id:65016 count:1)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 미션 보상 10번 타입 : 도시 탈환 약 25분 -->
+  <type id="846">
+    <season version="1001">
+      <level value="1">
+        <item rate="1000000" drop="(id:65014 count:1);(id:65009);(id:65045);(id:65006 crystal_level:4 crystal_charge:5 count:1);(id:65007 crystal_level:4 crystal_charge:5 count:1)"/>
+        <item rate="250000" drop="(id:65029);(id:40284);(id:40285);(id:40286);(id:40287);(id:40284 prefix:20701);(id:40287 suffix:30634)"/>
+        <item rate="20000" drop="(id:64050 size:1.5);(id:40287 prefix:21009)"/>
+      </level>
+      <level value="2">
+        <item rate="1000000" drop="(id:65009);(id:65045);(id:65006 crystal_level:8 crystal_charge:5 count:1);(id:65007 crystal_level:8 crystal_charge:5 count:1)"/>
+        <item rate="300000" drop="(id:65029);(id:40284 prefix:20701);(id:40287 suffix:30634);(id:40287 suffix:30634 prefix:20701)"/>
+        <item rate="20000" drop="(id:64050 size:2);(id:40287 prefix:21009);(id:40287 prefix:21009 suffix:30634);(id:40014 prefix:20917);(id:65015)"/>
+      </level>
+      <level value="3">
+        <item rate="1000000" drop="(id:65009);(id:65045);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65007 crystal_level:12 crystal_charge:5 count:1)"/>
+        <item rate="350000" drop="(id:65029);(id:40284 prefix:20701);(id:40287 suffix:30634);(id:40287 suffix:30634 prefix:20701)"/>
+        <item rate="30000" drop="(id:64050 size:3);(id:40287 prefix:21009);(id:40287 prefix:21009 suffix:30634);(id:40014 prefix:20917 quality:70);(id:46001 prefix:20701);(id:40033 suffix:30921);(id:65016 count:1)"/>
+      </level>
+      <level value="4">
+        <item rate="1000000" drop="(id:65009);(id:65045);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65007 crystal_level:12 crystal_charge:5 count:1)"/>
+        <item rate="350000" drop="(id:65029);(id:40284 prefix:20701);(id:40287 suffix:30634);(id:40287 suffix:30634 prefix:20701)"/>
+        <item rate="60000" drop="(id:64050 size:3);(id:40287 prefix:21009);(id:40287 prefix:21009 suffix:30634);(id:40014 prefix:20917 quality:70);(id:46001 prefix:20701);(id:40033 suffix:30921);(id:65016 count:1)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 미션 보상 11번 타입 : 잔당 소탕 약 30분 -->
+  <type id="847">
+    <season version="1001">
+      <level value="1">
+        <item rate="1000000" drop="(id:65014 count:2);(id:65009);(id:65045);(id:65006 crystal_level:4 crystal_charge:5 count:1);(id:65007 crystal_level:4 crystal_charge:5 count:1)"/>
+        <item rate="250000" drop="(id:65029);(id:40243 suffix:30506);(id:40242 suffix:30614);(id:62005 suffix:30601);(id:40013 suffix:30715)"/>
+        <item rate="30000" drop="(id:64050 size:1.5);(id:62005 prefix:20830)"/>
+      </level>
+      <level value="2">
+        <item rate="1000000" drop="(id:65009);(id:65045);(id:65006 crystal_level:8 crystal_charge:5 count:1);(id:65007 crystal_level:8 crystal_charge:5 count:1)"/>
+        <item rate="300000" drop="(id:65029);(id:40243 prefix:8 suffix:30506);(id:40242 prefix:8 suffix:30614);(id:62005 suffix:30601);(id:40013 suffix:30715)"/>
+        <item rate="40000" drop="(id:64050 size:2);(id:40031 suffix:31305);(id:62005 prefix:20830);(id:65015)"/>
+      </level>
+      <level value="3">
+        <item rate="1000000" drop="(id:65009);(id:65045);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65007 crystal_level:12 crystal_charge:5 count:1)"/>
+        <item rate="400000" drop="(id:65029);(id:40243 prefix:8 suffix:30506);(id:40242 prefix:8 suffix:30614);(id:62005 suffix:30601);(id:40013 suffix:30715)"/>
+        <item rate="80000" drop="(id:64050 size:3);(id:40031 suffix:31305);(id:62005 prefix:20830);(id:40236 suffix:30629);(id:65016 count:1)"/>
+      </level>
+      <level value="4">
+        <item rate="1000000" drop="(id:65009);(id:65045);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65007 crystal_level:12 crystal_charge:5 count:1)"/>
+        <item rate="400000" drop="(id:65029);(id:40243 prefix:8 suffix:30506);(id:40242 prefix:8 suffix:30614);(id:62005 suffix:30601);(id:40013 suffix:30715)"/>
+        <item rate="160000" drop="(id:64050 size:3);(id:40031 suffix:31305);(id:62005 prefix:20830);(id:40236 suffix:30629);(id:65016 count:1)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 미션 보상 12번 타입 : 등 뒤의 적 약 25분 -->
+  <type id="848">
+    <season version="1101">
+      <level value="1">
+        <item rate="1000000" drop="(id:65014 count:1);(id:65009);(id:65045);(id:65006 crystal_level:4 crystal_charge:5 count:1);(id:65007 crystal_level:4 crystal_charge:5 count:1)"/>
+        <item rate="200000" drop="(id:65029);(id:62005 suffix:30526);(id:62005 prefix:20509);(id:62005 prefix:20727);(id:62005 suffix:30702)"/>
+        <item rate="15000" drop="(id:64050 size:1.5);(id:62005 prefix:20831);(id:62005 prefix:20728)"/>
+      </level>
+      <level value="2">
+        <item rate="1000000" drop="(id:65009);(id:65045);(id:65006 crystal_level:8 crystal_charge:5 count:1);(id:65007 crystal_level:8 crystal_charge:5 count:1)"/>
+        <item rate="250000" drop="(id:65029);(id:62005 suffix:30526);(id:62005 prefix:20509);(id:62005 prefix:20727);(id:62005 suffix:30702)"/>
+        <item rate="30000" drop="(id:64050 size:2);(id:62005 prefix:20831);(id:62005 prefix:20728);(id:62005 prefix:20833);(id:65015)"/>
+      </level>
+      <level value="3">
+        <item rate="1000000" drop="(id:65009);(id:65045);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65007 crystal_level:12 crystal_charge:5 count:1)"/>
+        <item rate="400000" drop="(id:65029);(id:62005 suffix:30526);(id:62005 prefix:20509);(id:62005 prefix:20727);(id:62005 suffix:30702)"/>
+        <item rate="60000" drop="(id:64050 size:3);(id:62005 prefix:20831);(id:62005 prefix:20728);(id:62005 prefix:20833);(id:62005 prefix:20814);(id:64592 suffix:40082);(id:65016 count:1)"/>
+      </level>
+      <level value="4">
+        <item rate="1000000" drop="(id:65009);(id:65045);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65007 crystal_level:12 crystal_charge:5 count:1)"/>
+        <item rate="400000" drop="(id:65029);(id:62005 suffix:30526);(id:62005 prefix:20509);(id:62005 prefix:20727);(id:62005 suffix:30702)"/>
+        <item rate="120000" drop="(id:64050 size:3);(id:62005 prefix:20831);(id:62005 prefix:20728);(id:62005 prefix:20833);(id:62005 prefix:20814);(id:64592 suffix:40082);(id:65016 count:1)"/>
+      </level>
+    </season>
+    <season version="1001">
+      <level value="1">
+        <item rate="1000000" drop="(id:65014 count:1);(id:65009);(id:65045);(id:65006 crystal_level:4 crystal_charge:5 count:1);(id:65007 crystal_level:4 crystal_charge:5 count:1)"/>
+        <item rate="200000" drop="(id:65029);(id:62005 suffix:30526);(id:62005 prefix:20509);(id:62005 prefix:20727);(id:62005 suffix:30702)"/>
+        <item rate="15000" drop="(id:64050 size:1.5);(id:62005 prefix:20831);(id:62005 prefix:20728)"/>
+      </level>
+      <level value="2">
+        <item rate="1000000" drop="(id:65009);(id:65045);(id:65006 crystal_level:8 crystal_charge:5 count:1);(id:65007 crystal_level:8 crystal_charge:5 count:1)"/>
+        <item rate="250000" drop="(id:65029);(id:62005 suffix:30526);(id:62005 prefix:20509);(id:62005 prefix:20727);(id:62005 suffix:30702)"/>
+        <item rate="30000" drop="(id:64050 size:2);(id:62005 prefix:20831);(id:62005 prefix:20728);(id:62005 prefix:20833);(id:65015)"/>
+      </level>
+      <level value="3">
+        <item rate="1000000" drop="(id:65009);(id:65045);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65007 crystal_level:12 crystal_charge:5 count:1)"/>
+        <item rate="400000" drop="(id:65029);(id:62005 suffix:30526);(id:62005 prefix:20509);(id:62005 prefix:20727);(id:62005 suffix:30702)"/>
+        <item rate="60000" drop="(id:64050 size:3);(id:62005 prefix:20831);(id:62005 prefix:20728);(id:62005 prefix:20833);(id:62005 prefix:20814);(id:65016 count:1)"/>
+      </level>
+      <level value="4">
+        <item rate="1000000" drop="(id:65009);(id:65045);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65007 crystal_level:12 crystal_charge:5 count:1)"/>
+        <item rate="400000" drop="(id:65029);(id:62005 suffix:30526);(id:62005 prefix:20509);(id:62005 prefix:20727);(id:62005 suffix:30702)"/>
+        <item rate="120000" drop="(id:64050 size:3);(id:62005 prefix:20831);(id:62005 prefix:20728);(id:62005 prefix:20833);(id:62005 prefix:20814);(id:65016 count:1)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 미션 보상 13번 타입 : 그들의 방식 약 20 분 -->
+  <type id="845">
+    <season version="1101">
+      <level value="1">
+        <item rate="1000000" drop="(id:65014 count:1);(id:65009);(id:65045);(id:65006 crystal_level:4 crystal_charge:5 count:1);(id:65007 crystal_level:4 crystal_charge:5 count:1)"/>
+        <item rate="200000" drop="(id:65029);(id:62005 suffix:30501);(id:62005 suffix:30523);(id:62005 suffix:30803);(id:62005 suffix:30634);(id:62005 suffix:30635)"/>
+        <item rate="15000" drop="(id:64050 size:1.5);(id:62005 suffix:30821);(id:62005 prefix:20832)"/>
+      </level>
+      <level value="2">
+        <item rate="1000000" drop="(id:65009);(id:65045);(id:65006 crystal_level:8 crystal_charge:5 count:1);(id:65007 crystal_level:8 crystal_charge:5 count:1)"/>
+        <item rate="280000" drop="(id:65029);(id:62005 suffix:30501);(id:62005 suffix:30523);(id:62005 suffix:30803);(id:62005 suffix:30634);(id:62005 suffix:30635);(id:64599 suffix:40089)"/>
+        <item rate="20000" drop="(id:64050 size:2);(id:62005 suffix:30821);(id:62005 prefix:20832);(id:62005 prefix:21409);(id:65015)"/>
+      </level>
+      <level value="3">
+        <item rate="1000000" drop="(id:65009);(id:65045);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65007 crystal_level:12 crystal_charge:5 count:1)"/>
+        <item rate="350000" drop="(id:65029);(id:62005 suffix:30501);(id:62005 suffix:30523);(id:62005 suffix:30803);(id:62005 suffix:30634);(id:62005 suffix:30635);(id:64599 suffix:40089)"/>
+        <item rate="30000" drop="(id:64050 size:3);(id:62005 suffix:30821);(id:62005 prefix:20832);(id:62005 prefix:21409);(id:62005 suffix:30920);(id:65016 count:1)"/>
+      </level>
+      <level value="4">
+        <item rate="1000000" drop="(id:65009);(id:65045);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65007 crystal_level:12 crystal_charge:5 count:1)"/>
+        <item rate="350000" drop="(id:65029);(id:62005 suffix:30501);(id:62005 suffix:30523);(id:62005 suffix:30803);(id:62005 suffix:30634);(id:62005 suffix:30635);(id:64599 suffix:40089)"/>
+        <item rate="60000" drop="(id:64050 size:3);(id:62005 suffix:30821);(id:62005 prefix:20832);(id:62005 prefix:21409);(id:62005 suffix:30920);(id:65016 count:1)"/>
+      </level>
+    </season>
+    <season version="1001">
+      <level value="1">
+        <item rate="1000000" drop="(id:65014 count:1);(id:65009);(id:65045);(id:65006 crystal_level:4 crystal_charge:5 count:1);(id:65007 crystal_level:4 crystal_charge:5 count:1)"/>
+        <item rate="200000" drop="(id:65029);(id:62005 suffix:30501);(id:62005 suffix:30523);(id:62005 suffix:30803);(id:62005 suffix:30634);(id:62005 suffix:30635)"/>
+        <item rate="15000" drop="(id:64050 size:1.5);(id:62005 suffix:30821);(id:62005 prefix:20832)"/>
+      </level>
+      <level value="2">
+        <item rate="1000000" drop="(id:65009);(id:65045);(id:65006 crystal_level:8 crystal_charge:5 count:1);(id:65007 crystal_level:8 crystal_charge:5 count:1)"/>
+        <item rate="280000" drop="(id:65029);(id:62005 suffix:30501);(id:62005 suffix:30523);(id:62005 suffix:30803);(id:62005 suffix:30634);(id:62005 suffix:30635)"/>
+        <item rate="20000" drop="(id:64050 size:2);(id:62005 suffix:30821);(id:62005 prefix:20832);(id:62005 prefix:21409);(id:65015)"/>
+      </level>
+      <level value="3">
+        <item rate="1000000" drop="(id:65009);(id:65045);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65007 crystal_level:12 crystal_charge:5 count:1)"/>
+        <item rate="350000" drop="(id:65029);(id:62005 suffix:30501);(id:62005 suffix:30523);(id:62005 suffix:30803);(id:62005 suffix:30634);(id:62005 suffix:30635)"/>
+        <item rate="30000" drop="(id:64050 size:3);(id:62005 suffix:30821);(id:62005 prefix:20832);(id:62005 prefix:21409);(id:62005 suffix:30920);(id:65016 count:1)"/>
+      </level>
+      <level value="4">
+        <item rate="1000000" drop="(id:65009);(id:65045);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65007 crystal_level:12 crystal_charge:5 count:1)"/>
+        <item rate="350000" drop="(id:65029);(id:62005 suffix:30501);(id:62005 suffix:30523);(id:62005 suffix:30803);(id:62005 suffix:30634);(id:62005 suffix:30635)"/>
+        <item rate="60000" drop="(id:64050 size:3);(id:62005 suffix:30821);(id:62005 prefix:20832);(id:62005 prefix:21409);(id:62005 suffix:30920);(id:65016 count:1)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+
+  <!-- 미션 보상 14번 타입 : 코리브 계곡 수호 -->
+  <type id="844">
+    <season version="1001">
+      <level value="1">
+        <item rate="1000000" drop="(id:65014 count:1);(id:65009);(id:65045);(id:65006 crystal_level:4 crystal_charge:5 count:1);(id:65007 crystal_level:4 crystal_charge:5 count:1);(id:53363);(id:53363);(id:53363)"/>
+        <item rate="350000" drop="(id:64050 size:1.5);(id:40242 suffix:31002 durability_max:12000 durability:12000);(id:40012 suffix:31002 durability_max:11000 durability:110000);(id:53363);(id:53363);(id:53363)"/>
+        <item rate="100000" drop="(id:53363)"/>
+      </level>
+      <level value="2">
+        <item rate="1000000" drop="(id:65015 count:1);(id:65009);(id:65045);(id:65006 crystal_level:8 crystal_charge:5 count:1);(id:65007 crystal_level:8 crystal_charge:5 count:1);(id:53363);(id:53363);(id:53363)"/>
+        <item rate="400000" drop="(id:64050 size:2);(id:40242 suffix:31002 durability_max:13000 durability:13000);(id:40012 suffix:31002 durability_max:12000 durability:12000);(id:53363);(id:53363);(id:53363)"/>
+        <item rate="200000" drop="(id:53363)"/>
+      </level>
+      <level value="3">
+        <item rate="1000000" drop="(id:65016 count:1);(id:65009);(id:65045);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65007 crystal_level:12 crystal_charge:5 count:1);(id:53363);(id:53363);(id:53363)"/>
+        <item rate="450000" drop="(id:64050 size:3);(id:40242 suffix:31103 durability_max:14000 durability:14000);(id:40012 suffix:31103 durability_max:13000 durability:13000);(id:40242 suffix:31002 durability_max:14000 durability:14000);(id:40012 suffix:31002 durability_max:13000 durability:13000);(id:53363);(id:53363);(id:53363)"/>
+        <item rate="300000" drop="(id:53363)"/>
+      </level>
+      <level value="4">
+        <item rate="1000000" drop="(id:65016 count:1);(id:65009);(id:65045);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65007 crystal_level:12 crystal_charge:5 count:1);(id:53363);(id:53363);(id:53363)"/>
+        <item rate="450000" drop="(id:64050 size:3);(id:40242 suffix:31103 durability_max:14000 durability:14000);(id:40012 suffix:31103 durability_max:13000 durability:13000);(id:40242 suffix:31002 durability_max:14000 durability:14000);(id:40012 suffix:31002 durability_max:13000 durability:13000);(id:53363);(id:53363);(id:53363)"/>
+        <item rate="600000" drop="(id:53363)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 미션 보상 13번 타입 : 와인의 향기 -->
+  <type id="853">
+    <season version="1001">
+      <level value="1">
+        <item rate="1000000" drop="(id:65014 count:1);(id:65009);(id:65045);(id:65006 crystal_level:4 crystal_charge:5 count:1);(id:65007 crystal_level:4 crystal_charge:5 count:1);(id:53364);(id:53364);(id:53364)"/>
+        <item rate="350000" drop="(id:64050 size:1.5);(id:60045 prefix:20730);(id:40078 suffix:31002 durability_max:13000 durability:13000);(id:53364);(id:53364);(id:53364)"/>
+        <item rate="100000" drop="(id:53364)"/>
+      </level>
+      <level value="2">
+        <item rate="1000000" drop="(id:65015 count:1);(id:65009);(id:65045);(id:65006 crystal_level:8 crystal_charge:5 count:1);(id:65007 crystal_level:8 crystal_charge:5 count:1);(id:53364);(id:53364);(id:53364)"/>
+        <item rate="400000" drop="(id:64050 size:2);(id:60045 prefix:20730);(id:40078 suffix:31103 durability_max:14000 durability:14000);(id:40078 suffix:31002 durability_max:14000 durability:14000);(id:53364);(id:53364);(id:53364)"/>
+        <item rate="200000" drop="(id:53364)"/>
+      </level>
+      <level value="3">
+        <item rate="1000000" drop="(id:65016 count:1);(id:65009);(id:65045);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65007 crystal_level:12 crystal_charge:5 count:1);(id:53364);(id:53364);(id:53364)"/>
+        <item rate="450000" drop="(id:64050 size:3);(id:60045 prefix:20730);(id:40078 suffix:31103 durability_max:15000 durability:15000);(id:40078 suffix:31002 durability_max:15000 durability:15000);(id:53364);(id:53364);(id:53364)"/>
+        <item rate="300000" drop="(id:53364)"/>
+      </level>
+      <level value="4">
+        <item rate="1000000" drop="(id:65016 count:1);(id:65009);(id:65045);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65007 crystal_level:12 crystal_charge:5 count:1);(id:53364);(id:53364);(id:53364)"/>
+        <item rate="450000" drop="(id:64050 size:3);(id:60045 prefix:20730);(id:40078 suffix:31103 durability_max:15000 durability:15000);(id:40078 suffix:31002 durability_max:15000 durability:15000);(id:53364);(id:53364);(id:53364)"/>
+        <item rate="600000" drop="(id:53364)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 미션 보상 15번 타입 : 파르홀론의 유령 : 변화의, 멜팅 제공, 스파크 8페이지-->
+  <type id="866">
+    <season version="1101.1">
+      <level value="1">
+        <item rate="1000000" drop="(id:65014 count:2);(id:65009);(id:65046);(id:65049);(id:65045);(id:65010 count:2);(id:65006 crystal_level:4 crystal_charge:5 count:1);(id:65008 crystal_level:4 crystal_charge:5 count:1);(id:65007 crystal_level:4 crystal_charge:5 count:1)"/>
+        <item rate="240000" drop="(id:16009 suffix:10805);(id:40258 suffix:30627);(id:16008 prefix:306 suffix:10503);(id:16009 suffix:30105);(id:15003 suffix:30106);(id:64598 suffix:40088)"/>
+        <item rate="20000" drop="(id:18023 suffix:30731);(id:40010 quality:70)"/>
+      </level>
+      <level value="2">
+        <item rate="1000000" drop="(id:65014 count:2);(id:65009 count:2);(id:65046 count:2);(id:65049 count:2);(id:65045 count:2);(id:65010 count:2);(id:65006 crystal_level:8 crystal_charge:5 count:1);(id:65008 crystal_level:8 crystal_charge:5 count:1);(id:65007 crystal_level:8 crystal_charge:5 count:1)"/>
+        <item rate="360000" drop="(id:16009 suffix:10805);(id:40258 suffix:30627);(id:16008 prefix:306 suffix:10503);(id:16009 suffix:30105);(id:15003 suffix:30106);(id:64598 suffix:40088)"/>
+        <item rate="40000" drop="(id:62005 suffix:30829);(id:18023 suffix:30731);(id:40010 quality:80);(id:62005 prefix:20632)"/>
+      </level>
+      <level value="3">
+        <item rate="1000000" drop="(id:65014 count:3);(id:65009 count:3);(id:65046 count:3);(id:65049 count:3);(id:65045 count:3);(id:65010 count:3);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65008 crystal_level:12 crystal_charge:5 count:1);(id:65007 crystal_level:12 crystal_charge:5 count:1)"/>
+        <item rate="360000" drop="(id:16009 suffix:10805);(id:40258 suffix:30627);(id:16008 prefix:306 suffix:10503);(id:16009 suffix:30105);(id:15003 suffix:30106);(id:64598 suffix:40088)"/>
+        <item rate="60000" drop="(id:62005 suffix:30829);(id:18023 suffix:30731);(id:40010 quality:90);(id:62005 prefix:20632)"/>
+      </level>
+      <level value="4">
+        <item rate="1000000" drop="(id:65014 count:3);(id:65009 count:3);(id:65046 count:3);(id:65049 count:3);(id:65045 count:3);(id:65010 count:3);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65008 crystal_level:12 crystal_charge:5 count:1);(id:65007 crystal_level:12 crystal_charge:5 count:1)"/>
+        <item rate="360000" drop="(id:16009 suffix:10805);(id:40258 suffix:30627);(id:16008 prefix:306 suffix:10503);(id:16009 suffix:30105);(id:15003 suffix:30106);(id:64598 suffix:40088)"/>
+        <item rate="120000" drop="(id:62005 suffix:30829);(id:18023 suffix:30731);(id:40010 quality:90);(id:62005 prefix:20632)"/>
+      </level>
+    </season>
+    <season version="1101">
+      <level value="1">
+        <item rate="1000000" drop="(id:65014 count:2);(id:65009);(id:65046);(id:65049);(id:65045);(id:65010 count:2);(id:65006 crystal_level:4 crystal_charge:5 count:1);(id:65008 crystal_level:4 crystal_charge:5 count:1);(id:65007 crystal_level:4 crystal_charge:5 count:1)"/>
+        <item rate="240000" drop="(id:16009 suffix:10805);(id:40258 suffix:30627);(id:16008 prefix:306 suffix:10503);(id:16009 suffix:30105);(id:15003 suffix:30106)"/>
+        <item rate="20000" drop="(id:18023 suffix:30731);(id:40010 quality:70)"/>
+      </level>
+      <level value="2">
+        <item rate="1000000" drop="(id:65014 count:2);(id:65009 count:2);(id:65046 count:2);(id:65049 count:2);(id:65045 count:2);(id:65010 count:2);(id:65006 crystal_level:8 crystal_charge:5 count:1);(id:65008 crystal_level:8 crystal_charge:5 count:1);(id:65007 crystal_level:8 crystal_charge:5 count:1)"/>
+        <item rate="360000" drop="(id:16009 suffix:10805);(id:40258 suffix:30627);(id:16008 prefix:306 suffix:10503);(id:16009 suffix:30105);(id:15003 suffix:30106)"/>
+        <item rate="40000" drop="(id:62005 suffix:30829);(id:18023 suffix:30731);(id:40010 quality:80)"/>
+      </level>
+      <level value="3">
+        <item rate="1000000" drop="(id:65014 count:3);(id:65009 count:3);(id:65046 count:3);(id:65049 count:3);(id:65045 count:3);(id:65010 count:3);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65008 crystal_level:12 crystal_charge:5 count:1);(id:65007 crystal_level:12 crystal_charge:5 count:1)"/>
+        <item rate="360000" drop="(id:16009 suffix:10805);(id:40258 suffix:30627);(id:16008 prefix:306 suffix:10503);(id:16009 suffix:30105);(id:15003 suffix:30106)"/>
+        <item rate="60000" drop="(id:62005 suffix:30829);(id:18023 suffix:30731);(id:40010 quality:90)"/>
+      </level>
+      <level value="4">
+        <item rate="1000000" drop="(id:65014 count:3);(id:65009 count:3);(id:65046 count:3);(id:65049 count:3);(id:65045 count:3);(id:65010 count:3);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65008 crystal_level:12 crystal_charge:5 count:1);(id:65007 crystal_level:12 crystal_charge:5 count:1)"/>
+        <item rate="360000" drop="(id:16009 suffix:10805);(id:40258 suffix:30627);(id:16008 prefix:306 suffix:10503);(id:16009 suffix:30105);(id:15003 suffix:30106)"/>
+        <item rate="120000" drop="(id:62005 suffix:30829);(id:18023 suffix:30731);(id:40010 quality:90)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 미션 보상 16번 타입 : 어둠의 5 : 버닝, 디비전 제공-->
+  <type id="867">
+    <season version="1101">
+      <level value="1">
+        <item rate="1000000" drop="(id:65014 count:2);(id:65009);(id:65046);(id:65049);(id:65045);(id:65010 count:2);(id:65006 crystal_level:4 crystal_charge:5 count:1);(id:65008 crystal_level:4 crystal_charge:5 count:1);(id:65007 crystal_level:4 crystal_charge:5 count:1)"/>
+        <item rate="200000" drop="(id:64050 size:1.5);(id:16009 prefix:21408);(id:40258 suffix:30905);(id:16009 suffix:30701);(id:16009 suffix:30601);(id:17138 suffix:30526)"/>
+        <item rate="20000" drop="(id:17034 prefix:20834);(id:40240 quality:70)"/>
+      </level>
+      <level value="2">
+        <item rate="1000000" drop="(id:65014 count:2);(id:65009 count:2);(id:65046 count:2);(id:65049 count:2);(id:65049 count:2);(id:65045 count:2);(id:65010 count:2);(id:65006 crystal_level:8 crystal_charge:5 count:1);(id:65008 crystal_level:8 crystal_charge:5 count:1);(id:65007 crystal_level:8 crystal_charge:5 count:1)"/>
+        <item rate="300000" drop="(id:64050 size:1.5);(id:16009 prefix:21408);(id:40258 suffix:30905);(id:16009 suffix:30701);(id:16009 suffix:30601);(id:17138 suffix:30526)"/>
+        <item rate="40000" drop="(id:62005 suffix:30636);(id:17034 suffix:30731);(id:40240 quality:80)"/>
+      </level>
+      <level value="3">
+        <item rate="1000000" drop="(id:65014 count:3);(id:65009 count:3);(id:65046 count:3);(id:65049 count:3);(id:65049 count:3);(id:65045 count:3);(id:65010 count:3);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65008 crystal_level:12 crystal_charge:5 count:1);(id:65007 crystal_level:12 crystal_charge:5 count:1)"/>
+        <item rate="300000" drop="(id:64050 size:1.5);(id:16009 prefix:21408);(id:40258 suffix:30905);(id:16009 suffix:30701);(id:16009 suffix:30601);(id:17138 suffix:30526)"/>
+        <item rate="60000" drop="(id:62005 suffix:30636);(id:17034 suffix:30731);(id:40240 quality:90)"/>
+      </level>
+      <level value="4">
+        <item rate="1000000" drop="(id:65014 count:3);(id:65009 count:3);(id:65046 count:3);(id:65049 count:3);(id:65049 count:3);(id:65045 count:3);(id:65010 count:3);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65008 crystal_level:12 crystal_charge:5 count:1);(id:65007 crystal_level:12 crystal_charge:5 count:1)"/>
+        <item rate="300000" drop="(id:64050 size:1.5);(id:16009 prefix:21408);(id:40258 suffix:30905);(id:16009 suffix:30701);(id:16009 suffix:30601);(id:17138 suffix:30526)"/>
+        <item rate="120000" drop="(id:62005 suffix:30636);(id:17034 suffix:30731);(id:40240 quality:90)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 미션 보상 17번 타입 : 포워르의 습격: 플릿, 콜렉트 제공 -->
+  <type id="868">
+    <season version="1101">
+      <level value="1">
+        <item rate="1000000" drop="(id:65014 count:2);(id:65009);(id:65046);(id:65049);(id:65045);(id:65010 count:2);(id:65006 crystal_level:4 crystal_charge:5 count:1);(id:65008 crystal_level:4 crystal_charge:5 count:1);(id:65007 crystal_level:4 crystal_charge:5 count:1)"/>
+        <item rate="200000" drop="(id:40258 prefix:21412);(id:40020 prefix:20201);(id:40022 suffix:30104);(id:16009 suffix:30622);(id:62005 prefix:20727)"/>
+        <item rate="20000" drop="(id:18038 prefix:20628);(id:40013 quality:70)"/>
+      </level>
+      <level value="2">
+        <item rate="1000000" drop="(id:65014 count:2);(id:65009 count:2);(id:65046 count:2);(id:65049 count:2);(id:65045 count:2);(id:65010 count:2);(id:65006 crystal_level:8 crystal_charge:5 count:1);(id:65008 crystal_level:8 crystal_charge:5 count:1);(id:65007 crystal_level:8 crystal_charge:5 count:1)"/>
+        <item rate="300000" drop="(id:40258 prefix:21412);(id:40020 prefix:20201);(id:40022 suffix:30104);(id:16009 suffix:30622);(id:62005 prefix:20727)"/>
+        <item rate="40000" drop="(id:62005 prefix:20734);(id:18038 prefix:20628);(id:40013 quality:70)"/>
+      </level>
+      <level value="3">
+        <item rate="1000000" drop="(id:65014 count:3);(id:65009 count:3);(id:65046 count:3);(id:65049 count:3);(id:65049 count:3);(id:65045 count:3);(id:65010 count:3);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65008 crystal_level:12 crystal_charge:5 count:1);(id:65007 crystal_level:12 crystal_charge:5 count:1)"/>
+        <item rate="300000" drop="(id:40258 prefix:21412);(id:40020 prefix:20201);(id:40022 suffix:30104);(id:16009 suffix:30622);(id:62005 prefix:20727)"/>
+        <item rate="60000" drop="(id:62005 prefix:20734);(id:18038 prefix:20628);(id:40013 quality:70)"/>
+      </level>
+      <level value="4">
+        <item rate="1000000" drop="(id:65014 count:3);(id:65009 count:3);(id:65046 count:3);(id:65049 count:3);(id:65049 count:3);(id:65045 count:3);(id:65010 count:3);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65008 crystal_level:12 crystal_charge:5 count:1);(id:65007 crystal_level:12 crystal_charge:5 count:1)"/>
+        <item rate="300000" drop="(id:40258 prefix:21412);(id:40020 prefix:20201);(id:40022 suffix:30104);(id:16009 suffix:30622);(id:62005 prefix:20727)"/>
+        <item rate="120000" drop="(id:62005 prefix:20734);(id:18038 prefix:20628);(id:40013 quality:70)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 미션 보상 19번 타입 : 어둠의 연금술사 중간 보상 : 주로 결정, 보석, 재료 보상-->
+  <type id="869">
+    <season version="1101.1">
+      <level value="1">
+        <item rate="1000000" drop="(id:65014);(id:65009);(id:65046);(id:65049);(id:65045);(id:65010);(id:65006 crystal_level:4 crystal_charge:5 count:1);(id:65008 crystal_level:4 crystal_charge:5 count:1);(id:65007 crystal_level:4 crystal_charge:5 count:1)"/>
+        <item rate="300000" drop="(id:64042 size:1.5);(id:64043 size:1.5);(id:64044 size:1.5);(id:64045 size:1.5);(id:64046 size:1.5);(id:64047 size:1.5);(id:64048 size:1.5);(id:64049 size:1.5);(id:64050 size:1.5);(id:60012);(id:60020);(id:60024);(id:60028);(id:51004);(id:51009);(id:51014)"/>
+        <item rate="0" drop=""/>
+      </level>
+      <level value="2">
+        <item rate="1000000" drop="(id:65014 count:2);(id:65009 count:2);(id:65046 count:2);(id:65049 count:2);(id:65045 count:2);(id:65010 count:2);(id:65006 crystal_level:8 crystal_charge:5 count:1);(id:65008 crystal_level:8 crystal_charge:5 count:1);(id:65007 crystal_level:8 crystal_charge:5 count:1)"/>
+        <item rate="200000" drop="(id:64042 size:1.5);(id:64043 size:1.5);(id:64044 size:1.5);(id:64045 size:1.5);(id:64046 size:1.5);(id:64047 size:1.5);(id:64048 size:1.5);(id:64049 size:1.5);(id:64050 size:1.5);(id:60013);(id:60021);(id:60025);(id:60029);(id:51005);(id:51010);(id:51015)"/>
+        <item rate="5000" drop="(id:62005 prefix:20633)"/>
+      </level>
+      <level value="3">
+        <item rate="1000000" drop="(id:65014 count:3);(id:65009 count:3);(id:65046 count:3);(id:65049 count:3);(id:65045 count:3);(id:65010 count:3);(id:65006 crystal_level:8 crystal_charge:5 count:1);(id:65008 crystal_level:8 crystal_charge:5 count:1);(id:65007 crystal_level:8 crystal_charge:5 count:1)"/>
+        <item rate="300000" drop="(id:64042 size:1.5);(id:64043 size:1.5);(id:64044 size:1.5);(id:64045 size:1.5);(id:64046 size:1.5);(id:64047 size:1.5);(id:64048 size:1.5);(id:64049 size:1.5);(id:64050 size:1.5);(id:60013);(id:60021);(id:60025);(id:60029);(id:51005);(id:51010);(id:51015)"/>
+        <item rate="10000" drop="(id:62005 prefix:20633)"/>
+      </level>
+      <level value="4">
+        <item rate="1000000" drop="(id:65014 count:3);(id:65009 count:3);(id:65046 count:3);(id:65049 count:3);(id:65045 count:3);(id:65010 count:3);(id:65006 crystal_level:8 crystal_charge:5 count:1);(id:65008 crystal_level:8 crystal_charge:5 count:1);(id:65007 crystal_level:8 crystal_charge:5 count:1)"/>
+        <item rate="300000" drop="(id:64042 size:1.5);(id:64043 size:1.5);(id:64044 size:1.5);(id:64045 size:1.5);(id:64046 size:1.5);(id:64047 size:1.5);(id:64048 size:1.5);(id:64049 size:1.5);(id:64050 size:1.5);(id:60013);(id:60021);(id:60025);(id:60029);(id:51005);(id:51010);(id:51015)"/>
+        <item rate="20000" drop="(id:62005 prefix:20633)"/>
+      </level>
+    </season>
+    <season version="1101">
+      <level value="1">
+        <item rate="1000000" drop="(id:65014);(id:65009);(id:65046);(id:65049);(id:65045);(id:65010);(id:65006 crystal_level:4 crystal_charge:5 count:1);(id:65008 crystal_level:4 crystal_charge:5 count:1);(id:65007 crystal_level:4 crystal_charge:5 count:1)"/>
+        <item rate="300000" drop="(id:64042 size:1.5);(id:64043 size:1.5);(id:64044 size:1.5);(id:64045 size:1.5);(id:64046 size:1.5);(id:64047 size:1.5);(id:64048 size:1.5);(id:64049 size:1.5);(id:64050 size:1.5);(id:60012);(id:60020);(id:60024);(id:60028);(id:51004);(id:51009);(id:51014)"/>
+        <item rate="0" drop=""/>
+      </level>
+      <level value="2">
+        <item rate="1000000" drop="(id:65014 count:2);(id:65009 count:2);(id:65046 count:2);(id:65049 count:2);(id:65045 count:2);(id:65010 count:2);(id:65006 crystal_level:8 crystal_charge:5 count:1);(id:65008 crystal_level:8 crystal_charge:5 count:1);(id:65007 crystal_level:8 crystal_charge:5 count:1)"/>
+        <item rate="200000" drop="(id:64042 size:1.5);(id:64043 size:1.5);(id:64044 size:1.5);(id:64045 size:1.5);(id:64046 size:1.5);(id:64047 size:1.5);(id:64048 size:1.5);(id:64049 size:1.5);(id:64050 size:1.5);(id:60013);(id:60021);(id:60025);(id:60029);(id:51005);(id:51010);(id:51015)"/>
+      </level>
+      <level value="3">
+        <item rate="1000000" drop="(id:65014 count:3);(id:65009 count:3);(id:65046 count:3);(id:65049 count:3);(id:65045 count:3);(id:65010 count:3);(id:65006 crystal_level:8 crystal_charge:5 count:1);(id:65008 crystal_level:8 crystal_charge:5 count:1);(id:65007 crystal_level:8 crystal_charge:5 count:1)"/>
+        <item rate="300000" drop="(id:64042 size:1.5);(id:64043 size:1.5);(id:64044 size:1.5);(id:64045 size:1.5);(id:64046 size:1.5);(id:64047 size:1.5);(id:64048 size:1.5);(id:64049 size:1.5);(id:64050 size:1.5);(id:60013);(id:60021);(id:60025);(id:60029);(id:51005);(id:51010);(id:51015)"/>
+      </level>
+      <level value="4">
+        <item rate="1000000" drop="(id:65014 count:3);(id:65009 count:3);(id:65046 count:3);(id:65049 count:3);(id:65045 count:3);(id:65010 count:3);(id:65006 crystal_level:8 crystal_charge:5 count:1);(id:65008 crystal_level:8 crystal_charge:5 count:1);(id:65007 crystal_level:8 crystal_charge:5 count:1)"/>
+        <item rate="300000" drop="(id:64042 size:1.5);(id:64043 size:1.5);(id:64044 size:1.5);(id:64045 size:1.5);(id:64046 size:1.5);(id:64047 size:1.5);(id:64048 size:1.5);(id:64049 size:1.5);(id:64050 size:1.5);(id:60013);(id:60021);(id:60025);(id:60029);(id:51005);(id:51010);(id:51015)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 미션 보상 18번 타입 파이톤 스톤전 보상 : -->
+  <type id="872">
+    <season version="1101">
+      <level value="1">
+        <item rate="1000000" drop="(id:65014 count:2);(id:65009);(id:65046);(id:65049);(id:65045);(id:65010 count:2);(id:65006 crystal_level:4 crystal_charge:5 count:1);(id:65008 crystal_level:4 crystal_charge:5 count:1);(id:65007 crystal_level:4 crystal_charge:5 count:1)"/>
+        <item rate="200000" drop="(id:40258 prefix:20301);(id:40020 prefix:20301 suffix:30311);(id:40022 prefix:21410);(id:40243 prefix:20501)"/>
+        <item rate="15000" drop="(id:62005 suffix:30828);(id:62005 prefix:20835)"/>
+      </level>
+      <level value="2">
+        <item rate="1000000" drop="(id:65014 count:2);(id:65009 count:2);(id:65046 count:2);(id:65049 count:2);(id:65045 count:2);(id:65010 count:2);(id:65006 crystal_level:8 crystal_charge:5 count:1);(id:65008 crystal_level:8 crystal_charge:5 count:1);(id:65007 crystal_level:8 crystal_charge:5 count:1)"/>
+        <item rate="200000" drop="(id:40258 prefix:20301);(id:40020 prefix:20301 suffix:30311);(id:40022 prefix:21410);(id:40243 prefix:20501)"/>
+        <item rate="30000" drop="(id:62005 suffix:30828);(id:62005 prefix:20835)"/>
+      </level>
+      <level value="3">
+        <item rate="1000000" drop="(id:65014 count:3);(id:65009 count:3);(id:65046 count:3);(id:65049 count:3);(id:65045 count:3);(id:65010 count:3);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65008 crystal_level:12 crystal_charge:5 count:1);(id:65007 crystal_level:12 crystal_charge:5 count:1)"/>
+        <item rate="300000" drop="(id:40258 prefix:20301);(id:40020 prefix:20301 suffix:30311);(id:40022 prefix:21410);(id:40243 prefix:20501)"/>
+        <item rate="50000" drop="(id:62005 suffix:30828);(id:62005 prefix:20835)"/>
+      </level>
+      <level value="4">
+        <item rate="1000000" drop="(id:65014 count:3);(id:65009 count:3);(id:65046 count:3);(id:65049 count:3);(id:65045 count:3);(id:65010 count:3);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65008 crystal_level:12 crystal_charge:5 count:1);(id:65007 crystal_level:12 crystal_charge:5 count:1)"/>
+        <item rate="300000" drop="(id:40258 prefix:20301);(id:40020 prefix:20301 suffix:30311);(id:40022 prefix:21410);(id:40243 prefix:20501)"/>
+        <item rate="100000" drop="(id:62005 suffix:30828);(id:62005 prefix:20835)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 미션 보상 19번 : 처음 가보는 왕성 -->
+  <type id="876">
+    <season version="1101">
+      <level value="1">
+        <item rate="1000000" drop="(id:60011 count:1~2);(id:60015 count:1~2);(id:60019 count:1~2);(id:60023 count:1~2);(id:60027 count:1~2)"/>
+        <item rate="0" drop=""/>
+        <item rate="0" drop=""/>
+      </level>
+      <level value="2">
+        <item rate="1000000" drop="(id:60011 count:1~3);(id:60015 count:1~3);(id:60019 count:1~3);(id:60023 count:1~3);(id:60027 count:1~3)"/>
+        <item rate="0" drop=""/>
+        <item rate="0" drop=""/>
+      </level>
+      <level value="3">
+        <item rate="1000000" drop="(id:60011 count:2~3);(id:60015 count:2~3);(id:60019 count:2~3);(id:60023 count:2~3);(id:60027 count:2~3)"/>
+        <item rate="0" drop=""/>
+        <item rate="0" drop=""/>
+      </level>
+      <level value="4">
+        <item rate="1000000" drop="(id:60011 count:2~3);(id:60015 count:2~3);(id:60019 count:2~3);(id:60023 count:2~3);(id:60027 count:2~3)"/>
+        <item rate="0" drop=""/>
+        <item rate="0" drop=""/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 미션 보상 20번 타입 : 그림자 세계의 유황 거미 : 증폭의, 로맨틴 스웨이 베일, 로맨틱 깃털 모자, 드룹 앵클 부츠 제공 -->
+  <type id="893">
+    <season version="1102">
+      <level value="1">
+        <item rate="1000000" drop="(id:65014 count:2);(id:65009);(id:65046);(id:65049);(id:65045);(id:65010 count:2);(id:65006 crystal_level:4 crystal_charge:5 count:1);(id:65008 crystal_level:4 crystal_charge:5 count:1);(id:65007 crystal_level:4 crystal_charge:5 count:1)"/>
+        <item rate="240000" drop="(id:16009 suffix:30105);(id:15003 suffix:30106);(id:17138 suffix:30526);(id:62005 prefix:20727);(id:62005 suffix:30601)"/>
+        <item rate="20000" drop="(id:17182);(id:17179)"/>
+      </level>
+      <level value="2">
+        <item rate="1000000" drop="(id:65014 count:2);(id:65009 count:2);(id:65046 count:2);(id:65049 count:2);(id:65045 count:2);(id:65010 count:2);(id:65006 crystal_level:8 crystal_charge:5 count:1);(id:65008 crystal_level:8 crystal_charge:5 count:1);(id:65007 crystal_level:8 crystal_charge:5 count:1)"/>
+        <item rate="360000" drop="(id:16009 suffix:30105);(id:15003 suffix:30106);(id:17138 suffix:30526);(id:62005 prefix:20727);(id:62005 suffix:30601)"/>
+        <item rate="40000" drop="(id:17182);(id:17182);(id:17179);(id:17179);(id:62005 suffix:30831)"/>
+      </level>
+      <level value="3">
+        <item rate="1000000" drop="(id:65014 count:3);(id:65009 count:3);(id:65046 count:3);(id:65049 count:3);(id:65045 count:3);(id:65010 count:3);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65008 crystal_level:12 crystal_charge:5 count:1);(id:65007 crystal_level:12 crystal_charge:5 count:1)"/>
+        <item rate="360000" drop="(id:16009 suffix:30105);(id:15003 suffix:30106);(id:17138 suffix:30526);(id:62005 prefix:20727);(id:62005 suffix:30601)"/>
+        <item rate="50000" drop="(id:62005 suffix:30831);(id:62005 suffix:30831);(id:18256);(id:18252);"/>
+      </level>
+      <level value="4">
+        <item rate="1000000" drop="(id:65014 count:3);(id:65009 count:3);(id:65046 count:3);(id:65049 count:3);(id:65045 count:3);(id:65010 count:3);(id:65006 crystal_level:12 crystal_charge:5 count:1);(id:65008 crystal_level:12 crystal_charge:5 count:1);(id:65007 crystal_level:12 crystal_charge:5 count:1)"/>
+        <item rate="360000" drop="(id:16009 suffix:30105);(id:15003 suffix:30106);(id:17138 suffix:30526);(id:62005 prefix:20727);(id:62005 suffix:30601)"/>
+        <item rate="100000" drop="(id:62005 suffix:30831);(id:62005 suffix:30831);(id:18256);(id:18252);"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 보스 미션1 우로보로스 보상 -->
+  <type id="894">
+    <season version="1102">
+      <level value="1">
+        <item rate="1000000" drop="(id:65049 count:5);(id:65016 count:5);(id:51005 count:5);(id:51010 count:5);(id:51015 count:5)" />
+        <item rate="160000" drop="(id:15422);(id:18254)" />
+        <item rate="120000" drop="(manual:262);(id:40022 suffix:30828);(id:40023 prefix:20713);(id:60001 suffix:30729)" />
+      </level>
+      <level value="2">
+        <item rate="1000000" drop="(id:65049 count:5);(id:65016 count:5);(id:51005 count:5);(id:51010 count:5);(id:51015 count:5)" />
+        <item rate="200000" drop="(manual:261);(manual:262);(id:15376);(id:18254)" />
+        <item rate="200000" drop="(id:15422);(id:40022 suffix:30828);(id:40033 suffix:30619);(id:40023 prefix:20713);(id:60001 suffix:30729);(id:64596 suffix:40086)" />
+      </level>
+      <level value="3">
+        <item rate="1000000" drop="(id:65049 count:5);(id:65016 count:5);(id:51005 count:5);(id:51010 count:5);(id:51015 count:5)" />
+        <item rate="390000" drop="(manual:303);(manual:261);(manual:262);(id:15376);(id:40022 suffix:30828);(id:40023 prefix:20713);(id:60001 suffix:30729)" />
+        <item rate="160000" drop="(id:15422);(id:18254);(id:40033 suffix:30619);(id:64596 suffix:40086)" />
+      </level>
+      <level value="4">
+        <item rate="1000000" drop="(id:65049 count:5);(id:65016 count:5);(id:51005 count:5);(id:51010 count:5);(id:51015 count:5)" />
+        <item rate="390000" drop="(manual:303);(manual:261);(manual:262);(id:15376);(id:40022 suffix:30828);(id:40023 prefix:20713);(id:60001 suffix:30729)" />
+        <item rate="320000" drop="(id:15422);(id:18254);(id:40033 suffix:30619);(id:64596 suffix:40086)" />
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 보스 미션1 우로보로스 보상 S 랭크 보상-->
+  <type id="895">
+    <season version="1102">
+      <level value="1">
+        <item rate="1000000" drop="(id:65049 count:5);(id:65016 count:5);(id:51005 count:5);(id:51010 count:5);(id:51015 count:5)" />
+        <item rate="500000" drop="(manual:262);(id:15422);(id:18254);(id:40022 suffix:30828);(id:40023 prefix:20713);(id:60001 suffix:30729)" />
+        <item rate="10000" drop="(id:62005 prefix:20835)" />
+      </level>
+      <level value="2">
+        <item rate="1000000" drop="(id:65049 count:5);(id:65016 count:5);(id:51005 count:5);(id:51010 count:5);(id:51015 count:5);(id:40023 prefix:20713);(id:60001 suffix:30729);(manual:262);(id:15422);(id:18254);(id:40022 suffix:30828)" />
+        <item rate="240000" drop="(manual:261);(id:15376);(id:64596 suffix:40086)" />
+        <item rate="60000" drop="(id:40033 suffix:30619);(id:40033 suffix:30619);(id:40033 suffix:30619);(id:62005 prefix:20835)" />
+      </level>
+      <level value="3">
+        <item rate="1000000" drop="(id:65049 count:5);(id:65016 count:5);(id:51005 count:5);(id:51010 count:5);(id:51015 count:5);(id:15376);(id:40022 suffix:30828);(id:40033 suffix:30619)" />
+        <item rate="360000" drop="(id:40023 prefix:20713);(id:60001 suffix:30729);(id:64596 suffix:40086);(manual:261);(manual:262)" />
+        <item rate="120000" drop="(id:15422);(id:18254);(id:15422);(id:18254);(manual:303);(id:62005 prefix:20835)" />
+      </level>
+      <level value="4">
+        <item rate="1000000" drop="(id:65049 count:5);(id:65016 count:5);(id:51005 count:5);(id:51010 count:5);(id:51015 count:5);(id:15376);(id:40022 suffix:30828);(id:40033 suffix:30619)" />
+        <item rate="360000" drop="(id:40023 prefix:20713);(id:60001 suffix:30729);(id:64596 suffix:40086);(manual:261);(manual:262)" />
+        <item rate="240000" drop="(id:15422);(id:18254);(id:15422);(id:18254);(manual:303);(id:62005 prefix:20835)" />
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 보스 미션2 레드 드래곤 보상-->
+  <type id="896">
+    <season version="1102">
+      <level value="1">
+        <item rate="1000000" drop="(id:65049 count:5);(id:65016 count:5);(id:51005 count:5);(id:51010 count:5);(id:51015 count:5)" />
+        <item rate="160000" drop="(id:17193);(id:18653);(id:18654);(id:18655);(id:18656)" />
+        <item rate="120000" drop="(id:17208);(id:17209);(id:17210);(id:17211);(id:40025 suffix:30733);(id:18000 prefix:20413);(id:40045 prefix:20403)" />
+      </level>
+      <level value="2">
+        <item rate="1000000" drop="(id:65049 count:5);(id:65016 count:5);(id:51005 count:5);(id:51010 count:5);(id:51015 count:5)" />
+        <item rate="200000" drop="(id:16138);(id:16139);(id:16140);(id:16141);(id:17208);(id:17209);(id:17210);(id:17211);(id:15380);(id:18653);(id:18654);(id:18655);(id:18656)" />
+        <item rate="200000" drop="(id:17193);(id:40025 suffix:30733);(id:62005 prefix:20631);(id:18000 prefix:20413);(id:40045 prefix:20403);(id:64530 suffix:40030) " />
+      </level>
+      <level value="3">
+        <item rate="1000000" drop="(id:65049 count:5);(id:65016 count:5);(id:51005 count:5);(id:51010 count:5);(id:51015 count:5)" />
+        <item rate="390000" drop="(id:14127);(id:14128);(id:14129);(id:14130);(id:16138);(id:16139);(id:16140);(id:16141);(id:17208);(id:17209);(id:17210);(id:17211);(id:15380);(id:40025 suffix:30733);(id:18000 prefix:20413);(id:40045 prefix:20403)" />
+        <item rate="160000" drop="(id:17193);(id:18653);(id:18654);(id:18655);(id:18656);(id:62005 prefix:20631);(id:64530 suffix:40030) " />
+      </level>
+      <level value="4">
+        <item rate="1000000" drop="(id:65049 count:5);(id:65016 count:5);(id:51005 count:5);(id:51010 count:5);(id:51015 count:5)" />
+        <item rate="390000" drop="(id:14127);(id:14128);(id:14129);(id:14130);(id:16138);(id:16139);(id:16140);(id:16141);(id:17208);(id:17209);(id:17210);(id:17211);(id:15380);(id:40025 suffix:30733);(id:18000 prefix:20413);(id:40045 prefix:20403)" />
+        <item rate="320000" drop="(id:17193);(id:18653);(id:18654);(id:18655);(id:18656);(id:62005 prefix:20631);(id:64530 suffix:40030) " />
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 보스 미션2 레드 드래곤 S 랭크 보상-->
+  <type id="897">
+    <season version="1102">
+      <level value="1">
+        <item rate="1000000" drop="(id:65049 count:5);(id:65016 count:5);(id:51005 count:5);(id:51010 count:5);(id:51015 count:5)" />
+        <item rate="500000" drop="(id:17208);(id:17209);(id:17210);(id:17211);(id:17193);(id:18653);(id:18654);(id:18655);(id:18656);(id:40025 suffix:30733);(id:18000 prefix:20413);(id:40045 prefix:20403)" />
+        <item rate="10000" drop="(id:62005 prefix:20918)" />
+      </level>
+      <level value="2">
+        <item rate="1000000" drop="(id:65049 count:5);(id:65016 count:5);(id:51005 count:5);(id:51010 count:5);(id:51015 count:5);(id:18000 prefix:20413);(id:40045 prefix:20403);(id:17208);(id:17209);(id:17210);(id:17211);(id:17193);(id:18653);(id:18654);(id:18655);(id:18656);(id:40025 suffix:30733)" />
+        <item rate="240000" drop="(id:16138);(id:16139);(id:16140);(id:16141);(id:15380);(id:64530 suffix:40030) " />
+        <item rate="60000" drop="(id:62005 prefix:20631);(id:62005 prefix:20631);(id:62005 prefix:20631);(id:62005 prefix:20918)" />
+      </level>
+      <level value="3">
+        <item rate="1000000" drop="(id:65049 count:5);(id:65016 count:5);(id:51005 count:5);(id:51010 count:5);(id:51015 count:5);(id:15380);(id:40025 suffix:30733);(id:62005 prefix:20631)" />
+        <item rate="360000" drop="(id:18000 prefix:20413);(id:40045 prefix:20403);(id:64530 suffix:40030) ;(id:16138);(id:16139);(id:16140);(id:16141);(id:17208);(id:17209);(id:17210);(id:17211)" />
+        <item rate="120000" drop="(id:17193);(id:18653);(id:18654);(id:18655);(id:18656);(id:17193);(id:18653);(id:18654);(id:18655);(id:18656);(id:14127);(id:14128);(id:14129);(id:14130);(id:62005 prefix:20918)" />
+      </level>
+      <level value="4">
+        <item rate="1000000" drop="(id:65049 count:5);(id:65016 count:5);(id:51005 count:5);(id:51010 count:5);(id:51015 count:5);(id:15380);(id:40025 suffix:30733);(id:62005 prefix:20631)" />
+        <item rate="360000" drop="(id:18000 prefix:20413);(id:40045 prefix:20403);(id:64530 suffix:40030) ;(id:16138);(id:16139);(id:16140);(id:16141);(id:17208);(id:17209);(id:17210);(id:17211)" />
+        <item rate="240000" drop="(id:17193);(id:18653);(id:18654);(id:18655);(id:18656);(id:17193);(id:18653);(id:18654);(id:18655);(id:18656);(id:14127);(id:14128);(id:14129);(id:14130);(id:62005 prefix:20918)" />
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 보스 미션3 클라우솔라스 보상-->
+  <type id="898">
+    <season version="1102">
+      <level value="1">
+        <item rate="1000000" drop="(id:65049 count:5);(id:65016 count:5);(id:51005 count:5);(id:51010 count:5);(id:51015 count:5)" />
+        <item rate="160000" drop="(id:17185);(id:18257)" />
+        <item rate="120000" drop="(manual:305);(id:40003 suffix:30404);(id:40027 suffix:30520)" />
+      </level>
+      <level value="2">
+        <item rate="1000000" drop="(id:65049 count:5);(id:65016 count:5);(id:51005 count:5);(id:51010 count:5);(id:51015 count:5)" />
+        <item rate="200000" drop="(manual:260);(manual:305);(id:15432);(id:18257)" />
+        <item rate="200000" drop="(id:17185);(id:40003 suffix:30404);(id:62005 suffix:30604);(id:40027 suffix:30520);(id:64558 suffix:40058)" />
+      </level>
+      <level value="3">
+        <item rate="1000000" drop="(id:65049 count:5);(id:65016 count:5);(id:51005 count:5);(id:51010 count:5);(id:51015 count:5)" />
+        <item rate="390000" drop="(manual:304);(manual:260);(manual:305);(id:15432);(id:40003 suffix:30404);(id:40027 suffix:30520)" />
+        <item rate="160000" drop="(id:17185);(id:18257);(id:62005 suffix:30604);(id:64558 suffix:40058)" />
+      </level>
+      <level value="4">
+        <item rate="1000000" drop="(id:65049 count:5);(id:65016 count:5);(id:51005 count:5);(id:51010 count:5);(id:51015 count:5)" />
+        <item rate="390000" drop="(manual:304);(manual:260);(manual:305);(id:15432);(id:40003 suffix:30404);(id:40027 suffix:30520)" />
+        <item rate="320000" drop="(id:17185);(id:18257);(id:62005 suffix:30604);(id:64558 suffix:40058)" />
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 보스 미션3 클라우솔라스 S 랭크 보상-->
+  <type id="899">
+    <season version="1102">
+      <level value="1">
+        <item rate="1000000" drop="(id:65049 count:5);(id:65016 count:5);(id:51005 count:5);(id:51010 count:5);(id:51015 count:5)" />
+        <item rate="500000" drop="(manual:305);(id:17185);(id:18257);(id:40003 suffix:30404);(id:40027 suffix:30520)" />
+        <item rate="10000" drop="(id:62005 suffix:31019);(id:51000 prefix:21304)" />
+      </level>
+      <level value="2">
+        <item rate="1000000" drop="(id:65049 count:5);(id:65016 count:5);(id:51005 count:5);(id:51010 count:5);(id:51015 count:5);(id:40027 suffix:30520);(manual:305);(id:17185);(id:18257);(id:40003 suffix:30404)" />
+        <item rate="240000" drop="(manual:260);(id:15432);(id:64558 suffix:40058)" />
+        <item rate="60000" drop="(id:62005 suffix:30604);(id:62005 suffix:30604);(id:62005 suffix:30604);(id:62005 suffix:31019);(id:51000 prefix:21304)" />
+      </level>
+      <level value="3">
+        <item rate="1000000" drop="(id:65049 count:5);(id:65016 count:5);(id:51005 count:5);(id:51010 count:5);(id:51015 count:5);(id:15432);(id:40003 suffix:30404);(id:62005 suffix:30604)" />
+        <item rate="360000" drop="(id:40027 suffix:30520);(id:64558 suffix:40058);(manual:260);(manual:305)" />
+        <item rate="120000" drop="(id:17185);(id:18257);(id:17185);(id:18257);(manual:304);(id:62005 suffix:31019);(id:51000 prefix:21304)" />
+      </level>
+      <level value="4">
+        <item rate="1000000" drop="(id:65049 count:5);(id:65016 count:5);(id:51005 count:5);(id:51010 count:5);(id:51015 count:5);(id:15432);(id:40003 suffix:30404);(id:62005 suffix:30604)" />
+        <item rate="360000" drop="(id:40027 suffix:30520);(id:64558 suffix:40058);(manual:260);(manual:305)" />
+        <item rate="240000" drop="(id:17185);(id:18257);(id:17185);(id:18257);(manual:304);(id:62005 suffix:31019);(id:51000 prefix:21304)" />
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!--720007 연극 미션 보상-->
+  <type id="981">
+    <level value="1">
+      <item rate="1000000" drop="(id:64042 size:1.5);(id:64043 size:1.5);(id:64044 size:1.5);(id:64045 size:1.5);(id:64046 size:1.5);(id:64047 size:1.5);(id:64048 size:1.5);(id:64049 size:1.5);"/>
+      <item rate="20000" drop="(id:64050 size:1.3);(id:40006 suffix:30319);(id:16024 suffix:30320);(id:12284)"/>
+      <item rate="2000" drop="(id:40377);(id:40347)"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop="(id:64042 size:2);(id:64043 size:2);(id:64044 size:2);(id:64045 size:2);(id:64046 size:2);(id:64047 size:2);(id:64048 size:2);(id:64049 size:2);"/>
+      <item rate="40000" drop="(id:64050 size:1.6);(id:40006 suffix:30319);(id:16024 suffix:30320);(id:12284);(id:40022 prefix:21414);(id:40379)"/>
+      <item rate="4000" drop="(id:40377);(id:40347);(id:40380)"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop="(id:64042 size:2.5);(id:64043 size:2.5);(id:64044 size:2.5);(id:64045 size:2.5);(id:64046 size:2.5);(id:64047 size:2.5);(id:64048 size:2.5);(id:64049 size:2.5);"/>
+      <item rate="80000" drop="(id:64050 size:2);(id:40006 suffix:30319);(id:16024 suffix:30320);(id:12284);(id:40022 prefix:21414);(id:40379)"/>
+      <item rate="10000" drop="(id:40377);(id:40347);(id:40380)"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop="(id:64042 size:2.5);(id:64043 size:2.5);(id:64044 size:2.5);(id:64045 size:2.5);(id:64046 size:2.5);(id:64047 size:2.5);(id:64048 size:2.5);(id:64049 size:2.5);"/>
+      <item rate="80000" drop="(id:64050 size:2);(id:40006 suffix:30319);(id:16024 suffix:30320);(id:12284);(id:40022 prefix:21414);(id:40379)"/>
+      <item rate="10000" drop="(id:40377);(id:40347);(id:40380)"/>
+    </level>
+  </type>  
+  
+  <!--720008 연극 미션 보상-->
+  <type id="984">
+    <level value="1">
+      <item rate="1000000" drop="(id:64042 size:1.5);(id:64043 size:1.5);(id:64044 size:1.5);(id:64045 size:1.5);(id:64046 size:1.5);(id:64047 size:1.5);(id:64048 size:1.5);(id:64049 size:1.5);"/>
+      <item rate="30000" drop="(id:64050 size:1.3);(id:40022 prefix:20419);(id:12284);(id:40211 suffix:30531)"/>
+	  <item rate="2000" drop="(id:40377);(id:40378)"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop="(id:64042 size:2);(id:64043 size:2);(id:64044 size:2);(id:64045 size:2);(id:64046 size:2);(id:64047 size:2);(id:64048 size:2);(id:64049 size:2);"/>
+      <item rate="40000" drop="(id:64050 size:1.6);(id:40022 prefix:20419);(id:12284);(id:40211 suffix:30531);(id:62059 prefix:20837);(id:40379)"/>
+      <item rate="4000" drop="(id:40377);(id:40378)"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop="(id:64042 size:2.5);(id:64043 size:2.5);(id:64044 size:2.5);(id:64045 size:2.5);(id:64046 size:2.5);(id:64047 size:2.5);(id:64048 size:2.5);(id:64049 size:2.5);"/>
+      <item rate="80000" drop="(id:64050 size:2);(id:40022 prefix:20419);(id:12284);(id:40211 suffix:30531);(id:62059 prefix:20837);(id:40379)"/>
+      <item rate="10000" drop="(id:40377);(id:40378)"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop="(id:64042 size:2.5);(id:64043 size:2.5);(id:64044 size:2.5);(id:64045 size:2.5);(id:64046 size:2.5);(id:64047 size:2.5);(id:64048 size:2.5);(id:64049 size:2.5);"/>
+      <item rate="80000" drop="(id:64050 size:2);(id:40022 prefix:20419);(id:12284);(id:40211 suffix:30531);(id:62059 prefix:20837);(id:40379)"/>
+      <item rate="10000" drop="(id:40377);(id:40378)"/>
+    </level>
+  </type>  
+
+  <!--720004 연극 미션 보상-->
+  <type id="987">
+    <level value="1">
+      <item rate="1000000" drop="(id:64042 size:1.5);(id:64043 size:1.5);(id:64044 size:1.5);(id:64045 size:1.5);(id:64046 size:1.5);(id:64047 size:1.5);(id:64048 size:1.5);(id:64049 size:1.5);"/>
+      <item rate="30000" drop="(id:64050 size:1.3);(id:40022 prefix:20310);(id:12284);(id:40211 suffix:30531)"/>
+	  <item rate="2000" drop="(id:16147);(id:17241)"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop="(id:64042 size:2);(id:64043 size:2);(id:64044 size:2);(id:64045 size:2);(id:64046 size:2);(id:64047 size:2);(id:64048 size:2);(id:64049 size:2);"/>
+      <item rate="40000" drop="(id:64050 size:1.6);(id:40022 prefix:20310);(id:12284);(id:40211 suffix:30531);(id:62059 prefix:20842);(id:40379)"/>
+      <item rate="4500" drop="(id:16147);(id:17241);(id:18327)"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop="(id:64042 size:2.5);(id:64043 size:2.5);(id:64044 size:2.5);(id:64045 size:2.5);(id:64046 size:2.5);(id:64047 size:2.5);(id:64048 size:2.5);(id:64049 size:2.5);"/>
+      <item rate="80000" drop="(id:64050 size:2);(id:40022 prefix:20310);(id:12284);(id:40211 suffix:30531);(id:62059 prefix:20842);(id:40379)"/>
+      <item rate="6000" drop="(id:16147);(id:17241);(id:15495);(id:18327);(id:15489))"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop="(id:64042 size:2.5);(id:64043 size:2.5);(id:64044 size:2.5);(id:64045 size:2.5);(id:64046 size:2.5);(id:64047 size:2.5);(id:64048 size:2.5);(id:64049 size:2.5);"/>
+      <item rate="80000" drop="(id:64050 size:2);(id:40022 prefix:20310);(id:12284);(id:40211 suffix:30531);(id:62059 prefix:20842);(id:40379)"/>
+      <item rate="6000" drop="(id:16147);(id:17241);(id:15495);(id:18327);(id:15489)"/>
+    </level>
+  </type>  
+  
+   <type id="892">
+    <season version="1102">
+      <level value="1">
+        <item rate="1000000" drop=";"/>
+        <!-- 중급 통행증 -->
+        <item rate="1000" drop="(id:63509 expire:10080);(id:63512 expire:10080);(id:63515 expire:10080)"/>
+        <!-- 고급 통행증 -->
+        <item rate="400" drop="(id:63510 expire:10080);(id:63513 expire:10080);(id:63516 expire:10080)"/>
+      </level>
+      <level value="2">
+        <item rate="1000000" drop=";"/>
+        <!-- 중급/고급 통행증 -->
+        <item rate="1600" drop="(id:63509 expire:10080);(id:63512 expire:10080);(id:63515 expire:10080);(id:63510 expire:10080);(id:63513 expire:10080);(id:63516 expire:10080)"/>
+        <!-- 하드 통행증 -->
+        <item rate="200" drop="(id:63511 expire:10080);(id:63514 expire:10080);(id:63517 expire:10080)"/>
+      </level>
+      <level value="3">
+        <item rate="1000000" drop=";"/>
+        <!-- 중급/고급 통행증 -->
+        <item rate="1400" drop="(id:63509 expire:10080);(id:63512 expire:10080);(id:63515 expire:10080);(id:63510 expire:10080);(id:63513 expire:10080);(id:63516 expire:10080)"/>
+        <!-- 하드 통행증 -->
+        <item rate="400" drop="(id:63511 expire:10080);(id:63514 expire:10080);(id:63517 expire:10080)"/>
+      </level>
+      <level value="4">
+        <item rate="1000000" drop=";"/>
+        <!-- 중급/고급 통행증 -->
+        <item rate="1400" drop="(id:63509 expire:10080);(id:63512 expire:10080);(id:63515 expire:10080);(id:63510 expire:10080);(id:63513 expire:10080);(id:63516 expire:10080)"/>
+        <!-- 하드 통행증 -->
+        <item rate="800" drop="(id:63511 expire:10080);(id:63514 expire:10080);(id:63517 expire:10080)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 유황 거미 미션의 유황거미 쟈코-->
+  <type id="900">
+    <season version="1102">
+      <level value="1">
+        <item rate="150000" drop="(id:64053);(id:64037);(id:52003)"/>
+        <item rate="4500" drop="(id:40242);(id:40243);(id:60054);(id:40006)"/>
+        <item rate="0" drop=""/>
+      </level>
+      <level value="2">
+        <item rate="200000" drop="(id:64053);(id:64038);(id:52003)"/>
+        <item rate="6000" drop="(id:40242);(id:40243);(id:60054);(id:40006)"/>
+        <item rate="0" drop=""/>
+      </level>
+      <level value="3">
+        <item rate="250000" drop="(id:64053);(id:64039);(id:52003)"/>
+        <item rate="7500" drop="(id:40242);(id:40243);(id:60054);(id:40006)"/>
+        <item rate="0" drop=""/>
+      </level>
+      <level value="4">
+        <item rate="250000" drop="(id:64053);(id:64039);(id:52003)"/>
+        <item rate="7500" drop="(id:40242);(id:40243);(id:60054);(id:40006)"/>
+        <item rate="0" drop=""/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 중국 4주년 이벤트 그림자 미션 보상-->
+  <type id="902">
+    <level value="1">
+      <item rate="200000" drop="(id:46026);(id:18580);(id:40291);(id:40291);(id:40959);(id:40959);(id:18576);(id:18576);(id:18576);(id:18576)"/>
+      <item rate="800000" drop="(id:65029)"/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="2">
+      <item rate="200000" drop="(id:46026);(id:18580);(id:40291);(id:40291);(id:40959);(id:40959);(id:18576);(id:18576);(id:18576);(id:18576)"/>
+      <item rate="800000" drop="(id:65029)"/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="3">
+      <item rate="300000" drop="(id:46026);(id:18580);(id:40291);(id:40291);(id:40959);(id:40959);(id:18576);(id:18576);(id:18576);(id:18576)"/>
+      <item rate="700000" drop="(id:65029)"/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="4">
+      <item rate="300000" drop="(id:46026);(id:18580);(id:40291);(id:40291);(id:40959);(id:40959);(id:18576);(id:18576);(id:18576);(id:18576)"/>
+      <item rate="700000" drop="(id:65029)"/>
+      <item rate="0" drop=""/>
+    </level>
+  </type>
+
+  <!-- G12 와펜 재료 드랍 1-->
+  
+
+  <!-- G13 탈틴 엘리트 통행증 드랍 -->
+  <type id="943">
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+      <item rate="40000" drop="(id:63230);(id:63231);(id:63232);(id:63233);(id:63234);(id:63235);(id:63236);(id:63237);(id:63238);(id:63239);(id:63240);(id:63241);(id:63242);(id:63243)"/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+      <item rate="60000" drop="(id:63230);(id:63231);(id:63232);(id:63233);(id:63234);(id:63235);(id:63236);(id:63237);(id:63238);(id:63239);(id:63240);(id:63241);(id:63242);(id:63243)"/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+      <item rate="80000" drop="(id:63230);(id:63231);(id:63232);(id:63233);(id:63234);(id:63235);(id:63236);(id:63237);(id:63238);(id:63239);(id:63240);(id:63241);(id:63242);(id:63243)"/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+      <item rate="80000" drop="(id:63230);(id:63231);(id:63232);(id:63233);(id:63234);(id:63235);(id:63236);(id:63237);(id:63238);(id:63239);(id:63240);(id:63241);(id:63242);(id:63243)"/>
+      <item rate="0" drop=""/>
+    </level>
+  </type>
+
+  <!-- G13 타라 엘리트 통행증 드랍 -->
+  <type id="944">
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+      <item rate="40000" drop="(id:63244);(id:63245);(id:63246);(id:63247);(id:63248);(id:63249);(id:63250);(id:63251);(id:63252)"/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+      <item rate="60000" drop="(id:63244);(id:63245);(id:63246);(id:63247);(id:63248);(id:63249);(id:63250);(id:63251);(id:63252)"/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+      <item rate="80000" drop="(id:63244);(id:63245);(id:63246);(id:63247);(id:63248);(id:63249);(id:63250);(id:63251);(id:63252)"/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+      <item rate="80000" drop="(id:63244);(id:63245);(id:63246);(id:63247);(id:63248);(id:63249);(id:63250);(id:63251);(id:63252)"/>
+      <item rate="0" drop=""/>
+    </level>
+  </type>
+  
+ </itemdroptable>

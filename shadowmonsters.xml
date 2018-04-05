@@ -1,0 +1,3443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<itemdroptable>
+
+<type id="115">
+    <season version="901">
+      <level value="1">
+        <item rate="100000" drop="(id:52004);(id:52005)"/>
+        <item rate="10000" drop="(id:45001 count:80~100)"/>
+      </level>
+      <level value="2">
+        <item rate="100000" drop="(id:52004);(id:52005)"/>
+        <item rate="10000" drop="(id:45003 count:1~3)"/>
+      </level>
+      <level value="3">
+        <item rate="100000" drop="(id:52004);(id:52005)"/>
+        <item rate="10000" drop="(id:45003 count:1~3)"/>
+      </level>
+      <level value="4">
+        <item rate="100000" drop="(id:52004);(id:52005)"/>
+        <item rate="10000" drop="(id:45003 count:1~3)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 여  좀비 -->
+  <type id="116">
+    <season version="901">
+      <level value="1">
+        <item rate="100000" drop="(id:52004);(id:52005)"/>
+        <item rate="10000" drop="(id:52006)"/>
+        <item rate="1000" drop="(id:15010)"/>
+      </level>
+      <level value="2">
+        <item rate="100000" drop="(id:52004);(id:52005)"/>
+        <item rate="10000" drop="(id:52006)"/>
+        <item rate="1000" drop="(id:15010)"/>
+      </level>
+      <level value="3">
+        <item rate="100000" drop="(id:52004);(id:52005)"/>
+        <item rate="10000" drop="(id:52006)"/>
+        <item rate="1000" drop="(id:15010)"/>
+      </level>
+      <level value="4">
+        <item rate="100000" drop="(id:52004);(id:52005)"/>
+        <item rate="10000" drop="(id:52006)"/>
+        <item rate="2000" drop="(id:15010)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+
+  <!-- 남 매지션 -->
+  <type id="794">
+    <season version="901">
+      <level value="1">
+        <item rate="400000" drop="(id:65029);(id:51003);(id:51013);(id:51008)"/>
+        <item rate="30000" drop="(id:65029 count:2)"/>
+        <item rate="3000" drop="(id:40233)"/>
+      </level>
+      <level value="2">
+        <item rate="400000" drop="(id:60025);(id:51003);(id:51013);(id:65029);(id:51013)"/>
+        <item rate="30000" drop="(id:40232);(id:65029 count:2);(id:64600 suffix:40090)"/>
+        <item rate="5000" drop="(id:40033);(id:40258 suffix:31003)"/>
+      </level>
+      <level value="3">
+        <item rate="400000" drop="(id:60026);(id:51004);(id:51014);(id:51004);(id:51014)"/>
+        <item rate="30000" drop="(id:40231);(id:40012);(id:64600 suffix:40090)"/>
+        <item rate="10000" drop="(id:40233 prefix:21407);(id:60045 suffix:31003)"/>
+      </level>
+      <level value="4">
+        <item rate="400000" drop="(id:60026);(id:51004);(id:51014);(id:51004);(id:51014)"/>
+        <item rate="30000" drop="(id:40231);(id:40012);(id:64600 suffix:40090)"/>
+        <item rate="20000" drop="(id:40233 prefix:21407);(id:60045 suffix:31003)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 여 매지션 -->
+  <type id="795">
+    <season version="901">
+      <level value="1">
+        <item rate="300000" drop="(id:51007)"/>
+        <item rate="30000" drop="(id:60019)"/>
+      </level>
+      <level value="2">
+        <item rate="300000" drop="(id:51007)"/>
+        <item rate="30000" drop="(id:60020)"/>
+      </level>
+      <level value="3">
+        <item rate="300000" drop="(id:51008)"/>
+        <item rate="30000" drop="(id:60020)"/>
+      </level>
+      <level value="4">
+        <item rate="300000" drop="(id:51008)"/>
+        <item rate="30000" drop="(id:60020)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+
+  <!-- 커맨더A -->
+  <type id="796">
+    <season version="901">
+      <level value="1">
+        <item rate="400000" drop="(id:51003);(id:51008);(id:51013);(id:65029)"/>
+        <item rate="30000" drop="(id:46006);(id:65029 count:2)"/>
+        <item rate="10000" drop="(id:40030)"/>
+      </level>
+      <level value="2">
+        <item rate="400000" drop="(id:64001 count:5);(id:51004);(id:51014);(id:65029);(id:51009)"/>
+        <item rate="30000" drop="(id:46014);(id:65029 count:2)"/>
+        <item rate="4000" drop="(id:40033 prefix:20625)"/>
+      </level>
+      <level value="3">
+        <item rate="400000" drop="(id:64005 count:5);(id:60026);(id:51004);(id:51014);(id:51009);(id:51014)"/>
+        <item rate="30000" drop="(id:51009);(id:40012);(id:65029 count:2)"/>
+        <item rate="2000" drop="(id:40226);(id:46009)"/>
+      </level>
+      <level value="4">
+        <item rate="400000" drop="(id:64005 count:5);(id:60026);(id:51004);(id:51014);(id:51009);(id:51014)"/>
+        <item rate="30000" drop="(id:51009);(id:40012);(id:65029 count:2)"/>
+        <item rate="4000" drop="(id:40226);(id:46009)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 새도우 워리어 -->
+  <type id="797">
+    <season version="901">
+      <level value="1">
+        <item rate="150000" drop="(id:60024);(id:51002);(id:51012);(id:63002)"/>
+        <item rate="20000" drop="(id:17005);(id:40010);(id:16009)"/>
+        <item rate="5000" drop="(id:60025)"/>
+      </level>
+      <level value="2">
+        <item rate="100000" drop="(id:60024);(id:51003);(id:51013);(id:51003);(id:51013);(id:63002)"/>
+        <item rate="20000" drop="(id:17005);(id:40010);(id:51008);(id:16009)"/>
+        <item rate="5000" drop="(id:60025);(id:60026)"/>
+      </level>
+      <level value="3">
+        <item rate="100000" drop="(id:60024);(id:51003);(id:51013);(id:51003);(id:51013);(id:63002)"/>
+        <item rate="20000" drop="(id:17005);(id:40010);(id:51009);(id:51024);(id:16009)"/>
+        <item rate="6000" drop="(id:60025);(id:60026)"/>
+      </level>
+      <level value="4">
+        <item rate="100000" drop="(id:60024);(id:51003);(id:51013);(id:51003);(id:51013);(id:63002)"/>
+        <item rate="20000" drop="(id:17005);(id:40010);(id:51009);(id:51024);(id:16009)"/>
+        <item rate="12000" drop="(id:60025);(id:60026)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 파이터1 -->
+  <type id="798">
+    <season version="901">
+      <level value="1">
+        <item rate="150000" drop="(id:60024);(id:51002);(id:51012);(id:63002)"/>
+        <item rate="20000" drop="(id:40002);(id:40005)"/>
+        <item rate="3000" drop="(id:60025)"/>
+      </level>
+      <level value="2">
+        <item rate="100000" drop="(id:60024);(id:51003);(id:51013);(id:51008);(id:51013);(id:63002)"/>
+        <item rate="20000" drop="(id:40010);(id:40015)"/>
+        <item rate="3000" drop="(id:60025);(id:60026)"/>
+      </level>
+      <level value="3">
+        <item rate="80000" drop="(id:60024);(id:51004);(id:51012);(id:51003);(id:51013);(id:63002)"/>
+        <item rate="30000" drop="(id:17005);(id:40010);(id:51009);(id:51024)"/>
+        <item rate="6000" drop="(id:60025);(id:60026)"/>
+      </level>
+      <level value="4">
+        <item rate="80000" drop="(id:60024);(id:51004);(id:51012);(id:51003);(id:51013);(id:63002)"/>
+        <item rate="30000" drop="(id:17005);(id:40010);(id:51009);(id:51024)"/>
+        <item rate="12000" drop="(id:60025);(id:60026)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 파이터2 -->
+  <type id="799">
+    <season version="901">
+      <level value="1">
+        <item rate="150000" drop="(id:60024);(id:51002);(id:51012);(id:63002)"/>
+        <item rate="30000" drop="(id:17005);(id:40010)"/>
+        <item rate="3000" drop="(id:60025)"/>
+      </level>
+      <level value="2">
+        <item rate="100000" drop="(id:60024);(id:51002);(id:51012);(id:51003);(id:51013);(id:63002)"/>
+        <item rate="30000" drop="(id:17005);(id:40010);(id:51008)"/>
+        <item rate="3000" drop="(id:60025);(id:60026)"/>
+      </level>
+      <level value="3">
+        <item rate="100000" drop="(id:60024);(id:51002);(id:51012);(id:51003);(id:51013);(id:63002)"/>
+        <item rate="30000" drop="(id:17005);(id:40010);(id:51009);(id:51024)"/>
+        <item rate="6000" drop="(id:60025);(id:60026)"/>
+      </level>
+      <level value="4">
+        <item rate="100000" drop="(id:60024);(id:51002);(id:51012);(id:51003);(id:51013);(id:63002)"/>
+        <item rate="30000" drop="(id:17005);(id:40010);(id:51009);(id:51024)"/>
+        <item rate="12000" drop="(id:60025);(id:60026)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 랜서 1 -->
+  <type id="800">
+    <season version="901">
+      <level value="1">
+        <item rate="150000" drop="(id:51002);(id:51012);(id:63002)"/>
+        <item rate="4000" drop="(id:46006)"/>
+        <item rate="3000" drop="(id:40030)"/>
+      </level>
+      <level value="2">
+        <item rate="100000" drop="(id:60025);(id:51003);(id:51013);(id:51003);(id:51013);(id:63002)"/>
+        <item rate="5000" drop="(id:46006)"/>
+        <item rate="2000" drop="(id:40030)"/>
+      </level>
+      <level value="3">
+        <item rate="100000" drop="(id:60026);(id:51004);(id:51014);(id:51004);(id:51014);(id:63002)"/>
+        <item rate="8000" drop="(id:40080);(id:40012)"/>
+        <item rate="3000" drop="(id:40041)"/>
+      </level>
+      <level value="4">
+        <item rate="100000" drop="(id:60026);(id:51004);(id:51014);(id:51004);(id:51014);(id:63002)"/>
+        <item rate="8000" drop="(id:40080);(id:40012)"/>
+        <item rate="6000" drop="(id:40041)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 랜서 2 -->
+  <type id="801">
+    <season version="901">
+      <level value="1">
+        <item rate="150000" drop="(id:51002);(id:51012);(id:63002)"/>
+        <item rate="4000" drop=""/>
+        <item rate="3000" drop="(id:40030);(id:40011)"/>
+      </level>
+      <level value="2">
+        <item rate="100000" drop="(id:60025);(id:51003);(id:51013);(id:51003);(id:51013);(id:63002)"/>
+        <item rate="7000" drop="(id:40033);(id:40011)"/>
+      </level>
+      <level value="3">
+        <item rate="100000" drop="(id:60026);(id:51004);(id:51014);(id:51004);(id:51014);(id:63002)"/>
+        <item rate="30000" drop="(id:40080);(id:40012)"/>
+        <item rate="9000" drop="(id:40042);(id:40011)"/>
+      </level>
+      <level value="4">
+        <item rate="100000" drop="(id:60026);(id:51004);(id:51014);(id:51004);(id:51014);(id:63002)"/>
+        <item rate="30000" drop="(id:40080);(id:40012)"/>
+        <item rate="18000" drop="(id:40042);(id:40011)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+
+  <!-- 랜서 3 -->
+  <type id="802">
+    <season version="901">
+      <level value="1">
+        <item rate="150000" drop="(id:51002);(id:51012);(id:63002)"/>
+        <item rate="10000" drop="(id:46006)"/>
+        <item rate="3000" drop="(id:40030);(id:40242)"/>
+      </level>
+      <level value="2">
+        <item rate="100000" drop="(id:60025);(id:51003);(id:51013);(id:51003);(id:51013);(id:63002)"/>
+        <item rate="5000" drop="(id:40033);(id:40242)"/>
+      </level>
+      <level value="3">
+        <item rate="100000" drop="(id:60026);(id:51004);(id:51014);(id:51004);(id:51014);(id:63002)"/>
+        <item rate="20000" drop="(id:40080);(id:40012);(id:40242)"/>
+      </level>
+      <level value="4">
+        <item rate="100000" drop="(id:60026);(id:51004);(id:51014);(id:51004);(id:51014);(id:63002)"/>
+        <item rate="20000" drop="(id:40080);(id:40012);(id:40242)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 아처 1 -->
+  <type id="803">
+    <season version="901">
+      <level value="1">
+        <item rate="150000" drop="(id:51002);(id:51012);(id:63002)"/>
+        <item rate="10000" drop="(id:46006)"/>
+        <item rate="3000" drop="(id:40030);(id:40081)"/>
+      </level>
+      <level value="2">
+        <item rate="100000" drop="(id:60025);(id:51003);(id:51013);(id:51003);(id:51013);(id:63002)"/>
+        <item rate="6000" drop="(id:40033);(id:40081)"/>
+      </level>
+      <level value="3">
+        <item rate="100000" drop="(id:60026);(id:51004);(id:51014);(id:51004);(id:51014);(id:63002)"/>
+        <item rate="20000" drop="(id:40080);(id:40012);(id:40081)"/>
+      </level>
+      <level value="4">
+        <item rate="100000" drop="(id:60026);(id:51004);(id:51014);(id:51004);(id:51014);(id:63002)"/>
+        <item rate="20000" drop="(id:40080);(id:40012);(id:40081)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 아처 2 -->
+  <type id="804">
+    <season version="901">
+      <level value="1">
+        <item rate="150000" drop="(id:51002);(id:51012)"/>
+        <item rate="20000" drop="(id:46006)"/>
+        <item rate="4000" drop="(id:40030);(id:40081)"/>
+      </level>
+      <level value="2">
+        <item rate="100000" drop="(id:60025);(id:51003);(id:51013);(id:51003);(id:51013)"/>
+        <item rate="5000" drop="(id:40033);(id:40081)"/>
+      </level>
+      <level value="3">
+        <item rate="100000" drop="(id:60026);(id:51004);(id:51014);(id:51004);(id:51014)"/>
+        <item rate="30000" drop="(id:40080);(id:40012)"/>
+        <item rate="7000" drop="(id:40030);(id:40081)"/>
+      </level>
+      <level value="4">
+        <item rate="100000" drop="(id:60026);(id:51004);(id:51014);(id:51004);(id:51014)"/>
+        <item rate="30000" drop="(id:40080);(id:40012)"/>
+        <item rate="14000" drop="(id:40030);(id:40081)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 아처 3 -->
+  <type id="805">
+    <season version="901">
+      <level value="1">
+        <item rate="150000" drop="(id:51002);(id:51012)"/>
+        <item rate="30000" drop="(id:46006)"/>
+        <item rate="5000" drop="(id:40030);(id:40081)"/>
+      </level>
+      <level value="2">
+        <item rate="100000" drop="(id:60025);(id:51003);(id:51013);(id:51003);(id:51013)"/>
+        <item rate="10000" drop="(id:46014)"/>
+        <item rate="7000" drop="(id:40033);(id:40081)"/>
+      </level>
+      <level value="3">
+        <item rate="100000" drop="(id:60026);(id:51004);(id:51014);(id:51004);(id:51014)"/>
+        <item rate="30000" drop="(id:40080);(id:40012);(id:40081)"/>
+      </level>
+      <level value="4">
+        <item rate="100000" drop="(id:60026);(id:51004);(id:51014);(id:51004);(id:51014)"/>
+        <item rate="30000" drop="(id:40080);(id:40012);(id:40081)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+
+  <!-- 새도우 아처 디펜스형 -->
+  <type id="806">
+    <season version="901">
+      <level value="1">
+        <item rate="100000" drop="(id:51102);(id:62008);(id:18012 prefix:20401 suffix:30502);(id:45001);(id:63002);(id:63002)"/>
+        <item rate="20000" drop="(id:51007);(id:40007);(id:40007);(id:40081)"/>
+        <item rate="2000" drop="(id:19017)"/>
+      </level>
+      <level value="2">
+        <item rate="100000" drop="(id:60026);(id:51004);(id:51014);(id:51004);(id:51014);(id:63002)"/>
+        <item rate="30000" drop="(id:40080);(id:40012);(id:40081)"/>
+        <item rate="2000" drop="(id:40080);(id:40012)"/>
+      </level>
+      <level value="3">
+        <item rate="100000" drop="(id:45001 count:10~30);(id:51008);(id:51003);(id:63002)"/>
+        <item rate="40000" drop="(id:15000 prefix:207 suffix:10402);(id:62008);(id:40081)"/>
+        <item rate="1000" drop="(id:18002);(id:15000 prefix:1706 suffix:11205);(id:40002);(id:40002)"/>
+      </level>
+      <level value="4">
+        <item rate="100000" drop="(id:45001 count:10~30);(id:51008);(id:51003);(id:63002)"/>
+        <item rate="40000" drop="(id:15000 prefix:207 suffix:10402);(id:62008);(id:40081)"/>
+        <item rate="2000" drop="(id:18002);(id:15000 prefix:1706 suffix:11205);(id:40002);(id:40002)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+
+  <!-- 새도우 샤이어 -->
+  <type id="807">
+    <season version="901">
+      <level value="1">
+        <item rate="200000" drop="(id:52004);(id:50005);(id:51002);(id:51012);(id:63002)"/>
+        <item rate="20000" drop="(id:60005);(id:40001);(id:18006 prefix:1501 suffix:10706)"/>
+        <item rate="2000" drop="(id:60026);(id:18023);(id:40023 prefix:101);(id:60024);(id:60024);(id:40001 suffix:30602)"/>
+      </level>
+      <level value="2">
+        <item rate="100000" drop="(id:60005);(id:63000);(id:51003);(id:51013);(id:63002)"/>
+        <item rate="20000" drop="(id:52006);(id:64522 suffix:40022)"/>
+        <item rate="3000" drop="(id:15018);(id:50005);(id:40022 prefix:207 suffix:11301)"/>
+      </level>
+      <level value="3">
+        <item rate="100000" drop="(id:40010);(id:18006 suffix:10806)"/>
+        <item rate="20000" drop="(id:51102);(id:62008);(id:18012 prefix:20401 suffix:30502)"/>
+        <item rate="3000" drop="(id:51102);(id:62008);(id:18012 prefix:20401 suffix:30502)"/>
+      </level>
+      <level value="4">
+        <item rate="100000" drop="(id:40010);(id:18006 suffix:10806)"/>
+        <item rate="20000" drop="(id:51102);(id:62008);(id:18012 prefix:20401 suffix:30502)"/>
+        <item rate="6000" drop="(id:51102);(id:62008);(id:18012 prefix:20401 suffix:30502)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+
+  <!-- 크래그카우 -->
+  <type id="808">
+    <season version="901">
+      <level value="1">
+        <item rate="100000" drop="(id:45001 count:10~30);(id:45001 count:10~30);(id:51007);(id:51002;(id:63002))"/>
+        <item rate="25000" drop="(id:52007);(id:16008 prefix:306 suffix:10503);(id:15003 prefix:20205)"/>
+        <item rate="1500" drop="(id:17006);(id:16008 prefix:305);(id:40002)"/>
+      </level>
+      <level value="2">
+        <item rate="100000" drop="(id:45001 count:20~40);(id:51008)"/>
+        <item rate="30000" drop="(id:18002);(id:15000 prefix:1706 suffix:11304);(id:18006 prefix:20601 suffix:30303)"/>
+        <item rate="2500" drop="(id:40010);(id:18006 suffix:10806)"/>
+      </level>
+      <level value="3">
+        <item rate="100000" drop="(id:51002);(id:50005);(id:40001 prefix:1606 suffix:11101)"/>
+        <item rate="30000" drop="(id:18040);(id:64521 suffix:40021);(id:18526)"/>
+        <item rate="2000" drop="(id:18002);(id:15000 prefix:1706 suffix:11105);(id:40002);(id:40002)"/>
+      </level>
+      <level value="4">
+        <item rate="100000" drop="(id:51002);(id:50005);(id:40001 prefix:1606 suffix:11101)"/>
+        <item rate="30000" drop="(id:18040);(id:64521 suffix:40021);(id:18526)"/>
+        <item rate="4000" drop="(id:18002);(id:15000 prefix:1706 suffix:11105);(id:40002);(id:40002)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+
+
+  <!-- 그럼빌 1 -->
+  <type id="809">
+    <season version="901">
+      <level value="1">
+        <item rate="100000" drop="(id:15000 prefix:207 suffix:10403);(id:62008);(id:17032);(id:51007);(id:63001);(id:40003 suffix:30404);(id:63002);(id:63002)"/>
+        <item rate="30000" drop="(id:51007);(id:62008)"/>
+        <item rate="2000" drop="(id:40007);(id:40007)"/>
+      </level>
+      <level value="2">
+        <item rate="100000" drop="(id:50131);(id:50132);(id:50156);(id:50148);(id:60024)"/>
+        <item rate="30000" drop="(id:51101);(id:51102);(id:51103)"/>
+        <item rate="2000" drop="(id:51002);(id:40023 prefix:1);(id:60024);(id:60024);(id:63123 expire:480);(id:63124 expire:480);(id:63125 expire:480);(id:63002)"/>
+      </level>
+      <level value="3">
+        <item rate="100000" drop="(id:51002);(id:51012);(id:51006);(id:63000);(id:45002 count:5~10);(id:60005 count:2~4);(id:63002)"/>
+        <item rate="30000" drop="(id:63000);(id:60005)"/>
+        <item rate="2000" drop="(id:40071);(id:40072);(id:40073);(id:40074);(id:40075);(id:40076);(id:40077)"/>
+      </level>
+      <level value="4">
+        <item rate="100000" drop="(id:51002);(id:51012);(id:51006);(id:63000);(id:45002 count:5~10);(id:60005 count:2~4);(id:63002)"/>
+        <item rate="30000" drop="(id:63000);(id:60005)"/>
+        <item rate="4000" drop="(id:40071);(id:40072);(id:40073);(id:40074);(id:40075);(id:40076);(id:40077)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+
+  <!-- 그럼빌 2 -->
+  <type id="810">
+    <season version="901">
+      <level value="1">
+        <item rate="100000" drop="(id:45001 count:80~100);(id:65014);(id:63002)"/>
+        <item rate="20000" drop="(id:52007);(id:52007);(id:52007);(id:17012 prefix:5 suffix:11105);(id:17012 prefix:5 suffix:11105);(id:17012 prefix:5 suffix:11105);(id:63116 expire:480);(id:63116 expire:480);(id:63002)"/>
+        <item rate="3000" drop="(id:51101);(id:51102);(id:51103);(id:51101);(id:51102);(id:51103)"/>
+      </level>
+      <level value="2">
+        <item rate="100000" drop="(id:18006);(id:16015 prefix:1406 suffix:10605);(id:62006);(id:17034);(id:63002)"/>
+        <item rate="20000" drop="(id:50003);(id:60023);(id:60024);(id:51002);(id:51003)"/>
+        <item rate="3000" drop="(id:52007);(id:18006 prefix:302 suffix:10807);(id:62007)"/>
+      </level>
+      <level value="3">
+        <item rate="100000" drop="(id:18006);(id:16015 prefix:1406 suffix:10605);(id:62006);(id:17034);(id:63002)"/>
+        <item rate="20000" drop="(id:60026);(id:51004);(id:51014);(id:51004);(id:51014)"/>
+        <item rate="3000" drop="(id:60026);(id:51004);(id:51014);(id:51004);(id:51014)"/>
+      </level>
+      <level value="4">
+        <item rate="100000" drop="(id:18006);(id:16015 prefix:1406 suffix:10605);(id:62006);(id:17034);(id:63002)"/>
+        <item rate="20000" drop="(id:60026);(id:51004);(id:51014);(id:51004);(id:51014)"/>
+        <item rate="6000" drop="(id:60026);(id:51004);(id:51014);(id:51004);(id:51014)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+
+  <!-- 그럼빌 3 -->
+  <type id="811">
+    <season version="901">
+      <level value="1">
+        <item rate="100000" drop="(id:40002 suffix:31002);(id:18038);(id:18006 prefix:20401);(id:18036);(id:63002)"/>
+        <item rate="30000" drop="(id:51101);(id:51102);(id:51103)"/>
+        <item rate="2000" drop="(id:18002);(id:15000 prefix:1706 suffix:11105);(id:40002);(id:40002)"/>
+      </level>
+      <level value="2">
+        <item rate="1000000" drop="(id:40002 suffix:31002);(id:18038);(id:18006 prefix:20401);(id:63002)"/>
+        <item rate="30000" drop="(id:62001);(id:62003);(id:40039 prefix:20413);(id:17006 prefix:7 suffix:10403)"/>
+        <item rate="2000" drop="(id:18021);(id:62012 count:1~3)"/>
+      </level>
+      <level value="3">
+        <item rate="100000" drop="(id:18006);(id:16015 prefix:1406 suffix:10605);(id:62006);(id:17034);(id:63002)"/>
+        <item rate="30000" drop="(id:40080);(id:40012)"/>
+        <item rate="3000" drop="(id:40080);(id:40012)"/>
+      </level>
+      <level value="4">
+        <item rate="100000" drop="(id:18006);(id:16015 prefix:1406 suffix:10605);(id:62006);(id:17034);(id:63002)"/>
+        <item rate="30000" drop="(id:40080);(id:40012)"/>
+        <item rate="6000" drop="(id:40080);(id:40012)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+
+  <!-- 새도우 연금술사 -->
+  <type id="812">
+    <season version="901">
+      <level value="1">
+        <item rate="100000" drop="(id:60005 count:1~5);(id:51002);(id:51012);(id:63000);(id:45001 count:20~40);(id:45001 count:10~30);(id:51007);(id:51002);(id:65014)"/>
+        <item rate="20000" drop="(id:64025);(id:64025);(id:64025);(id:64025);(id:64026);(id:64026);(id:64026);(id:64027);(id:64027);(id:64028);(id:50001);(id:50005)"/>
+        <item rate="2000" drop="(id:15022);(id:60025);(id:40007);(id:40007);(id:40022 prefix:207 suffix:11304);(id:15000)"/>
+      </level>
+      <level value="2">
+        <item rate="100000" drop="(id:50005);(id:45001 count:80~100)"/>
+        <item rate="30000" drop="(id:40007);(id:40007);(id:40019);(id:50005);(id:40022 suffix:11303)"/>
+        <item rate="3000" drop="(id:40001 prefix:1406);(id:17020);(id:15000 prefix:1506);(id:65015)"/>
+      </level>
+      <level value="3">
+        <item rate="100000" drop="(id:18006);(id:16015 prefix:1406 suffix:10605);(id:62006);(id:17034)"/>
+        <item rate="30000" drop="(id:40080);(id:40012)"/>
+        <item rate="3000" drop="(id:40080);(id:40012);(id:65015)"/>
+      </level>
+      <level value="4">
+        <item rate="100000" drop="(id:18006);(id:16015 prefix:1406 suffix:10605);(id:62006);(id:17034)"/>
+        <item rate="30000" drop="(id:40080);(id:40012)"/>
+        <item rate="6000" drop="(id:40080);(id:40012);(id:65015)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+
+
+  <!-- 글라스 기브넨과 같이 나오는 크래그 카우 /미완성 -->
+  <type id="817">
+    <season version="901">
+      <level value="1">
+        <item rate="100000" drop="(id:65014);(id:50006 count:2)"/>
+        <item rate="10000" drop="(id:18005 suffix:30602);(id:51102);(id:64553 suffix:40053);(id:64554 suffix:40054)"/>
+        <item rate="3000" drop="(id:40006);(id:40006);(id:40038 suffix:30502);(id:40020)"/>
+      </level>
+      <level value="2">
+        <item rate="100000" drop="(id:63001);(id:63000);(id:45001 count:20~50);(id:51007)"/>
+        <item rate="30000" drop="(id:40019 prefix:107);(id:18023);(id:40023 prefix:101);(id:60024);(id:60024);(id:40001 suffix:30602)"/>
+        <item rate="2000" drop="(id:17004 prefix:6);(id:40027 suffix:11006);(id:60026);(id:60026);(id:40016);(id:40016)"/>
+      </level>
+      <level value="3">
+        <item rate="100000" drop="(id:18006);(id:16015 prefix:1406 suffix:10605);(id:62006);(id:17034)"/>
+        <item rate="30000" drop="(id:18006);(id:16015 prefix:1406 suffix:10605);(id:62006)"/>
+        <item rate="2000" drop="(id:40226)"/>
+      </level>
+      <level value="4">
+        <item rate="100000" drop="(id:18006);(id:16015 prefix:1406 suffix:10605);(id:62006);(id:17034)"/>
+        <item rate="30000" drop="(id:18006);(id:16015 prefix:1406 suffix:10605);(id:62006)"/>
+        <item rate="4000" drop="(id:40226)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+
+  <!-- 퀼린 골렘 -->
+  <type id="818">
+    <season version="901">
+      <level value="1">
+        <item rate="1000000" drop="(id:65014 count:1)"/>
+        <item rate="30000" drop="(id:62006);(id:45102 count:3~6);(id:40015)"/>
+        <item rate="2000" drop="(id:51002);(id:40025 prefix:302);(id:60025);(id:60025)"/>
+      </level>
+      <level value="2">
+        <item rate="1000000" drop="(id:65015 count:1)"/>
+        <item rate="30000" drop="(id:18006 prefix:302 suffix:10807);(id:62007);(id:60026);(id:63000);(id:45001 count:20~50);(id:51007)"/>
+        <item rate="3000" drop="(id:17009);(id:40025 prefix:106);(id:60025);(id:16001 prefix:305);(id:16001 prefix:305);(manual:20160)"/>
+      </level>
+      <level value="3">
+        <item rate="1000000" drop="(id:65016 count:1)"/>
+        <item rate="30000" drop="(id:18006);(id:16015 suffix:10605);(id:62006);(id:17034);(id:65015)"/>
+        <item rate="3000" drop="(id:18006);(id:16015 suffix:10605);(id:62006);(id:17034);(id:65015)"/>
+      </level>
+      <level value="4">
+        <item rate="1000000" drop="(id:65016 count:1)"/>
+        <item rate="30000" drop="(id:18006);(id:16015 suffix:10605);(id:62006);(id:17034);(id:65015)"/>
+        <item rate="6000" drop="(id:18006);(id:16015 suffix:10605);(id:62006);(id:17034);(id:65015)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 아라트보어/아라트디어 공용 -->
+  <type id="819">
+    <season version="901">
+      <level value="1">
+        <item rate="150000" drop="(id:50006 count:1~2);(id:60023)"/>
+        <item rate="30000" drop="(id:18002);(id:50005);(id:17005);(id:51103);(id:60024);(id:51102);(id:51101)"/>
+        <item rate="4000" drop="(id:60025)"/>
+      </level>
+      <level value="2">
+        <item rate="150000" drop="(id:50006 count:1~2);(id:60023)"/>
+        <item rate="30000" drop="(id:18002);(id:50005);(id:17005);(id:51103);(id:60024);(id:51102);(id:51101)"/>
+        <item rate="6000" drop="(id:60025);(id:60026)"/>
+      </level>
+      <level value="3">
+        <item rate="150000" drop="(id:50006 count:1~2);(id:60023)"/>
+        <item rate="30000" drop="(id:18002);(id:50005);(id:17005);(id:51103);(id:60024);(id:51102);(id:51101)"/>
+        <item rate="8000" drop="(id:60025);(id:60026)"/>
+      </level>
+      <level value="4">
+        <item rate="150000" drop="(id:50006 count:1~2);(id:60023)"/>
+        <item rate="30000" drop="(id:18002);(id:50005);(id:17005);(id:51103);(id:60024);(id:51102);(id:51101)"/>
+        <item rate="16000" drop="(id:60025);(id:60026)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 크래그카우 보스형 -->
+  <type id="822">
+    <season version="1101">
+      <level value="1">
+        <item rate="300000" drop="(id:51003);(id:51008);(id:51013);(id:60024)"/>
+        <item rate="75000" drop="(id:60025);(id:40079);(id:40240);(id:40016);(id:64594 suffix:40084)"/>
+        <item rate="20000" drop="(id:60026);"/>
+      </level>
+      <level value="2">
+        <item rate="300000" drop="(id:51003);(id:51008);(id:51013);(id:60024)"/>
+        <item rate="125000" drop="(id:60025);(id:40079);(id:40240);(id:40016);(id:64594 suffix:40084)"/>
+        <item rate="20000" drop="(id:60026)"/>
+      </level>
+      <level value="3">
+        <item rate="300000" drop="(id:51003);(id:51008);(id:51013);(id:60024)"/>
+        <item rate="120000" drop="(id:60025);(id:40240);(id:40016);(id:64594 suffix:40084)"/>
+        <item rate="60000" drop="(id:60026)"/>
+      </level>
+      <level value="4">
+        <item rate="300000" drop="(id:51003);(id:51008);(id:51013);(id:60024)"/>
+        <item rate="120000" drop="(id:60025);(id:40240);(id:40016);(id:64594 suffix:40084)"/>
+        <item rate="120000" drop="(id:60026)"/>
+      </level>
+    </season>
+    <season version="901">
+      <level value="1">
+        <item rate="300000" drop="(id:51003);(id:51008);(id:51013);(id:60024)"/>
+        <item rate="75000" drop="(id:60025);(id:40079);(id:40240);(id:40016)"/>
+        <item rate="20000" drop="(id:60026);"/>
+      </level>
+      <level value="2">
+        <item rate="300000" drop="(id:51003);(id:51008);(id:51013);(id:60024)"/>
+        <item rate="125000" drop="(id:60025);(id:40079);(id:40240);(id:40016)"/>
+        <item rate="20000" drop="(id:60026)"/>
+      </level>
+      <level value="3">
+        <item rate="300000" drop="(id:51003);(id:51008);(id:51013);(id:60024)"/>
+        <item rate="120000" drop="(id:60025);(id:40240);(id:40016)"/>
+        <item rate="60000" drop="(id:60026)"/>
+      </level>
+      <level value="4">
+        <item rate="300000" drop="(id:51003);(id:51008);(id:51013);(id:60024)"/>
+        <item rate="120000" drop="(id:60025);(id:40240);(id:40016)"/>
+        <item rate="120000" drop="(id:60026)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 암흑 에르그 드랍 -->
+  <type id="823">
+    <season version="901">
+      <level value="1">
+        <item rate="250000" drop="(id:65036)"/>
+        <item rate="0" drop=""/>
+        <item rate="0" drop=""/>
+      </level>
+      <level value="2">
+        <item rate="250000" drop="(id:65036)"/>
+        <item rate="0" drop=""/>
+        <item rate="0" drop=""/>
+      </level>
+      <level value="3">
+        <item rate="250000" drop="(id:65036)"/>
+        <item rate="0" drop=""/>
+        <item rate="0" drop=""/>
+      </level>
+      <level value="4">
+        <item rate="250000" drop="(id:65036)"/>
+        <item rate="0" drop=""/>
+        <item rate="0" drop=""/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 다크 오일 드랍 -->
+  <type id="824">
+    <season version="901">
+      <level value="1">
+        <item rate="250000" drop="(id:65037)"/>
+        <item rate="0" drop=""/>
+        <item rate="0" drop=""/>
+      </level>
+      <level value="2">
+        <item rate="250000" drop="(id:65037)"/>
+        <item rate="0" drop=""/>
+        <item rate="0" drop=""/>
+      </level>
+      <level value="3">
+        <item rate="250000" drop="(id:65037)"/>
+        <item rate="0" drop=""/>
+        <item rate="0" drop=""/>
+      </level>
+      <level value="4">
+        <item rate="250000" drop="(id:65037)"/>
+        <item rate="0" drop=""/>
+        <item rate="0" drop=""/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 새도우 크리스탈 드랍 -->
+  <type id="825">
+    <season version="901">
+      <level value="1">
+        <item rate="250000" drop="(id:65039)"/>
+        <item rate="0" drop=""/>
+        <item rate="0" drop=""/>
+      </level>
+      <level value="2">
+        <item rate="250000" drop="(id:65039)"/>
+        <item rate="0" drop=""/>
+        <item rate="0" drop=""/>
+      </level>
+      <level value="3">
+        <item rate="250000" drop="(id:65039)"/>
+        <item rate="0" drop=""/>
+        <item rate="0" drop=""/>
+      </level>
+      <level value="4">
+        <item rate="250000" drop="(id:65039)"/>
+        <item rate="0" drop=""/>
+        <item rate="0" drop=""/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 바위의 결정 드랍 -->
+  <type id="826">
+    <season version="901">
+      <level value="1">
+        <item rate="250000" drop="(id:65038)"/>
+        <item rate="0" drop=""/>
+        <item rate="0" drop=""/>
+      </level>
+      <level value="2">
+        <item rate="250000" drop="(id:65038)"/>
+        <item rate="0" drop=""/>
+        <item rate="0" drop=""/>
+      </level>
+      <level value="3">
+        <item rate="250000" drop="(id:65038)"/>
+        <item rate="0" drop=""/>
+        <item rate="0" drop=""/>
+      </level>
+      <level value="4">
+        <item rate="250000" drop="(id:65038)"/>
+        <item rate="0" drop=""/>
+        <item rate="0" drop=""/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 유황 거미 -->
+  <type id="828">
+    <season version="901">
+      <level value="1">
+        <item rate="150000" drop="(id:64053);(id:64037);(id:52003)"/>
+        <item rate="10000" drop="(id:40242);(id:40243);(id:60054);(id:40006)"/>
+        <item rate="0" drop=""/>
+      </level>
+      <level value="2">
+        <item rate="200000" drop="(id:64053);(id:64038);(id:52003)"/>
+        <item rate="14000" drop="(id:40242);(id:40243);(id:60054);(id:40006)"/>
+        <item rate="0" drop=""/>
+      </level>
+      <level value="3">
+        <item rate="250000" drop="(id:64053);(id:64039);(id:52003)"/>
+        <item rate="18000" drop="(id:40242);(id:40243);(id:60054);(id:40006)"/>
+        <item rate="0" drop=""/>
+      </level>
+      <level value="4">
+        <item rate="250000" drop="(id:64053);(id:64039);(id:52003)"/>
+        <item rate="18000" drop="(id:40242);(id:40243);(id:60054);(id:40006)"/>
+        <item rate="0" drop=""/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 거대 유황 거미 -->
+  <type id="829">
+    <season version="901">
+      <level value="1">
+        <item rate="400000" drop="(id:64053 count:4);(id:64036 count:6);(id:52003 count:3)"/>
+        <item rate="100000" drop="(id:40242);(id:40243);(id:60054);(id:40006)"/>
+        <item rate="0" drop=""/>
+      </level>
+      <level value="2">
+        <item rate="400000" drop="(id:64053 count:5);(id:64036 count:8);(id:52003 count:4)"/>
+        <item rate="150000" drop="(id:40242);(id:40243);(id:60054);(id:40006)"/>
+        <item rate="0" drop=""/>
+      </level>
+      <level value="3">
+        <item rate="400000" drop="(id:64053 count:5);(id:64036 count:10);(id:52003 count:5)"/>
+        <item rate="200000" drop="(id:40242);(id:40243);(id:60054);(id:40006)"/>
+        <item rate="0" drop=""/>
+      </level>
+      <level value="4">
+        <item rate="400000" drop="(id:64053 count:5);(id:64036 count:10);(id:52003 count:5)"/>
+        <item rate="200000" drop="(id:40242);(id:40243);(id:60054);(id:40006)"/>
+        <item rate="0" drop=""/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 해골 랜서 -->
+  <type id="830">
+    <season version="901">
+      <level value="1">
+        <item rate="250000" drop="(id:51002);(id:51012);(id:51006);(id:63000);(id:45001 count:5~10);(id:60005 count:2~4)"/>
+        <item rate="30000" drop="(id:51007);(id:51101);(id:51104);(id:51103);(id:51042)"/>
+        <item rate="5000" drop="(id:60025);(id:40242)"/>
+      </level>
+      <level value="2">
+        <item rate="300000" drop="(id:51003);(id:51013);(id:51007);(id:63000);(id:45001 count:5~10);(id:60005 count:2~4)"/>
+        <item rate="40000" drop="(id:51008);(id:51101);(id:51104);(id:51103);(id:51042)"/>
+        <item rate="10000" drop="(id:60025);(id:60026);(id:40242)"/>
+      </level>
+      <level value="3">
+        <item rate="350000" drop="(id:51004);(id:51014);(id:51008);(id:63000);(id:45001 count:5~10);(id:60005 count:2~4)"/>
+        <item rate="70000" drop="(id:51008);(id:51101);(id:51104);(id:51103);(id:51042);(id:51109)"/>
+        <item rate="20000" drop="(id:60025);(id:40242);(id:60026);(id:51009)"/>
+      </level>
+      <level value="4">
+        <item rate="350000" drop="(id:51004);(id:51014);(id:51008);(id:63000);(id:45001 count:5~10);(id:60005 count:2~4)"/>
+        <item rate="70000" drop="(id:51008);(id:51101);(id:51104);(id:51103);(id:51042);(id:51109)"/>
+        <item rate="40000" drop="(id:60025);(id:40242);(id:60026);(id:51009)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 해골 아처 -->
+  <type id="831">
+    <season version="901">
+      <level value="1">
+        <item rate="150000" drop="(id:51002);(id:51012)"/>
+        <item rate="20000" drop="(id:46006)"/>
+        <item rate="4000" drop="(id:40030);(id:40081)"/>
+      </level>
+      <level value="2">
+        <item rate="100000" drop="(id:60025);(id:51003);(id:51013);(id:51003);(id:51013)"/>
+        <item rate="5000" drop="(id:40033);(id:40081)"/>
+      </level>
+      <level value="3">
+        <item rate="100000" drop="(id:60026);(id:51004);(id:51014);(id:51004);(id:51014)"/>
+        <item rate="30000" drop="(id:40080);(id:40012)"/>
+        <item rate="7000" drop="(id:40030);(id:40081)"/>
+      </level>
+      <level value="4">
+        <item rate="100000" drop="(id:60026);(id:51004);(id:51014);(id:51004);(id:51014)"/>
+        <item rate="30000" drop="(id:40080);(id:40012)"/>
+        <item rate="14000" drop="(id:40030);(id:40081)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 해골 파이터 -->
+  <type id="832">
+    <season version="901">
+      <level value="1">
+        <item rate="150000" drop="(id:60024);(id:51002);(id:51012);(id:63002)"/>
+        <item rate="30000" drop="(id:17005);(id:40010)"/>
+        <item rate="3000" drop="(id:60025)"/>
+      </level>
+      <level value="2">
+        <item rate="100000" drop="(id:60024);(id:51002);(id:51012);(id:51003);(id:51013);(id:63002)"/>
+        <item rate="30000" drop="(id:17005);(id:40010);(id:51008)"/>
+        <item rate="3000" drop="(id:60025);(id:60026)"/>
+      </level>
+      <level value="3">
+        <item rate="100000" drop="(id:60024);(id:51002);(id:51012);(id:51003);(id:51013);(id:63002)"/>
+        <item rate="30000" drop="(id:17005);(id:40010);(id:51009);(id:51024)"/>
+        <item rate="6000" drop="(id:60025);(id:60026)"/>
+      </level>
+      <level value="4">
+        <item rate="100000" drop="(id:60024);(id:51002);(id:51012);(id:51003);(id:51013);(id:63002)"/>
+        <item rate="30000" drop="(id:17005);(id:40010);(id:51009);(id:51024)"/>
+        <item rate="12000" drop="(id:60025);(id:60026)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+
+  <!-- 새도우 브라운 고스트 -->
+  <type id="833">
+    <season version="901">
+      <level value="1">
+        <item rate="150000" drop="(id:60024);(id:51002);(id:51012);(id:63002)"/>
+        <item rate="30000" drop="(id:17005);(id:40010)"/>
+        <item rate="3000" drop="(id:60025)"/>
+      </level>
+      <level value="2">
+        <item rate="100000" drop="(id:60024);(id:51002);(id:51012);(id:51003);(id:51013);(id:63002)"/>
+        <item rate="30000" drop="(id:17005);(id:40010);(id:51008)"/>
+        <item rate="3000" drop="(id:60025);(id:60026)"/>
+      </level>
+      <level value="3">
+        <item rate="100000" drop="(id:60024);(id:51002);(id:51012);(id:51003);(id:51013);(id:63002)"/>
+        <item rate="30000" drop="(id:17005);(id:40010);(id:51009);(id:51024)"/>
+        <item rate="6000" drop="(id:60025);(id:60026)"/>
+      </level>
+      <level value="4">
+        <item rate="100000" drop="(id:60024);(id:51002);(id:51012);(id:51003);(id:51013);(id:63002)"/>
+        <item rate="30000" drop="(id:17005);(id:40010);(id:51009);(id:51024)"/>
+        <item rate="12000" drop="(id:60025);(id:60026)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 새도우 레드 고스트 -->
+  <type id="834">
+    <season version="901">
+      <level value="1">
+        <item rate="150000" drop="(id:60024);(id:51002);(id:51012);(id:63002)"/>
+        <item rate="30000" drop="(id:17005);(id:40010)"/>
+        <item rate="3000" drop="(id:60025)"/>
+      </level>
+      <level value="2">
+        <item rate="100000" drop="(id:60024);(id:51002);(id:51012);(id:51003);(id:51013);(id:63002)"/>
+        <item rate="30000" drop="(id:17005);(id:40010);(id:51008)"/>
+        <item rate="3000" drop="(id:60025);(id:60026)"/>
+      </level>
+      <level value="3">
+        <item rate="100000" drop="(id:60024);(id:51002);(id:51012);(id:51003);(id:51013);(id:63002)"/>
+        <item rate="30000" drop="(id:17005);(id:40010);(id:51009);(id:51024)"/>
+        <item rate="6000" drop="(id:60025);(id:60026)"/>
+      </level>
+      <level value="4">
+        <item rate="100000" drop="(id:60024);(id:51002);(id:51012);(id:51003);(id:51013);(id:63002)"/>
+        <item rate="30000" drop="(id:17005);(id:40010);(id:51009);(id:51024)"/>
+        <item rate="12000" drop="(id:60025);(id:60026)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 새도우 블루 고스트 -->
+  <type id="835">
+    <season version="901">
+      <level value="1">
+        <item rate="150000" drop="(id:60024);(id:51002);(id:51012);(id:63002)"/>
+        <item rate="30000" drop="(id:17005);(id:40010)"/>
+        <item rate="3000" drop="(id:60025)"/>
+      </level>
+      <level value="2">
+        <item rate="100000" drop="(id:60024);(id:51002);(id:51012);(id:51003);(id:51013);(id:63002)"/>
+        <item rate="30000" drop="(id:17005);(id:40010);(id:51008)"/>
+        <item rate="3000" drop="(id:60025);(id:60026)"/>
+      </level>
+      <level value="3">
+        <item rate="100000" drop="(id:60024);(id:51002);(id:51012);(id:51003);(id:51013);(id:63002)"/>
+        <item rate="30000" drop="(id:17005);(id:40010);(id:51009);(id:51024)"/>
+        <item rate="6000" drop="(id:60025);(id:60026)"/>
+      </level>
+      <level value="4">
+        <item rate="100000" drop="(id:60024);(id:51002);(id:51012);(id:51003);(id:51013);(id:63002)"/>
+        <item rate="30000" drop="(id:17005);(id:40010);(id:51009);(id:51024)"/>
+        <item rate="12000" drop="(id:60025);(id:60026)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 다크 커맨더 -->
+  <type id="836">
+    <season version="901">
+      <level value="1">
+        <item rate="500000" drop="(id:51003 count:2);(id:51008 count:2);(id:51013 count:2)"/>
+        <item rate="80000" drop="(id:65029);(id:46019);(id:46020);(id:46014)"/>
+        <item rate="20000" drop="(id:40242);(id:40241);(id:40030)"/>
+      </level>
+      <level value="2">
+        <item rate="500000" drop="(id:51003 count:3);(id:51008 count:3);(id:51013 count:3)"/>
+        <item rate="90000" drop="(id:65029);(id:46019);(id:46020);(id:46014)"/>
+        <item rate="30000" drop="(id:40242);(id:40241);(id:40030)"/>
+      </level>
+      <level value="3">
+        <item rate="500000" drop="(id:51004 count:2);(id:51009 count:2);(id:51018 count:2)"/>
+        <item rate="100000" drop="(id:65029);(id:46019);(id:46020);(id:46014)"/>
+        <item rate="40000" drop="(id:40242);(id:40241);(id:40030)"/>
+      </level>
+      <level value="4">
+        <item rate="500000" drop="(id:51004 count:2);(id:51009 count:2);(id:51018 count:2)"/>
+        <item rate="100000" drop="(id:65029);(id:46019);(id:46020);(id:46014)"/>
+        <item rate="80000" drop="(id:40242);(id:40241);(id:40030)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 아라트 연금술사 -->
+  <type id="837">
+    <season version="901">
+      <level value="1">
+        <item rate="200000" drop="(id:60007 count:2)"/>
+        <item rate="30000" drop="(id:65045);(id:65014);(id:60021);(id:60012)"/>
+        <item rate="4000" drop="(id:65029)"/>
+      </level>
+      <level value="2">
+        <item rate="200000" drop="(id:60007 count:3);(id:60006)"/>
+        <item rate="30000" drop="(id:65045);(id:60021);(id:60013)"/>
+        <item rate="6000" drop="(id:65029);(id:65015)"/>
+      </level>
+      <level value="3">
+        <item rate="200000" drop="(id:60007 count:4);(id:60006 count:2)"/>
+        <item rate="30000" drop="(id:65045);(id:60022);(id:60014)"/>
+        <item rate="8000" drop="(id:65029)"/>
+      </level>
+      <level value="4">
+        <item rate="200000" drop="(id:60007 count:4);(id:60006 count:2)"/>
+        <item rate="30000" drop="(id:65045);(id:60022);(id:60014)"/>
+        <item rate="16000" drop="(id:65029)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 도플갱어 분신 -->
+  <type id="838">
+    <season version="1001">
+      <level value="1">
+        <item rate="500000" drop="(id:65047)"/>
+      </level>
+      <level value="2">
+        <item rate="500000" drop="(id:65047)"/>
+      </level>
+      <level value="3">
+        <item rate="500000" drop="(id:65047)"/>
+      </level>
+      <level value="4">
+        <item rate="500000" drop="(id:65047)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 도플갱어  -->
+  <type id="842">
+    <season version="1001">
+      <level value="1">
+        <item rate="400000" drop="(id:51004);(id:51014);(id:65029);(id:51009)"/>
+        <item rate="30000" drop="(id:40285);(id:65029 count:2)"/>
+        <item rate="5000" drop="(id:40286 col1:000000)"/>
+      </level>
+      <level value="2">
+        <item rate="400000" drop="(id:65009 count:1~3);(id:60026);(id:51004 count:1~3);(id:51014 count:1~3);(id:51009 count:1~3)"/>
+        <item rate="30000" drop="(id:51009);(id:40012);(id:65029 count:3)"/>
+        <item rate="10000" drop="(id:40026 suffix:30632)"/>
+      </level>
+      <level value="3">
+        <item rate="400000" drop="(id:65009 count:5);(id:60026);(id:51004 count:1~3);(id:51014 count:1~3);(id:51009 count:1~3)"/>
+        <item rate="30000" drop="(id:65029 count:5)"/>
+        <item rate="10000" drop="(id:65009 count:8~10)"/>
+      </level>
+      <level value="4">
+        <item rate="400000" drop="(id:65009 count:5);(id:60026);(id:51004 count:1~3);(id:51014 count:1~3);(id:51009 count:1~3)"/>
+        <item rate="30000" drop="(id:65029 count:5)"/>
+        <item rate="20000" drop="(id:65009 count:8~10)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 대만 공모전 의상 드랍  -->
+  <type id="843">
+    <level value="1">
+      <item rate="1000000" drop="(id:19058);(id:19059)"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop="(id:19058);(id:19059)"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop="(id:19058);(id:19059)"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop="(id:19058);(id:19059)"/>
+    </level>
+  </type>
+
+  <!-- 바위 골렘 -->
+  <type id="860">
+    <season version="901">
+      <level value="1">
+        <item rate="150000" drop="(id:65005 count:1~5);(id:51002)"/>
+        <item rate="20000" drop="(id:65017 count:1~3);(id:45102 count:3~6);(id:64036);(id:52007);(id:60054)"/>
+      </level>
+      <level value="2">
+        <item rate="180000" drop="(id:65005 count:1~5);(id:51002)"/>
+        <item rate="30000" drop="(id:65017 count:1~3);(id:45102 count:3~6);(id:64036);(id:52007);(id:60054)"/>
+      </level>
+      <level value="3">
+        <item rate="210000" drop="(id:65005 count:1~5);(id:51002)"/>
+        <item rate="40000" drop="(id:65017 count:1~3);(id:45102 count:3~6);(id:64036);(id:52007);(id:60054)"/>
+      </level>
+      <level value="4">
+        <item rate="210000" drop="(id:65005 count:1~5);(id:51002)"/>
+        <item rate="40000" drop="(id:65017 count:1~3);(id:45102 count:3~6);(id:64036);(id:52007);(id:60054)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 숲 골렘 -->
+  <type id="861">
+    <season version="901">
+      <level value="1">
+        <item rate="150000" drop="(id:65005 count:1~5);(id:51104 count:1~3);(id:51002)"/>
+        <item rate="20000" drop="(id:65018 count:1~3);(id:45001 count:3~6);(id:64036);(id:60054);(id:51107 count:1~3)"/>
+      </level>
+      <level value="2">
+        <item rate="180000" drop="(id:65005 count:1~5);(id:51104 count:1~3);(id:51002)"/>
+        <item rate="30000" drop="(id:65018 count:1~3);(id:45001 count:3~6);(id:64036);(id:60054);(id:51107 count:1~3)"/>
+      </level>
+      <level value="3">
+        <item rate="210000" drop="(id:65005 count:1~5);(id:51104 count:1~3);(id:51002)"/>
+        <item rate="40000" drop="(id:65018 count:1~3);(id:45001 count:3~6);(id:64036);(id:60054);(id:51107 count:1~3)"/>
+      </level>
+      <level value="4">
+        <item rate="210000" drop="(id:65005 count:1~5);(id:51104 count:1~3);(id:51002)"/>
+        <item rate="40000" drop="(id:65018 count:1~3);(id:45001 count:3~6);(id:64036);(id:60054);(id:51107 count:1~3)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 유황 골렘 -->
+  <type id="862">
+    <season version="901">
+      <level value="1">
+        <item rate="150000" drop="(id:65005 count:1~5);(id:64053 count:1~3);(id:51002)"/>
+        <item rate="20000" drop="(id:65019);(id:45003 count:1~3);(id:64036);(id:60054)"/>
+      </level>
+      <level value="2">
+        <item rate="180000" drop="(id:65005 count:1~5);(id:64053 count:1~3);(id:51002)"/>
+        <item rate="30000" drop="(id:65019);(id:45003 count:1~3);(id:64036);(id:60054)"/>
+      </level>
+      <level value="3">
+        <item rate="210000" drop="(id:65005 count:1~5);(id:64053 count:1~3);(id:51002)"/>
+        <item rate="40000" drop="(id:65019);(id:45003 count:1~3);(id:64036);(id:60054)"/>
+      </level>
+      <level value="4">
+        <item rate="210000" drop="(id:65005 count:1~5);(id:64053 count:1~3);(id:51002)"/>
+        <item rate="40000" drop="(id:65019);(id:45003 count:1~3);(id:64036);(id:60054)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 순백 골렘 -->
+  <type id="863">
+    <season version="901">
+      <level value="1">
+        <item rate="150000" drop="(id:65005 count:5);(id:51002)"/>
+        <item rate="20000" drop="(id:65019 count:1~3);(id:45003 count:3~6);(id:64038);(id:64005)"/>
+      </level>
+      <level value="2">
+        <item rate="180000" drop="(id:65005 count:5);(id:51002)"/>
+        <item rate="30000" drop="(id:65019 count:1~3);(id:45003 count:3~6);(id:64038);(id:64005)"/>
+      </level>
+      <level value="3">
+        <item rate="210000" drop="(id:65005 count:5);(id:51002)"/>
+        <item rate="40000" drop="(id:65019 count:1~3);(id:45003 count:3~6);(id:64038);(id:64005)"/>
+      </level>
+      <level value="4">
+        <item rate="210000" drop="(id:65005 count:5);(id:51002)"/>
+        <item rate="40000" drop="(id:65019 count:1~3);(id:45003 count:3~6);(id:64038);(id:64005)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 파르홀론의 유령 (결정 미드랍) -->
+  <type id="858">
+    <season version="1101">
+      <level value="1">
+        <item rate="180000" drop="(id:51002);(id:51012);(id:51007)"/>
+        <item rate="20000" drop="(id:63000)"/>
+      </level>
+      <level value="2">
+        <item rate="210000" drop="(id:51003);(id:51013);(id:51008)"/>
+        <item rate="20000" drop="(id:63000)"/>
+      </level>
+      <level value="3">
+        <item rate="250000" drop="(id:51003);(id:51013);(id:51008)"/>
+        <item rate="20000" drop="(id:63000)"/>
+      </level>
+      <level value="4">
+        <item rate="250000" drop="(id:51003);(id:51013);(id:51008)"/>
+        <item rate="20000" drop="(id:63000)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 파르홀론의 유령 (결정 드랍) -->
+  <type id="859">
+    <season version="1101">
+      <level value="1">
+        <item rate="1000000" drop="(id:63205)"/>
+      </level>
+      <level value="2">
+        <item rate="1000000" drop="(id:63205)"/>
+      </level>
+      <level value="3">
+        <item rate="1000000" drop="(id:63205)"/>
+      </level>
+      <level value="4">
+        <item rate="1000000" drop="(id:63205)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 레프리컨 (열쇠 미드랍)-->
+  <!--<type id="871">
+		<level value="1">
+			<item rate="180000" drop="(id:65014);(id:65009);(id:65046);(id:65045);(id:65010);(id:65006 crystal_level:1 crystal_charge:5 count:1);(id:65008 crystal_level:1 crystal_charge:5 count:1);(id:65007 crystal_level:1 crystal_charge:5 count:1)"/>
+			<item rate="20000" drop="(id:60013);(id:60021);(id:60025);(id:60029);(id:51002);(id:51007);(id:51012)"/>
+		</level>
+		<level value="2">
+			<item rate="210000" drop="(id:65014);(id:65009);(id:65046);(id:65045);(id:65010);(id:65006 crystal_level:1 crystal_charge:5 count:1);(id:65008 crystal_level:1 crystal_charge:5 count:1);(id:65007 crystal_level:1 crystal_charge:5 count:1)"/>
+			<item rate="30000" drop="(id:60013);(id:60021);(id:60025);(id:60029);(id:51002);(id:51007);(id:51012)"/>
+		</level>
+		<level value="3">
+			<item rate="250000" drop="(id:65014);(id:65009);(id:65046);(id:65045);(id:65010);(id:65006 crystal_level:1 crystal_charge:5 count:1);(id:65008 crystal_level:1 crystal_charge:5 count:1);(id:65007 crystal_level:1 crystal_charge:5 count:1)"/>
+			<item rate="40000" drop="(id:60013);(id:60021);(id:60025);(id:60029);(id:51002);(id:51007);(id:51012)"/>
+		</level>
+		<level value="4">
+			<item rate="250000" drop="(id:65014);(id:65009);(id:65046);(id:65045);(id:65010);(id:65006 crystal_level:1 crystal_charge:5 count:1);(id:65008 crystal_level:1 crystal_charge:5 count:1);(id:65007 crystal_level:1 crystal_charge:5 count:1)"/>
+			<item rate="40000" drop="(id:60013);(id:60021);(id:60025);(id:60029);(id:51002);(id:51007);(id:51012)"/>
+		</level>
+	</type>
+	-->
+
+  <!-- 레프리컨 (열쇠 드랍) -->
+  <type id="870">
+    <season version="1101">
+      <level value="1">
+        <item rate="250000" drop="(id:70169 lock:chest);(id:70169 lock:chest);(id:70169 lock:chest);(id:63206)"/>
+        <item rate="180000" drop="(id:65014);(id:65009);(id:65046);(id:65045);(id:65010);(id:65006 crystal_level:1 crystal_charge:5 count:1);(id:65008 crystal_level:1 crystal_charge:5 count:1);(id:65007 crystal_level:1 crystal_charge:5 count:1)"/>
+        <item rate="20000" drop="(id:60011);(id:60019);(id:60023);(id:60027);(id:51002);(id:51007);(id:51012)"/>
+      </level>
+      <level value="2">
+        <item rate="280000" drop="(id:70169 lock:chest);(id:70169 lock:chest);(id:70169 lock:chest);(id:63206)"/>
+        <item rate="180000" drop="(id:65014);(id:65009);(id:65046);(id:65045);(id:65010);(id:65006 crystal_level:1 crystal_charge:5 count:1);(id:65008 crystal_level:1 crystal_charge:5 count:1);(id:65007 crystal_level:1 crystal_charge:5 count:1)"/>
+        <item rate="30000" drop="(id:60011);(id:60019);(id:60023);(id:60027);(id:51002);(id:51007);(id:51012))"/>
+      </level>
+      <level value="3">
+        <item rate="300000" drop="(id:70169 lock:chest);(id:70169 lock:chest);(id:70169 lock:chest);(id:63206)"/>
+        <item rate="180000" drop="(id:65014);(id:65009);(id:65046);(id:65045);(id:65010);(id:65006 crystal_level:1 crystal_charge:5 count:1);(id:65008 crystal_level:1 crystal_charge:5 count:1);(id:65007 crystal_level:1 crystal_charge:5 count:1)"/>
+        <item rate="40000" drop="(id:60011);(id:60019);(id:60023);(id:60027);(id:51002);(id:51007);(id:51012)"/>
+      </level>
+      <level value="4">
+        <item rate="300000" drop="(id:70169 lock:chest);(id:70169 lock:chest);(id:70169 lock:chest);(id:63206)"/>
+        <item rate="180000" drop="(id:65014);(id:65009);(id:65046);(id:65045);(id:65010);(id:65006 crystal_level:1 crystal_charge:5 count:1);(id:65008 crystal_level:1 crystal_charge:5 count:1);(id:65007 crystal_level:1 crystal_charge:5 count:1)"/>
+        <item rate="80000" drop="(id:60011);(id:60019);(id:60023);(id:60027);(id:51002);(id:51007);(id:51012)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 배고픈 포워르 -->
+  <type id="865">
+    <season version="1101">
+      <level value="1">
+        <item rate="180000" drop="(id:50006);(id:50004);(id:50003);(id:50002)"/>
+        <item rate="30000" drop="(id:51101 count:1~3);(id:51102 count:1~3);(id:51103 count:1~3);(id:51105 count:1~3)"/>
+      </level>
+      <level value="2">
+        <item rate="210000" drop="(id:50006);(id:50004);(id:50003);(id:50002)"/>
+        <item rate="50000" drop="(id:51101 count:1~3);(id:51102 count:1~3);(id:51103 count:1~3);(id:51105 count:1~3)"/>
+      </level>
+      <level value="3">
+        <item rate="250000" drop="(id:50006);(id:50004);(id:50003);(id:50002)"/>
+        <item rate="70000" drop="(id:51101 count:1~3);(id:51102 count:1~3);(id:51103 count:1~3);(id:51105 count:1~3)"/>
+      </level>
+      <level value="4">
+        <item rate="250000" drop="(id:50006);(id:50004);(id:50003);(id:50002)"/>
+        <item rate="70000" drop="(id:51101 count:1~3);(id:51102 count:1~3);(id:51103 count:1~3);(id:51105 count:1~3)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 녹슨 플라잉 소드 - 녹슨 롱 소드 드랍 -->
+  <type id="855">
+    <season version="1101">
+      <level value="1">
+        <item rate="1000000" drop="(id:40301 col1:78563F col2:453129 col3:55473C durability:100)"/>
+      </level>
+      <level value="2">
+        <item rate="1000000" drop="(id:40301 col1:78563F col2:453129 col3:55473C durability:100)"/>
+      </level>
+      <level value="3">
+        <item rate="1000000" drop="(id:40301 col1:78563F col2:453129 col3:55473C durability:100)"/>
+      </level>
+      <level value="4">
+        <item rate="1000000" drop="(id:40301 col1:78563F col2:453129 col3:55473C durability:100)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 녹슨 플라잉 소드 - 녹슨 롱 소드 미 드랍-->
+  <type id="875">
+    <season version="1101">
+      <level value="1">
+        <item rate="30000" drop="(id:65019 count:1~3);(id:45003 count:3~6);(id:64038)"/>
+        <item rate="20000" drop="(id:65019 count:1~3);(id:45003 count:3~6);(id:64038)"/>
+      </level>
+      <level value="2">
+        <item rate="40000" drop="(id:65019 count:1~3);(id:45003 count:3~6);(id:64038)"/>
+        <item rate="30000" drop="(id:65019 count:1~3);(id:45003 count:3~6);(id:64038)"/>
+      </level>
+      <level value="3">
+        <item rate="60000" drop="(id:65019 count:1~3);(id:45003 count:3~6);(id:64038)"/>
+        <item rate="40000" drop="(id:65019 count:1~3);(id:45003 count:3~6);(id:64038)"/>
+      </level>
+      <level value="4">
+        <item rate="60000" drop="(id:65019 count:1~3);(id:45003 count:3~6);(id:64038)"/>
+        <item rate="40000" drop="(id:65019 count:1~3);(id:45003 count:3~6);(id:64038)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 약한 왕성 매지션 -->
+  <type id="864">
+    <season version="1101">
+      <level value="1">
+        <item rate="200000" drop="(id:65029);(id:51003);(id:51013);(id:51008)"/>
+        <item rate="15000" drop="(id:65029 count:2)"/>
+        <item rate="1000" drop="(id:40233)"/>
+      </level>
+      <level value="2">
+        <item rate="200000" drop="(id:60025);(id:51003);(id:51013);(id:65029);(id:51013)"/>
+        <item rate="15000" drop="(id:40232);(id:65029 count:2)"/>
+        <item rate="2500" drop="(id:40033);(id:40258 suffix:31003)"/>
+      </level>
+      <level value="3">
+        <item rate="200000" drop="(id:60026);(id:51004);(id:51014);(id:51004);(id:51014)"/>
+        <item rate="10000" drop="(id:40231);(id:40012)"/>
+        <item rate="5000" drop="(id:40233 prefix:21407);(id:60045 suffix:31003)"/>
+      </level>
+      <level value="4">
+        <item rate="200000" drop="(id:60026);(id:51004);(id:51014);(id:51004);(id:51014)"/>
+        <item rate="10000" drop="(id:40231);(id:40012)"/>
+        <item rate="10000" drop="(id:40233 prefix:21407);(id:60045 suffix:31003)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+
+  <!-- 요리 던전 은제 식기 -->
+  <type id="873">
+    <season version="1101">
+      <level value="1">
+        <item rate="1000000" drop="(id:40302)"/>
+        <item rate="0" drop=""/>
+        <item rate="0" drop=""/>
+      </level>
+      <level value="2">
+        <item rate="1000000" drop="(id:40302)"/>
+        <item rate="0" drop=""/>
+        <item rate="0" drop=""/>
+      </level>
+      <level value="3">
+        <item rate="1000000" drop="(id:40302)"/>
+        <item rate="0" drop=""/>
+        <item rate="0" drop=""/>
+      </level>
+      <level value="4">
+        <item rate="1000000" drop="(id:40302)"/>
+        <item rate="0" drop=""/>
+        <item rate="0" drop=""/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 작은 포워르 -->
+  <type id="877">
+    <season version="1101">
+      <level value="1">
+        <item rate="200000" drop="(id:51001 count:1~2);(id:51006 count:1~2);(id:51011 count:1~2)"/>
+        <item rate="0" drop=""/>
+        <item rate="0" drop=""/>
+      </level>
+      <level value="2">
+        <item rate="1000000" drop="(id:51001 count:1~2);(id:51006 count:1~2);(id:51011 count:1~2)"/>
+        <item rate="0" drop=""/>
+        <item rate="0" drop=""/>
+      </level>
+      <level value="3">
+        <item rate="1000000" drop="(id:51001 count:2);(id:51006 count:2);(id:51011 count:2)"/>
+        <item rate="0" drop=""/>
+        <item rate="0" drop=""/>
+      </level>
+      <level value="4">
+        <item rate="1000000" drop="(id:51001 count:2);(id:51006 count:2);(id:51011 count:2)"/>
+        <item rate="0" drop=""/>
+        <item rate="0" drop=""/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 조종당하는 포워르 -->
+  <type id="878">
+    <season version="1101">
+      <level value="1">
+        <item rate="200000" drop="(id:51102);(id:62008);(id:18012 prefix:20401 suffix:30502);(id:45001);(id:63002);(id:63002)"/>
+        <item rate="20000" drop="(id:51007);(id:40007);(id:40007);(id:40081)"/>
+        <item rate="2000" drop="(id:19017)"/>
+      </level>
+      <level value="2">
+        <item rate="200000" drop="(id:60026);(id:51004);(id:51014);(id:51004);(id:51014);(id:63002)"/>
+        <item rate="30000" drop="(id:40080);(id:40012);(id:40081)"/>
+        <item rate="2000" drop="(id:40080);(id:40012)"/>
+      </level>
+      <level value="3">
+        <item rate="200000" drop="(id:45001 count:10~30);(id:51008);(id:51003);(id:63002)"/>
+        <item rate="40000" drop="(id:15000 prefix:207 suffix:10402);(id:62008);(id:40081)"/>
+        <item rate="1000" drop="(id:18002);(id:15000 prefix:1706 suffix:11205);(id:40002);(id:40002)"/>
+      </level>
+      <level value="4">
+        <item rate="200000" drop="(id:45001 count:10~30);(id:51008);(id:51003);(id:63002)"/>
+        <item rate="40000" drop="(id:15000 prefix:207 suffix:10402);(id:62008);(id:40081)"/>
+        <item rate="2000" drop="(id:18002);(id:15000 prefix:1706 suffix:11205);(id:40002);(id:40002)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 비퍼 -->
+  <type id="879">
+    <season version="1101">
+      <level value="1">
+        <item rate="200000" drop="(id:51002);(id:51003);(id:51007);(id:51008);(id:51012);(id:51013)"/>
+        <item rate="30000" drop="(id:63000)"/>
+      </level>
+      <level value="2">
+        <item rate="250000" drop="(id:51002);(id:51003);(id:51007);(id:51008);(id:51012);(id:51013)"/>
+        <item rate="35000" drop="(id:63000)"/>
+      </level>
+      <level value="3">
+        <item rate="300000" drop="(id:51002);(id:51003);(id:51007);(id:51008);(id:51012);(id:51013)"/>
+        <item rate="40000" drop="(id:63000)"/>
+      </level>
+      <level value="4">
+        <item rate="300000" drop="(id:51002);(id:51003);(id:51007);(id:51008);(id:51012);(id:51013)"/>
+        <item rate="40000" drop="(id:63000)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+
+  <!-- 듀라한 -->
+  <type id="880">
+    <season version="1101">
+      <level value="1">
+        <item rate="500000" drop="(id:51003 count:2);(id:51008 count:2);(id:51013 count:2)"/>
+        <item rate="100000" drop="(id:65029);(id:46019);(id:46020);(id:46014);(id:64596 suffix:40086)"/>
+        <item rate="5000" drop="(id:40178);(id:40030);(id:62005 prefix:20734)"/>
+      </level>
+      <level value="2">
+        <item rate="600000" drop="(id:51003 count:2);(id:51008 count:2);(id:51013 count:2)"/>
+        <item rate="150000" drop="(id:65029);(id:46019);(id:46020);(id:46014);(id:64596 suffix:40086)"/>
+        <item rate="5000" drop="(id:40178);(id:40030);(id:62005 prefix:20734)"/>
+      </level>
+      <level value="3">
+        <item rate="700000" drop="(id:51003 count:2);(id:51008 count:2);(id:51013 count:2)"/>
+        <item rate="150000" drop="(id:65029);(id:46019);(id:46020);(id:46014);(id:64596 suffix:40086)"/>
+        <item rate="10000" drop="(id:40178);(id:40030);(id:62005 prefix:20734)"/>
+      </level>
+      <level value="4">
+        <item rate="700000" drop="(id:51003 count:2);(id:51008 count:2);(id:51013 count:2)"/>
+        <item rate="150000" drop="(id:65029);(id:46019);(id:46020);(id:46014);(id:64596 suffix:40086)"/>
+        <item rate="20000" drop="(id:40178);(id:40030);(id:62005 prefix:20734)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 이상한 책 -->
+  <type id="881">
+    <season version="1101">
+      <level value="1">
+        <item rate="200000" drop="(id:64018);(id:64018);(id:64018);(id:52039 count:10);(id:64051)"/>
+        <item rate="11000" drop="(id:64521 suffix:40021);(id:64522 suffix:40022);(id:64511);(id:64501)"/>
+        <!-- 스파크 페이지 3 -->
+        <item rate="20000" drop="(id:64593 suffix:40083)"/>
+      </level>
+      <level value="2">
+        <item rate="250000" drop="(id:64018);(id:64018);(id:64018);(id:52039 count:10);(id:64051)"/>
+        <item rate="13000" drop="(id:64521 suffix:40021);(id:64522 suffix:40022);(id:64511);(id:64501)"/>
+        <!-- 스파크 페이지 3 -->
+        <item rate="40000" drop="(id:64593 suffix:40083)"/>
+      </level>
+      <level value="3">
+        <item rate="300000" drop="(id:64018);(id:64018);(id:64018);(id:52039 count:10);(id:64051)"/>
+        <item rate="15000" drop="(id:64521 suffix:40021);(id:64522 suffix:40022);(id:64511);(id:64501)"/>
+        <!-- 스파크 페이지 3 -->
+        <item rate="60000" drop="(id:64593 suffix:40083)"/>
+      </level>
+      <level value="4">
+        <item rate="300000" drop="(id:64018);(id:64018);(id:64018);(id:52039 count:10);(id:64051)"/>
+        <item rate="15000" drop="(id:64521 suffix:40021);(id:64522 suffix:40022);(id:64511);(id:64501)"/>
+        <!-- 스파크 페이지 3 -->
+        <item rate="120000" drop="(id:64593 suffix:40083)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+
+  <!-- 바실리스크-->
+  <type id="882">
+    <season version="1101">
+      <level value="1">
+        <item rate="800000" drop="(id:60023);(id:60024);(id:60025);(id:60026);(id:60027);(id:60028);(id:60029);(id:60030)"/>
+        <!-- 스파크 페이지 5 -->
+        <item rate="110000" drop="(id:16010);(id:17007);(id:40242);(id:40243);(id:64595 suffix:40085);(id:64595 suffix:40085)"/>
+        <item rate="10000" drop="(id:62005 suffix:30636)"/>
+      </level>
+      <level value="2">
+        <item rate="800000" drop="(id:60023);(id:60024);(id:60025);(id:60026);(id:60027);(id:60028);(id:60029);(id:60030)"/>
+        <!-- 스파크 페이지 5 -->
+        <item rate="160000" drop="(id:16010);(id:17007);(id:40242);(id:40243);(id:64595 suffix:40085);(id:64595 suffix:40085);(id:64595 suffix:40085)"/>
+        <item rate="15000" drop="(id:62005 suffix:30636)"/>
+      </level>
+      <level value="3">
+        <item rate="800000" drop="(id:60023);(id:60024);(id:60025);(id:60026);(id:60027);(id:60028);(id:60029);(id:60030)"/>
+        <!-- 스파크 페이지 5 -->
+        <item rate="200000" drop="(id:16010);(id:17007);(id:40242);(id:40243);(id:64595 suffix:40085);(id:64595 suffix:40085);(id:64595 suffix:40085);(id:64595 suffix:40085)"/>
+        <item rate="20000" drop="(id:62005 suffix:30636)"/>
+      </level>
+      <level value="4">
+        <item rate="800000" drop="(id:60023);(id:60024);(id:60025);(id:60026);(id:60027);(id:60028);(id:60029);(id:60030)"/>
+        <!-- 스파크 페이지 5 -->
+        <item rate="200000" drop="(id:16010);(id:17007);(id:40242);(id:40243);(id:64595 suffix:40085);(id:64595 suffix:40085);(id:64595 suffix:40085);(id:64595 suffix:40085)"/>
+        <item rate="40000" drop="(id:62005 suffix:30636)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 이상한 책 -->
+  <type id="883">
+    <season version="1101">
+      <level value="1">
+        <item rate="1000000" drop="(id:65050)"/>
+        <item rate="0" drop=""/>
+        <item rate="0" drop=""/>
+      </level>
+      <level value="2">
+        <item rate="1000000" drop="(id:65050)"/>
+        <item rate="0" drop=""/>
+        <item rate="0" drop=""/>
+      </level>
+      <level value="3">
+        <item rate="1000000" drop="(id:65050)"/>
+        <item rate="0" drop=""/>
+        <item rate="0" drop=""/>
+      </level>
+      <level value="4">
+        <item rate="1000000" drop="(id:65050)"/>
+        <item rate="0" drop=""/>
+        <item rate="0" drop=""/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 파르홀론의 서 페이지 -->
+  <!-- 1 -->
+  <type id="884">
+    <season version="1101">
+      <level value="1">
+        <item rate="1000000" drop="(id:75361)"/>
+      </level>
+      <level value="2">
+        <item rate="1000000" drop="(id:75361)"/>
+      </level>
+      <level value="3">
+        <item rate="1000000" drop="(id:75361)"/>
+      </level>
+      <level value="4">
+        <item rate="1000000" drop="(id:75361)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 2 -->
+  <type id="885">
+    <season version="1101">
+      <level value="1">
+        <item rate="1000000" drop="(id:75362)"/>
+      </level>
+      <level value="2">
+        <item rate="1000000" drop="(id:75362)"/>
+      </level>
+      <level value="3">
+        <item rate="1000000" drop="(id:75362)"/>
+      </level>
+      <level value="4">
+        <item rate="1000000" drop="(id:75362)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 3 -->
+  <type id="886">
+    <season version="1101">
+      <level value="1">
+        <item rate="1000000" drop="(id:75363)"/>
+      </level>
+      <level value="2">
+        <item rate="1000000" drop="(id:75363)"/>
+      </level>
+      <level value="3">
+        <item rate="1000000" drop="(id:75363)"/>
+      </level>
+      <level value="4">
+        <item rate="1000000" drop="(id:75363)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 4 -->
+  <type id="887">
+    <season version="1101">
+      <level value="1">
+        <item rate="1000000" drop="(id:75364)"/>
+      </level>
+      <level value="2">
+        <item rate="1000000" drop="(id:75364)"/>
+      </level>
+      <level value="3">
+        <item rate="1000000" drop="(id:75364)"/>
+      </level>
+      <level value="4">
+        <item rate="1000000" drop="(id:75364)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 5 -->
+  <type id="888">
+    <season version="1101">
+      <level value="1">
+        <item rate="1000000" drop="(id:75365)"/>
+      </level>
+      <level value="2">
+        <item rate="1000000" drop="(id:75365)"/>
+      </level>
+      <level value="3">
+        <item rate="1000000" drop="(id:75365)"/>
+      </level>
+      <level value="4">
+        <item rate="1000000" drop="(id:75365)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 6 -->
+  <type id="889">
+    <season version="1101">
+      <level value="1">
+        <item rate="1000000" drop="(id:75366)"/>
+      </level>
+      <level value="2">
+        <item rate="1000000" drop="(id:75366)"/>
+      </level>
+      <level value="3">
+        <item rate="1000000" drop="(id:75366)"/>
+      </level>
+      <level value="4">
+        <item rate="1000000" drop="(id:75366)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+
+  <!-- 7 -->
+  <type id="890">
+    <season version="1101">
+      <level value="1">
+        <item rate="1000000" drop="(id:75367)"/>
+      </level>
+      <level value="2">
+        <item rate="1000000" drop="(id:75367)"/>
+      </level>
+      <level value="3">
+        <item rate="1000000" drop="(id:75367)"/>
+      </level>
+      <level value="4">
+        <item rate="1000000" drop="(id:75367)"/>
+      </level>
+    </season>
+    <level value="1">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop=";"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop=";"/>
+    </level>
+  </type>
+  
+  <type id="904">
+    <level value="1">
+      <item rate="1000000" drop="(id:75445);"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop="(id:75445);"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop="(id:75445);"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop="(id:75445);"/>
+    </level>
+  </type>
+
+  <!-- G12 와펜 재료 드랍 2-->
+  <type id="905">
+    <level value="1">
+      <item rate="1000000" drop="(id:75446);"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop="(id:75446);"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop="(id:75446);"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop="(id:75446);"/>
+    </level>
+  </type>
+
+  <!-- G12 와펜 재료 드랍 3-->
+  <type id="906">
+    <level value="1">
+      <item rate="1000000" drop="(id:75447);"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop="(id:75447);"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop="(id:75447);"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop="(id:75447);"/>
+    </level>
+  </type>
+
+  <!-- G12 와펜 재료 드랍 4-->
+  <type id="907">
+    <level value="1">
+      <item rate="1000000" drop="(id:75448);"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop="(id:75448);"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop="(id:75448);"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop="(id:75448);"/>
+    </level>
+  </type>
+
+  <!-- G12 와펜 재료 드랍 5-->
+  <type id="908">
+    <level value="1">
+      <item rate="1000000" drop="(id:75449);"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop="(id:75449);"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop="(id:75449);"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop="(id:75449);"/>
+    </level>
+  </type>
+
+  <!-- G12 와펜 재료 드랍 6-->
+  <type id="909">
+    <level value="1">
+      <item rate="1000000" drop="(id:75450);"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop="(id:75450);"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop="(id:75450);"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop="(id:75450);"/>
+    </level>
+  </type>
+
+  <!-- G12 와펜 재료 드랍 6-->
+  <type id="910">
+    <level value="1">
+      <item rate="1000000" drop="(id:75444);"/>
+    </level>
+    <level value="2">
+      <item rate="1000000" drop="(id:75444);"/>
+    </level>
+    <level value="3">
+      <item rate="1000000" drop="(id:75444);"/>
+    </level>
+    <level value="4">
+      <item rate="1000000" drop="(id:75444);"/>
+    </level>
+  </type>
+  
+  <type id="945">
+    <level value="1">
+      <item rate="160000" drop="(id:60005 count:5~10);(id:50003);(id:51002 count:1~3);(id:60019 count:1~3)"/>
+      <item rate="50000" drop="(id:52006);"/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="2">
+      <item rate="200000" drop="(id:52006);(id:60005 count:5~10);(id:50003);(id:51002 count:1~3);"/>
+      <item rate="60000" drop="(id:51003 count:1~3);(id:60020 count:2~4)"/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="3">
+      <item rate="200000" drop="(id:52006);(id:60005 count:5~10);(id:50003);(id:51002 count:1~3);"/>
+      <item rate="60000" drop="(id:51003 count:1~3);(id:60021 count:3~5)"/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="4">
+      <item rate="200000" drop="(id:52006);(id:60005 count:5~10);(id:50003);(id:51002 count:1~3);"/>
+      <item rate="60000" drop="(id:51003 count:1~3);(id:60021 count:3~5)"/>
+      <item rate="0" drop=""/>
+    </level>
+  </type>
+  <!--펜릴-->
+  <type id="946">
+    <level value="1">
+      <item rate="160000" drop="(id:51008 count:1~3);(id:51102 count:1~3);(id:62004 count:1~3)"/>
+      <item rate="100000" drop="(id:51007 count:2~5);(id:63000 count:2~5)"/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="2">
+      <item rate="200000" drop="(id:51008 count:2~5);(id:63000 count:2~5);(id:51102 count:1~3);(id:62004 count:1~3)"/>
+      <item rate="80000" drop="(id:51007 count:2~5);(id:51009 count:1~3)"/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="3">
+      <item rate="200000" drop="(id:51008 count:2~5);(id:63000 count:2~5);(id:51102 count:1~3);(id:62004 count:1~3)"/>
+      <item rate="80000" drop="(id:51007 count:2~5);(id:51009 count:1~3)"/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="4">
+      <item rate="200000" drop="(id:51008 count:2~5);(id:63000 count:2~5);(id:51102 count:1~3);(id:62004 count:1~3)"/>
+      <item rate="80000" drop="(id:51007 count:2~5);(id:51009 count:1~3)"/>
+      <item rate="0" drop=""/>
+    </level>
+  </type>
+  <!--스노우 트롤-->
+  <type id="947">
+    <level value="1">
+      <item rate="150000" drop="(id:51012 count:1~3);(id:63002 count:1~4);(id:40020)"/>
+      <item rate="80000" drop="(id:60005 count:3~5);(id:60023 count:2~4)"/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="2">
+      <item rate="200000" drop="(id:51013 count:3~5);(id:63002 count:3~5~);(id:40020);(id:51013 count:3~5)"/>
+      <item rate="120000" drop="(id:60005 count:~);(id:60023);(id:60024: count:2~4)"/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="3">
+      <item rate="200000" drop="(id:51013 count:3~5);(id:63002 count:3~5~);(id:40020);(id:51013 count:3~5)"/>
+      <item rate="120000" drop="(id:60005 count:~);(id:60023);(id:60024: count:2~4)"/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="4">
+      <item rate="200000" drop="(id:51013 count:3~5);(id:63002 count:3~5~);(id:40020);(id:51013 count:3~5)"/>
+      <item rate="120000" drop="(id:60005 count:~);(id:60023);(id:60024: count:2~4)"/>
+      <item rate="0" drop=""/>
+    </level>
+  </type>
+  <!--스노우 트롤(보스)-->
+  <type id="948">
+    <level value="1">
+      <item rate="150000" drop="(id:51013 count:1~3);(id:63002 count:2~4);(id:40019)"/>
+      <item rate="80000" drop="(id:60005 count:3~5);(id:60023 count:2~4)"/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="2">
+      <item rate="200000" drop="(id:51013 count:3~5);(id:63002 count:3~5~);(id:40019);(id:51014 count:3~5)"/>
+      <item rate="120000" drop="(id:60005 count:3~5);(id:60023);(id:60024: count:2~4)"/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="3">
+      <item rate="200000" drop="(id:51013 count:3~5);(id:63002 count:3~5~);(id:40019);(id:51014 count:3~5)"/>
+      <item rate="120000" drop="(id:60005 count:3~5);(id:60023);(id:60024: count:2~4)"/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="4">
+      <item rate="200000" drop="(id:51013 count:3~5);(id:63002 count:3~5~);(id:40019);(id:51014 count:3~5)"/>
+      <item rate="120000" drop="(id:60005 count:3~5);(id:60023);(id:60024: count:2~4)"/>
+      <item rate="0" drop=""/>
+    </level>
+  </type>
+  <!--엘시노 고스트-->
+  <type id="949">
+    <level value="1">
+      <item rate="180000" drop="(id:65002 count:1~3);(id:65003 count:1~3);(id:65005 count:1~3);(id:65004 count:1~3);(id:65013 count:1~3);(id:65009 count:1~3);(id:65002 count:1~3);(id:65003 count:1~3);(id:65005 count:1~3);(id:65004 count:1~3);(id:65013 count:1~3);(id:65009  count:1~3);"/>
+      <item rate="0" drop=""/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="2">
+      <item rate="180000" drop="(id:65002 count:3~5);(id:65003 count:3~5);(id:65005 count:3~5);(id:65004 count:3~5);(id:65014 count:3~5);(id:65009 count:3~5);"/>
+      <item rate="0" drop=""/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="3">
+      <item rate="180000" drop="(id:65002 count:3~5);(id:65003 count:3~5);(id:65005 count:3~5);(id:65004 count:3~5);(id:65014 count:3~5);(id:65009 count:3~5);"/>
+      <item rate="0" drop=""/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="4">
+      <item rate="180000" drop="(id:65002 count:3~5);(id:65003 count:3~5);(id:65005 count:3~5);(id:65004 count:3~5);(id:65014 count:3~5);(id:65009 count:3~5);"/>
+      <item rate="0" drop=""/>
+      <item rate="0" drop=""/>
+    </level>
+  </type>
+  <!--고블린 (타워디펜스)-->
+  <type id="950">
+    <level value="1">
+      <item rate="300000" drop="(id:71037);(id:50003);(id:60023);(id:60023);(id:51002);(id:51002)"/>
+      <item rate="20000" drop="(id:51002);(id:40023 prefix:1);(id:60024);(id:60024)"/>
+      <item rate="1500" drop="(id:63000)"/>
+    </level>
+    <level value="2">
+      <item rate="300000" drop="(id:71037);(id:50003);(id:60023);(id:60023);(id:51002);(id:51002)"/>
+      <item rate="20000" drop="(id:51002);(id:40023 prefix:1);(id:60024);(id:60024)"/>
+      <item rate="1500" drop="(id:63000)"/>
+    </level>
+    <level value="3">
+      <item rate="300000" drop="(id:71037);(id:50003);(id:60023);(id:60023);(id:51002);(id:51002)"/>
+      <item rate="20000" drop="(id:51002);(id:40023 prefix:1);(id:60024);(id:60024)"/>
+      <item rate="1500" drop="(id:63000)"/>
+    </level>
+    <level value="4">
+      <item rate="300000" drop="(id:71037);(id:50003);(id:60023);(id:60023);(id:51002);(id:51002)"/>
+      <item rate="20000" drop="(id:51002);(id:40023 prefix:1);(id:60024);(id:60024)"/>
+      <item rate="3000" drop="(id:63000)"/>
+    </level>
+  </type>
+  <!--레드 고블린 (타워디펜스)-->
+  <type id="951">
+    <level value="1">
+      <item rate="10000" drop="(id:71037)"/>
+      <item rate="10000" drop=""/>
+      <item rate="2000" drop="(id:60025);(id:60026)"/>
+    </level>
+    <level value="2">
+      <item rate="10000" drop="(id:71037)"/>
+      <item rate="10000" drop=""/>
+      <item rate="2000" drop="(id:60025);(id:60026)"/>
+    </level>
+    <level value="3">
+      <item rate="10000" drop="(id:71037)"/>
+      <item rate="10000" drop=""/>
+      <item rate="2000" drop="(id:60025);(id:60026)"/>
+    </level>
+    <level value="4">
+      <item rate="10000" drop="(id:71037)"/>
+      <item rate="10000" drop=""/>
+      <item rate="4000" drop="(id:60025);(id:60026)"/>
+    </level>
+  </type>
+  <!--고블린 소드맨 (타워디펜스)-->
+  <type id="952">
+    <level value="1">
+      <item rate="600000" drop="(id:51002);(id:51012);(id:51006);(id:63000);(id:45001 count:5~10);(id:60005 count:2~4)"/>
+      <item rate="30000" drop="(id:51007);(id:51101);(id:51104)"/>
+      <item rate="3000" drop="(id:50124);(id:40010);(id:40010)"/>
+    </level>
+    <level value="2">
+      <item rate="600000" drop="(id:51002);(id:51012);(id:51006);(id:63000);(id:45001 count:5~10);(id:60005 count:2~4)"/>
+      <item rate="30000" drop="(id:51007);(id:51101);(id:51104)"/>
+      <item rate="3000" drop="(id:50124);(id:40010);(id:40010)"/>
+    </level>
+    <level value="3">
+      <item rate="600000" drop="(id:51002);(id:51012);(id:51006);(id:63000);(id:45001 count:5~10);(id:60005 count:2~4)"/>
+      <item rate="30000" drop="(id:51007);(id:51101);(id:51104)"/>
+      <item rate="3000" drop="(id:50124);(id:40010);(id:40010)"/>
+    </level>
+    <level value="4">
+      <item rate="600000" drop="(id:51002);(id:51012);(id:51006);(id:63000);(id:45001 count:5~10);(id:60005 count:2~4)"/>
+      <item rate="30000" drop="(id:51007);(id:51101);(id:51104)"/>
+      <item rate="6000" drop="(id:50124);(id:40010);(id:40010)"/>
+    </level>
+  </type>
+  <!--고블린아처 (타워디펜스)-->
+  <type id="953">
+    <level value="1">
+      <item rate="300000" drop="(id:71037);(id:50003);(id:60023);(id:51002)"/>
+      <item rate="45000" drop="(id:51002);(id:40023 prefix:1);(id:60024);(id:60024);(id:18024 suffix:30601)"/>
+      <item rate="1500" drop="(id:63000)"/>
+    </level>
+    <level value="2">
+      <item rate="300000" drop="(id:71037);(id:50003);(id:60023);(id:51002)"/>
+      <item rate="45000" drop="(id:51002);(id:40023 prefix:1);(id:60024);(id:60024);(id:18024 suffix:30601)"/>
+      <item rate="1500" drop="(id:63000)"/>
+    </level>
+    <level value="3">
+      <item rate="300000" drop="(id:71037);(id:50003);(id:60023);(id:51002)"/>
+      <item rate="45000" drop="(id:51002);(id:40023 prefix:1);(id:60024);(id:60024);(id:18024 suffix:30601)"/>
+      <item rate="1500" drop="(id:63000)"/>
+    </level>
+    <level value="4">
+      <item rate="300000" drop="(id:71037);(id:50003);(id:60023);(id:51002)"/>
+      <item rate="45000" drop="(id:51002);(id:40023 prefix:1);(id:60024);(id:60024);(id:18024 suffix:30601)"/>
+      <item rate="3000" drop="(id:63000)"/>
+    </level>
+  </type>
+  <!--레드 고블린아처 (타워디펜스)-->
+  <type id="954">
+    <level value="1">
+      <item rate="10000" drop="(id:71037)"/>
+      <item rate="10000" drop="(id:45001 count:80~100)"/>
+      <item rate="2000" drop="(id:60025);(id:60026)"/>
+    </level>
+    <level value="2">
+      <item rate="10000" drop="(id:71037)"/>
+      <item rate="10000" drop="(id:45001 count:80~100)"/>
+      <item rate="2000" drop="(id:60025);(id:60026)"/>
+    </level>
+    <level value="3">
+      <item rate="10000" drop="(id:71037)"/>
+      <item rate="10000" drop="(id:45001 count:80~100)"/>
+      <item rate="2000" drop="(id:60025);(id:60026)"/>
+    </level>
+    <level value="4">
+      <item rate="10000" drop="(id:71037)"/>
+      <item rate="10000" drop="(id:45001 count:80~100)"/>
+      <item rate="4000" drop="(id:60025);(id:60026)"/>
+    </level>
+  </type>
+  <!--흰 다이어 울프 (타워디펜스)-->
+  <type id="955">
+    <level value="1">
+      <item rate="80000" drop="(id:50006 count:2);(id:71016)"/>
+      <item rate="10000" drop="(id:51002);(id:50005);(id:40001 prefix:106 suffix:10704);(id:17025 suffix:30505)"/>
+      <item rate="1000" drop="(id:40001 prefix:6 suffix:10704)"/>
+    </level>
+    <level value="2">
+      <item rate="80000" drop="(id:50006 count:2);(id:71016)"/>
+      <item rate="10000" drop="(id:51002);(id:50005);(id:40001 prefix:106 suffix:10704);(id:17025 suffix:30505)"/>
+      <item rate="1000" drop="(id:40001 prefix:6 suffix:10704)"/>
+    </level>
+    <level value="3">
+      <item rate="80000" drop="(id:50006 count:2);(id:71016)"/>
+      <item rate="10000" drop="(id:51002);(id:50005);(id:40001 prefix:106 suffix:10704);(id:17025 suffix:30505)"/>
+      <item rate="1000" drop="(id:40001 prefix:6 suffix:10704)"/>
+    </level>
+    <level value="4">
+      <item rate="80000" drop="(id:50006 count:2);(id:71016)"/>
+      <item rate="10000" drop="(id:51002);(id:50005);(id:40001 prefix:106 suffix:10704);(id:17025 suffix:30505)"/>
+      <item rate="2000" drop="(id:40001 prefix:6 suffix:10704)"/>
+    </level>
+  </type>
+  <!--검은 다이어 울프 (타워디펜스)-->
+  <type id="956">
+    <level value="1">
+      <item rate="80000" drop="(id:50006 count:2);(id:71015)"/>
+      <item rate="10000" drop="(id:51002);(id:50005);(id:40001 prefix:1606 suffix:11101)"/>
+      <item rate="1500" drop="(id:16013);(id:40001 prefix:8)"/>
+    </level>
+    <level value="2">
+      <item rate="80000" drop="(id:50006 count:2);(id:71015)"/>
+      <item rate="10000" drop="(id:51002);(id:50005);(id:40001 prefix:1606 suffix:11101)"/>
+      <item rate="1500" drop="(id:16013);(id:40001 prefix:8)"/>
+    </level>
+    <level value="3">
+      <item rate="80000" drop="(id:50006 count:2);(id:71015)"/>
+      <item rate="10000" drop="(id:51002);(id:50005);(id:40001 prefix:1606 suffix:11101)"/>
+      <item rate="1500" drop="(id:16013);(id:40001 prefix:8)"/>
+    </level>
+    <level value="4">
+      <item rate="80000" drop="(id:50006 count:2);(id:71015)"/>
+      <item rate="10000" drop="(id:51002);(id:50005);(id:40001 prefix:1606 suffix:11101)"/>
+      <item rate="3000" drop="(id:16013);(id:40001 prefix:8)"/>
+    </level>
+  </type>
+  <!--거대 흰늑대 (타워디펜스)-->
+  <type id="957">
+    <level value="1">
+      <item rate="300000" drop="(id:63019 count:10~20);(id:51102)"/>
+      <item rate="20000" drop="(id:51007);(id:62004)"/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="2">
+      <item rate="300000" drop="(id:63019 count:10~20);(id:51102)"/>
+      <item rate="20000" drop="(id:51007);(id:62004)"/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="3">
+      <item rate="300000" drop="(id:63019 count:10~20);(id:51102)"/>
+      <item rate="20000" drop="(id:51007);(id:62004)"/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="4">
+      <item rate="300000" drop="(id:63019 count:10~20);(id:51102)"/>
+      <item rate="20000" drop="(id:51007);(id:62004)"/>
+      <item rate="0" drop=""/>
+    </level>
+  </type>
+  <!--라이트닝 스프라이트 (타워디펜스)-->
+  <type id="958">
+    <level value="1">
+      <item rate="140000" drop="(id:51007 count:1~2);(id:51007 count:1~2);(id:71063) "/>
+      <item rate="10000" drop="(id:62008)"/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="2">
+      <item rate="140000" drop="(id:51007 count:1~2);(id:51007 count:1~2);(id:71063) "/>
+      <item rate="10000" drop="(id:62008)"/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="3">
+      <item rate="140000" drop="(id:51007 count:1~2);(id:51007 count:1~2);(id:71063) "/>
+      <item rate="10000" drop="(id:62008)"/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="4">
+      <item rate="140000" drop="(id:51007 count:1~2);(id:51007 count:1~2);(id:71063) "/>
+      <item rate="10000" drop="(id:62008)"/>
+      <item rate="0" drop=""/>
+    </level>
+  </type>
+  <!--파이어 스프라이트 (타워디펜스)-->
+  <type id="959">
+    <level value="1">
+      <item rate="140000" drop="(id:51007 count:1~2);(id:51007 count:1~2);(id:71065)"/>
+      <item rate="20000" drop="(id:62006)"/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="2">
+      <item rate="140000" drop="(id:51007 count:1~2);(id:51007 count:1~2);(id:71065)"/>
+      <item rate="20000" drop="(id:62006)"/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="3">
+      <item rate="140000" drop="(id:51007 count:1~2);(id:51007 count:1~2);(id:71065)"/>
+      <item rate="20000" drop="(id:62006)"/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="4">
+      <item rate="140000" drop="(id:51007 count:1~2);(id:51007 count:1~2);(id:71065)"/>
+      <item rate="20000" drop="(id:62006)"/>
+      <item rate="0" drop=""/>
+    </level>
+  </type>
+  <!--아이스 스프라이트 (타워디펜스)-->
+  <type id="960">
+    <level value="1">
+      <item rate="140000" drop="(id:51007 count:1~3);(id:51007 count:1~2);(id:71064)"/>
+      <item rate="10000" drop="(id:62007);(id:64505)"/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="2">
+      <item rate="140000" drop="(id:51007 count:1~3);(id:51007 count:1~2);(id:71064)"/>
+      <item rate="10000" drop="(id:62007);(id:64505)"/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="3">
+      <item rate="140000" drop="(id:51007 count:1~3);(id:51007 count:1~2);(id:71064)"/>
+      <item rate="10000" drop="(id:62007);(id:64505)"/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="4">
+      <item rate="140000" drop="(id:51007 count:1~3);(id:51007 count:1~2);(id:71064)"/>
+      <item rate="10000" drop="(id:62007);(id:64505)"/>
+      <item rate="0" drop=""/>
+    </level>
+  </type>
+  <!--오거 전사 (타워디펜스)-->
+  <type id="961">
+    <level value="1">
+      <item rate="350000" drop="(id:63019 count:10~20);(id:63019 count:10~20);(id:63019 count:10~20)"/>
+      <item rate="30000" drop="(id:51007);(id:63000);(id:17009 suffix:30902);(manual:20111)"/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="2">
+      <item rate="350000" drop="(id:63019 count:10~20);(id:63019 count:10~20);(id:63019 count:10~20)"/>
+      <item rate="30000" drop="(id:51007);(id:63000);(id:17009 suffix:30902);(manual:20111)"/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="3">
+      <item rate="350000" drop="(id:63019 count:10~20);(id:63019 count:10~20);(id:63019 count:10~20)"/>
+      <item rate="30000" drop="(id:51007);(id:63000);(id:17009 suffix:30902);(manual:20111)"/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="4">
+      <item rate="350000" drop="(id:63019 count:10~20);(id:63019 count:10~20);(id:63019 count:10~20);(id:63104 expire:600);(id:63104 expire:600);(id:63104 expire:600);(id:63119 expire:480)"/>
+      <item rate="30000" drop="(id:51007);(id:63000);(id:17009 suffix:30902);(manual:20111)"/>
+      <item rate="0" drop=""/>
+    </level>
+  </type>
+  <!--오거 도살자 (타워디펜스)-->
+  <type id="962">
+    <level value="1">
+      <item rate="300000" drop="(id:51002);(id:51012);(id:51007);(id:60025);(id:60025);(id:60025)"/>
+      <item rate="10000" drop="(id:60029)"/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="2">
+      <item rate="300000" drop="(id:51002);(id:51012);(id:51007);(id:60025);(id:60025);(id:60025)"/>
+      <item rate="10000" drop="(id:60029)"/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="3">
+      <item rate="300000" drop="(id:51002);(id:51012);(id:51007);(id:60025);(id:60025);(id:60025)"/>
+      <item rate="10000" drop="(id:60029)"/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="4">
+      <item rate="300000" drop="(id:51002);(id:51012);(id:51007);(id:60025);(id:60025);(id:60025)"/>
+      <item rate="10000" drop="(id:60029)"/>
+      <item rate="0" drop=""/>
+    </level>
+  </type>
+  <!--사이클롭스 (타워디펜스)-->
+  <type id="963">
+    <level value="1">
+      <item rate="400000" drop="(id:63019 count:20~30);(id:51102);(id:18045)"/>
+      <item rate="20000" drop="(id:51013 count:3~5)"/>
+      <item rate="10000" drop="(id:40078 col1:e0d010 col2:c00010 durability:1000)"/>
+    </level>
+    <level value="2">
+      <item rate="400000" drop="(id:63019 count:20~30);(id:51102);(id:18045)"/>
+      <item rate="20000" drop="(id:51013 count:3~5)"/>
+      <item rate="10000" drop="(id:40078 col1:e0d010 col2:c00010 durability:1000)"/>
+    </level>
+    <level value="3">
+      <item rate="400000" drop="(id:63019 count:20~30);(id:51102);(id:18045)"/>
+      <item rate="20000" drop="(id:51013 count:3~5)"/>
+      <item rate="10000" drop="(id:40078 col1:e0d010 col2:c00010 durability:1000)"/>
+    </level>
+    <level value="4">
+      <item rate="400000" drop="(id:63019 count:20~30);(id:51102);(id:18045)"/>
+      <item rate="20000" drop="(id:51013 count:3~5)"/>
+      <item rate="20000" drop="(id:40078 col1:e0d010 col2:c00010 durability:1000)"/>
+    </level>
+  </type>
+  <!--고블린 G13-->
+  <type id="964">
+    <level value="1">
+      <item rate="300000" drop="(id:71037);(id:50003);(id:60023);(id:60023);(id:51002);(id:51002)"/>
+      <item rate="20000" drop="(id:51002);(id:40023 prefix:1);(id:60024);(id:60024)"/>
+      <item rate="1500" drop="(id:63000)"/>
+    </level>
+    <level value="2">
+      <item rate="300000" drop="(id:71037);(id:50003);(id:60023);(id:60023);(id:51002);(id:51002)"/>
+      <item rate="20000" drop="(id:51002);(id:40023 prefix:1);(id:60024);(id:60024)"/>
+      <item rate="1500" drop="(id:63000)"/>
+    </level>
+    <level value="3">
+      <item rate="300000" drop="(id:71037);(id:50003);(id:60023);(id:60023);(id:51002);(id:51002)"/>
+      <item rate="20000" drop="(id:51002);(id:40023 prefix:1);(id:60024);(id:60024)"/>
+      <item rate="1500" drop="(id:63000)"/>
+    </level>
+    <level value="4">
+      <item rate="300000" drop="(id:71037);(id:50003);(id:60023);(id:60023);(id:51002);(id:51002)"/>
+      <item rate="20000" drop="(id:51002);(id:40023 prefix:1);(id:60024);(id:60024)"/>
+      <item rate="3000" drop="(id:63000)"/>
+    </level>
+  </type>
+  <!--고블린아처 G13-->
+  <type id="965">
+    <level value="1">
+      <item rate="300000" drop="(id:71037);(id:50003);(id:60023);(id:51002)"/>
+      <item rate="45000" drop="(id:51002);(id:40023 prefix:1);(id:60024);(id:60024);(id:18024 suffix:30601);(id:63123 expire:480);(id:63124 expire:480);(id:63125 expire:480);"/>
+      <item rate="1500" drop="(id:63000)"/>
+    </level>
+    <level value="2">
+      <item rate="300000" drop="(id:71037);(id:50003);(id:60023);(id:51002)"/>
+      <item rate="45000" drop="(id:51002);(id:40023 prefix:1);(id:60024);(id:60024);(id:18024 suffix:30601);(id:63123 expire:480);(id:63124 expire:480);(id:63125 expire:480);"/>
+      <item rate="1500" drop="(id:63000)"/>
+    </level>
+    <level value="3">
+      <item rate="300000" drop="(id:71037);(id:50003);(id:60023);(id:51002)"/>
+      <item rate="45000" drop="(id:51002);(id:40023 prefix:1);(id:60024);(id:60024);(id:18024 suffix:30601);(id:63123 expire:480);(id:63124 expire:480);(id:63125 expire:480);"/>
+      <item rate="1500" drop="(id:63000)"/>
+    </level>
+    <level value="4">
+      <item rate="300000" drop="(id:71037);(id:50003);(id:60023);(id:51002)"/>
+      <item rate="45000" drop="(id:51002);(id:40023 prefix:1);(id:60024);(id:60024);(id:18024 suffix:30601);(id:63123 expire:480);(id:63124 expire:480);(id:63125 expire:480);"/>
+      <item rate="3000" drop="(id:63000)"/>
+    </level>
+  </type>
+  <!--검은 늑대 G13-->
+  <type id="967">
+    <level value="1">
+      <item rate="110000" drop="(id:45001 count:10~30);(id:45001 count:10~30);(id:71010);(id:71010);(id:51007);(id:51007);(id:63049)"/>
+      <item rate="20000" drop="(id:50006 count:3~5);(id:15003 prefix:306 suffix:11303);(id:40001 prefix:20103)"/>
+      <item rate="1500" drop="(id:40006);(id:15003 prefix:305)"/>
+    </level>
+    <level value="2">
+      <item rate="110000" drop="(id:45001 count:10~30);(id:45001 count:10~30);(id:71010);(id:71010);(id:51007);(id:51007);(id:63049)"/>
+      <item rate="20000" drop="(id:50006 count:3~5);(id:15003 prefix:306 suffix:11303);(id:40001 prefix:20103)"/>
+      <item rate="1500" drop="(id:40006);(id:15003 prefix:305)"/>
+    </level>
+    <level value="3">
+      <item rate="110000" drop="(id:45001 count:10~30);(id:45001 count:10~30);(id:71010);(id:71010);(id:51007);(id:51007);(id:63049)"/>
+      <item rate="20000" drop="(id:50006 count:3~5);(id:15003 prefix:306 suffix:11303);(id:40001 prefix:20103)"/>
+      <item rate="1500" drop="(id:40006);(id:15003 prefix:305)"/>
+    </level>
+    <level value="4">
+      <item rate="110000" drop="(id:45001 count:10~30);(id:45001 count:10~30);(id:71010);(id:71010);(id:51007);(id:51007);(id:63049)"/>
+      <item rate="20000" drop="(id:50006 count:3~5);(id:15003 prefix:306 suffix:11303);(id:40001 prefix:20103)"/>
+      <item rate="3000" drop="(id:40006);(id:15003 prefix:305)"/>
+    </level>
+  </type>
+  <!--검은 다이어 울프 G13-->
+  <type id="968">
+    <level value="1">
+      <item rate="40000" drop="(id:50006 count:1);(id:71015)"/>
+      <item rate="10000" drop="(id:51001);(id:50005)"/>
+      <item rate="1000" drop="(id:19003)"/>
+    </level>
+    <level value="2">
+      <item rate="40000" drop="(id:50006 count:1);(id:71015)"/>
+      <item rate="10000" drop="(id:51001);(id:50005)"/>
+      <item rate="1000" drop="(id:19003)"/>
+    </level>
+    <level value="3">
+      <item rate="40000" drop="(id:50006 count:1);(id:71015)"/>
+      <item rate="10000" drop="(id:51001);(id:50005)"/>
+      <item rate="1000" drop="(id:19003)"/>
+    </level>
+    <level value="4">
+      <item rate="40000" drop="(id:50006 count:1);(id:71015)"/>
+      <item rate="10000" drop="(id:51001);(id:50005)"/>
+      <item rate="2000" drop="(id:19003)"/>
+    </level>
+  </type>
+  <!--재빠른 흡혈박쥐  G13-->
+  <type id="969">
+    <level value="1">
+      <item rate="300000" drop="(id:51001);(id:71031);(id:51011)"/>
+      <item rate="20000" drop="(id:45001 count:30~50);(id:40001 prefix:20101)"/>
+      <item rate="1000" drop="(id:15000)"/>
+    </level>
+    <level value="2">
+      <item rate="300000" drop="(id:51001);(id:71031);(id:51011)"/>
+      <item rate="20000" drop="(id:45001 count:30~50);(id:40001 prefix:20101)"/>
+      <item rate="1000" drop="(id:15000)"/>
+    </level>
+    <level value="3">
+      <item rate="300000" drop="(id:51001);(id:71031);(id:51011)"/>
+      <item rate="20000" drop="(id:45001 count:30~50);(id:40001 prefix:20101)"/>
+      <item rate="1000" drop="(id:15000)"/>
+    </level>
+    <level value="4">
+      <item rate="300000" drop="(id:51001);(id:71031);(id:51011)"/>
+      <item rate="20000" drop="(id:45001 count:30~50);(id:40001 prefix:20101)"/>
+      <item rate="2000" drop="(id:15000)"/>
+    </level>
+  </type>
+  <!--클로커 G13-->
+  <type id="970">
+    <level value="1">
+      <item rate="600000" drop="(id:52004);(id:52005);(id:52006);(id:52007);(id:60027);(id:51104)"/>
+      <item rate="50000" drop="(id:51102);(id:62012)"/>
+      <item rate="1000" drop="(id:62005 prefix:20714)"/>
+    </level>
+    <level value="2">
+      <item rate="600000" drop="(id:52004);(id:52005);(id:52006);(id:52007);(id:60027);(id:51104)"/>
+      <item rate="50000" drop="(id:51102);(id:62012)"/>
+      <item rate="1000" drop="(id:62005 prefix:20714)"/>
+    </level>
+    <level value="3">
+      <item rate="600000" drop="(id:52004);(id:52005);(id:52006);(id:52007);(id:60027);(id:51104)"/>
+      <item rate="50000" drop="(id:51102);(id:62012)"/>
+      <item rate="1000" drop="(id:62005 prefix:20714)"/>
+    </level>
+    <level value="4">
+      <item rate="600000" drop="(id:52004);(id:52005);(id:52006);(id:52007);(id:60027);(id:51104)"/>
+      <item rate="50000" drop="(id:51102);(id:62012)"/>
+      <item rate="2000" drop="(id:62005 prefix:20714)"/>
+    </level>
+  </type>
+  <!--고스트 클로커 G13-->
+  <type id="971">
+    <level value="1">
+      <item rate="600000" drop="(id:52004);(id:52005);(id:52006);(id:52007);(id:60027);(id:51104)"/>
+      <item rate="20000" drop="(id:51102);(id:62012)"/>
+      <item rate="1000" drop="(id:62005 prefix:20714)"/>
+    </level>
+    <level value="2">
+      <item rate="600000" drop="(id:52004);(id:52005);(id:52006);(id:52007);(id:60027);(id:51104)"/>
+      <item rate="20000" drop="(id:51102);(id:62012)"/>
+      <item rate="1000" drop="(id:62005 prefix:20714)"/>
+    </level>
+    <level value="3">
+      <item rate="600000" drop="(id:52004);(id:52005);(id:52006);(id:52007);(id:60027);(id:51104)"/>
+      <item rate="20000" drop="(id:51102);(id:62012)"/>
+      <item rate="1000" drop="(id:62005 prefix:20714)"/>
+    </level>
+    <level value="4">
+      <item rate="600000" drop="(id:52004);(id:52005);(id:52006);(id:52007);(id:60027);(id:51104)"/>
+      <item rate="20000" drop="(id:51102);(id:62012)"/>
+      <item rate="2000" drop="(id:62005 prefix:20714)"/>
+    </level>
+  </type>
+  <!--회색 도시쥐 G13-->
+  <type id="972">
+    <level value="1">
+      <item rate="300000" drop="(id:50002);(id:71034);(id:51011)"/>
+      <item rate="10000" drop="(id:50001)"/>
+      <item rate="1000" drop="(id:15000)"/>
+    </level>
+    <level value="2">
+      <item rate="300000" drop="(id:50002);(id:71034);(id:51011)"/>
+      <item rate="10000" drop="(id:50001)"/>
+      <item rate="1000" drop="(id:15000)"/>
+    </level>
+    <level value="3">
+      <item rate="300000" drop="(id:50002);(id:71034);(id:51011)"/>
+      <item rate="10000" drop="(id:50001)"/>
+      <item rate="1000" drop="(id:15000)"/>
+    </level>
+    <level value="4">
+      <item rate="300000" drop="(id:50002);(id:71034);(id:51011)"/>
+      <item rate="10000" drop="(id:50001)"/>
+      <item rate="2000" drop="(id:15000)"/>
+    </level>
+  </type>
+  <!--갈색 도시쥐 G13-->
+  <type id="973">
+    <level value="1">
+      <item rate="300000" drop="(id:50002);(id:71034);(id:51011)"/>
+      <item rate="10000" drop="(id:50001)"/>
+      <item rate="1000" drop="(id:15000)"/>
+    </level>
+    <level value="2">
+      <item rate="300000" drop="(id:50002);(id:71034);(id:51011)"/>
+      <item rate="10000" drop="(id:50001)"/>
+      <item rate="1000" drop="(id:15000)"/>
+    </level>
+    <level value="3">
+      <item rate="300000" drop="(id:50002);(id:71034);(id:51011)"/>
+      <item rate="10000" drop="(id:50001)"/>
+      <item rate="1000" drop="(id:15000)"/>
+    </level>
+    <level value="4">
+      <item rate="300000" drop="(id:50002);(id:71034);(id:51011)"/>
+      <item rate="10000" drop="(id:50001)"/>
+      <item rate="2000" drop="(id:15000)"/>
+    </level>
+  </type>
+  <!--설원 거미-->
+  <type id="977">
+    <level value="1">
+      <item rate="150000" drop="(id:60008);(id:51075)"/>
+      <item rate="20000" drop="(id:62007);(id:65034 crystal_level:5 crystal_charge:5)"/>
+      <item rate="1000" drop="(id:40039);(id:60069)"/>
+    </level>
+    <level value="2">
+      <item rate="150000" drop="(id:60008);(id:51075)"/>
+      <item rate="20000" drop="(id:62007);(id:65034 crystal_level:7 crystal_charge:5)"/>
+      <item rate="2000" drop="(id:40039);(id:60069);(id:12283)"/>
+    </level>
+    <level value="3">
+      <item rate="150000" drop="(id:60008);(id:51075)"/>
+      <item rate="20000" drop="(id:62007);(id:65034 crystal_level:10 crystal_charge:5)"/>
+      <item rate="4000" drop="(id:40039);(id:60069);(id:12283)"/>
+    </level>
+    <level value="4">
+      <item rate="150000" drop="(id:60008);(id:51075)"/>
+      <item rate="20000" drop="(id:62007);(id:65034 crystal_level:10 crystal_charge:5)"/>
+      <item rate="4000" drop="(id:40039);(id:60069);(id:12283)"/>
+    </level>
+  </type>
+  <!--스노우 트롤-->
+  <type id="978">
+    <level value="1">
+      <item rate="20000" drop="(id:65046)"/>
+      <item rate="500" drop="(id:40378);(id:12284)"/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="2">
+      <item rate="20000" drop="(id:65046)"/>
+      <item rate="1000" drop="(id:40378);(id:12284);(id:60072)"/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="3">
+      <item rate="20000" drop="(id:65046);(id:64043 size:2);(id:64048 size:2)"/>
+      <item rate="2000" drop="(id:40378);(id:12284);(id:60072)"/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="4">
+      <item rate="20000" drop="(id:65046);(id:64043 size:2);(id:64048 size:2)"/>
+      <item rate="2000" drop="(id:40378);(id:12284);(id:60072)"/>
+      <item rate="0" drop=""/>
+    </level>
+  </type>
+  <!--성벽골렘-->
+  <type id="979">
+    <level value="1">
+      <item rate="100000" drop="(id:65014);(id:64044 size:2);(id:64042 size:2)"/>
+      <item rate="5000" drop="(id:40381);(id:12283)"/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="2">
+      <item rate="100000" drop="(id:65015);(id:64044 size:3);(id:64042 size:3)"/>
+      <item rate="10000" drop="(id:40381);(id:12283)"/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="3">
+      <item rate="100000" drop="(id:65016);(id:64044 size:4);(id:64042 size:4)"/>
+      <item rate="20000" drop="(id:40381);(id:12283);(id:64050 size:2)"/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="4">
+      <item rate="100000" drop="(id:65016);(id:64044 size:4);(id:64042 size:4)"/>
+      <item rate="20000" drop="(id:40381);(id:12283);(id:64050 size:2)"/>
+      <item rate="0" drop=""/>
+    </level>
+  </type>
+  <!--스노우 트롤 보스-->
+  <type id="980">
+    <level value="1">
+      <item rate="30000" drop="(id:40232);(id:64045 size:2);(id:64046 size:2)"/>
+      <item rate="4000" drop="(id:40265);(id:60072);(id:12284)"/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="2">
+      <item rate="40000" drop="(id:40232);(id:64045 size:3);(id:64046 size:3)"/>
+      <item rate="10000" drop="(id:40265);(id:60072);(id:12284)"/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="3">
+      <item rate="60000" drop="(id:40232);(id:64045 size:4);(id:64046 size:4)"/>
+      <item rate="20000" drop="(id:40265);(id:60072);(id:12284)"/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="4">
+      <item rate="60000" drop="(id:40232);(id:64045 size:4);(id:64046 size:4)"/>
+      <item rate="20000" drop="(id:40265);(id:60072);(id:12284)"/>
+      <item rate="0" drop=""/>
+    </level>
+  </type>  
+  <!--스켈레톤 오거-->
+  <type id="982">
+      <level value="1">
+        <item rate="250000" drop="(id:51002);(id:51012);(id:51006);(id:63000);(id:45001 count:5~10);(id:60005 count:2~4)"/>
+        <item rate="30000" drop="(id:51007);(id:51101);(id:51104);(id:51103);(id:51109)"/>
+        <item rate="1000" drop="(id:60025);(id:40178)"/>
+      </level>
+      <level value="2">
+        <item rate="300000" drop="(id:51003);(id:51013);(id:51007);(id:63000);(id:45001 count:5~10);(id:60005 count:2~4)"/>
+        <item rate="40000" drop="(id:51008);(id:51101);(id:51104);(id:51103);(id:51109)"/>
+        <item rate="2000" drop="(id:60025);(id:40178)"/>
+      </level>
+      <level value="3">
+        <item rate="350000" drop="(id:51004);(id:51014);(id:51008);(id:63000);(id:45001 count:5~10);(id:60005 count:2~4)"/>
+        <item rate="70000" drop="(id:51008);(id:51101);(id:51104);(id:51103);(id:51109);"/>
+        <item rate="3000" drop="(id:60025);(id:40178)"/>
+      </level>
+      <level value="4">
+        <item rate="350000" drop="(id:51004);(id:51014);(id:51008);(id:63000);(id:45001 count:5~10);(id:60005 count:2~4)"/>
+        <item rate="70000" drop="(id:51008);(id:51101);(id:51104);(id:51103);(id:51109);"/>
+        <item rate="3000" drop="(id:60025);(id:40178)"/>
+      </level>
+  </type>
+  <!--그림리퍼 보스-->
+  <type id="983">
+    <level value="1">
+      <item rate="30000" drop="(id:40382);(id:40383);(id:64047 size:2);(id:64048 size:2)"/>
+      <item rate="4000" drop="(id:40265);(id:60072);(id:12284)"/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="2">
+      <item rate="40000" drop="(id:40382);(id:40383);(id:64047 size:3);(id:64048 size:3)"/>
+      <item rate="4000" drop="(id:40348);(id:60072);(id:12284)"/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="3">
+      <item rate="60000" drop="(id:40382);(id:40383);(id:64047 size:4);(id:64048 size:4)"/>
+      <item rate="8000" drop="(id:40348);(id:60072);(id:12284)"/>
+      <item rate="0" drop=""/>
+    </level>
+    <level value="4">
+      <item rate="60000" drop="(id:40382);(id:40383);(id:64047 size:4);(id:64048 size:4)"/>
+      <item rate="12000" drop="(id:40348);(id:60072);(id:12284)"/>
+      <item rate="0" drop=""/>
+    </level>
+  </type>  
+  <!--타워 디펜스 스노우 트롤-->
+  <type id="985">
+    <level value="1">
+      <item rate="20000" drop="(id:65046)"/>
+      <item rate="500" drop="(id:12284)"/>
+      <item rate="100" drop="(id:40378)"/>
+    </level>
+    <level value="2">
+      <item rate="20000" drop="(id:65046)"/>
+      <item rate="500" drop="(id:12284);(id:60072)"/>
+      <item rate="100" drop="(id:40378)"/>
+    </level>
+    <level value="3">
+      <item rate="20000" drop="(id:65046);(id:64043 size:2);(id:64048 size:2)"/>
+      <item rate="1000" drop="(id:12284);(id:60072)"/>
+      <item rate="100" drop="(id:40378)"/>
+    </level>
+    <level value="4">
+      <item rate="20000" drop="(id:65046);(id:64043 size:2);(id:64048 size:2)"/>
+      <item rate="1000" drop="(id:12284);(id:60072)"/>
+      <item rate="100" drop="(id:40378)"/>
+    </level>
+  </type>
+  <!--타워 디펜스 스노우 트롤 보스-->
+  <type id="986">
+    <level value="1">
+      <item rate="30000" drop="(id:40232);(id:64045 size:2);(id:64046 size:2)"/>
+      <item rate="2000" drop="(id:60072);(id:12284)"/>
+      <item rate="50" drop="(id:40265)"/>
+    </level>
+    <level value="2">
+      <item rate="40000" drop="(id:40232);(id:64045 size:3);(id:64046 size:3)"/>
+      <item rate="10000" drop="(id:60072);(id:12284)"/>
+      <item rate="50" drop="(id:40265)"/>
+    </level>
+    <level value="3">
+      <item rate="60000" drop="(id:40232);(id:64045 size:4);(id:64046 size:4)"/>
+      <item rate="20000" drop="(id:60072);(id:12284)"/>
+      <item rate="50" drop="(id:40265)"/>
+    </level>
+    <level value="4">
+      <item rate="60000" drop="(id:40232);(id:64045 size:4);(id:64046 size:4)"/>
+      <item rate="20000" drop="(id:60072);(id:12284)"/>
+      <item rate="50" drop="(id:40265)"/>
+    </level>
+  </type>
+
+</itemdroptable>
